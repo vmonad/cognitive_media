@@ -18,7 +18,7 @@
 
 ### Blood of the Crown — The Seven Kingdoms (Pilot)
 
-https://github.com/user-attachments/assets/3cdfc310-bf2b-4abb-892f-0a68920d4ce1
+[![Blood of the Crown](https://img.youtube.com/vi/ajjJ_mO1X1Y/maxresdefault.jpg)](https://youtu.be/ajjJ_mO1X1Y)
 
 King Edran is betrayed and murdered in a coup by the sorceress Morgath. His queen flees with their newborn daughter while Morgath keeps the infant prince alive for a dark ritual — eighteen years later, the exiled princess discovers who she truly is.
 
@@ -28,7 +28,7 @@ King Edran is betrayed and murdered in a coup by the sorceress Morgath. His quee
 
 ### Red and Fox
 
-https://github.com/user-attachments/assets/b3d05c7f-b0d8-40ff-b971-1695583b7f4d
+[![Red and Fox](https://img.youtube.com/vi/UGn5eXXlV0o/maxresdefault.jpg)](https://youtu.be/UGn5eXXlV0o)
 
 Red plots to escape her grandmother's tyranny with the help of her lover, the wolfish outsider known as The Fox. They stage the perfect crime — but in the silence that follows, Red discovers the inheritance comes with a cost no one mentioned.
 
@@ -38,7 +38,7 @@ Red plots to escape her grandmother's tyranny with the help of her lover, the wo
 
 ### The Inhabited Realm
 
-https://github.com/user-attachments/assets/014ed056-9fe3-445b-ad67-ef63beb27b5c
+[![The Inhabited Realm](https://img.youtube.com/vi/tLOEo3iDARc/maxresdefault.jpg)](https://youtu.be/tLOEo3iDARc)
 
 In the late 2030s, a terrorist attack during an immersive neural cinema premiere kills civilian Mara mid-transfer, trapping her consciousness inside a collapsing simulation. Inside the fragmented digital reality, an NPC achieves self-awareness — and the line between real and generated dissolves.
 
@@ -48,7 +48,7 @@ In the late 2030s, a terrorist attack during an immersive neural cinema premiere
 
 ### The Seven Shattered Crowns
 
-https://github.com/user-attachments/assets/f4588398-f10a-4b21-8a18-be80641b5447
+[![The Seven Shattered Crowns](https://img.youtube.com/vi/bBWKVtdNAx8/maxresdefault.jpg)](https://youtu.be/bBWKVtdNAx8)
 
 The generation-long peace uniting seven kingdoms shatters with the poisoning of King Aldric, unleashing a prophecy of fire. Three ruthless contenders — a calculating queen, a strategic prince, and a wild northern warlord — plunge the continent into war.
 
