@@ -18,8 +18,7 @@
 
 ### Blood of the Crown — The Seven Kingdoms (Pilot)
 
-
-
+https://github.com/user-attachments/assets/3cdfc310-bf2b-4abb-892f-0a68920d4ce1
 
 King Edran is betrayed and murdered in a coup by the sorceress Morgath. His queen flees with their newborn daughter while Morgath keeps the infant prince alive for a dark ritual — eighteen years later, the exiled princess discovers who she truly is.
 
@@ -29,7 +28,7 @@ King Edran is betrayed and murdered in a coup by the sorceress Morgath. His quee
 
 ### Red and Fox
 
-https://github.com/vmonad/cognitive_media/raw/main/red_and_fox/preview.mp4
+https://github.com/user-attachments/assets/b3d05c7f-b0d8-40ff-b971-1695583b7f4d
 
 Red plots to escape her grandmother's tyranny with the help of her lover, the wolfish outsider known as The Fox. They stage the perfect crime — but in the silence that follows, Red discovers the inheritance comes with a cost no one mentioned.
 
@@ -39,7 +38,7 @@ Red plots to escape her grandmother's tyranny with the help of her lover, the wo
 
 ### The Inhabited Realm
 
-https://github.com/vmonad/cognitive_media/raw/main/inhabited_realm/preview.mp4
+https://github.com/user-attachments/assets/014ed056-9fe3-445b-ad67-ef63beb27b5c
 
 In the late 2030s, a terrorist attack during an immersive neural cinema premiere kills civilian Mara mid-transfer, trapping her consciousness inside a collapsing simulation. Inside the fragmented digital reality, an NPC achieves self-awareness — and the line between real and generated dissolves.
 
