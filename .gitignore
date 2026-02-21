@@ -1,0 +1,4 @@
+# Temporary MoviePy files
+*TEMP_MPY*
+__pycache__/
+*.pyc

@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_exterior_rain_storm.png",
+            "Reference establishing shot of location 'cottage_exterior_rain_storm': The cottage exterior during a violent, heavy downpour at night. Rain hammers the thatched roof in continuous sheets, causing the surrounding path to turn to mud. A flash of lightning briefly scrapes stark light across the wet, dark stonework walls and enhances the appearance of the sodden, dead garden. The atmosphere is chaotic, loud, and metaphoric of severe consequence."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_back_garden_night.png",
+            "Reference establishing shot of location 'cottage_back_garden_night': The rear exterior of the cottage at deep night. Focus is on the stonework foundation and a small, unlatched back window from which a faint, warm firelight glows. Low-hanging fog drifts across the stones. The surrounding back garden is overgrown and dark. The night sky above the chimney is inky black. The atmosphere is one of approaching, quiet danger."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale establishing wide shot taken from the dark tree line at night. The composition is dominated by the silhouette of dense, overgrown foliage in the foreground, referencing the dark trees in Image 1 and Image 5. The core element is the distant, small, isolated cottage structure, which should reference the cottage structure from Image 5. Faint, weak, warm firelight emanates only from the small, unlatched back window of the cottage, referencing the window light in Image 4, creating a focal point against the ink-black sky. The ground between the camera and the cottage is characterized by overgrown garden elements and dark, damp earth, referencing the dark, overgrown foreground detail in Image 4. Volumetric fog, illuminated faintly near the ground, drifts low across the stone foundation of the cottage, referencing the fog near the foundation in Image 4. The chimney stack is visible, from which a subtle plume of smoke curls upward, almost invisible against the harsh darkness, similar to the smoke in Image 5. Lighting must adhere to the dark, night setting with chiaroscuro shadows and warm firelight pockets, maintaining the photorealistic dark fairy tale style with 35mm film grain texture."
+}

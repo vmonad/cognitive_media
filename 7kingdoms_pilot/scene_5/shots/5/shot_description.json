@@ -1,0 +1,18 @@
+{
+    "idx": 5,
+    "is_last": false,
+    "cam_idx": 5,
+    "visual_desc": "CLOSE UP on <Queen Lyara>. Tears track clean paths down the weathered lines of her face, visible in the intricate texture of her skin. Her chin trembles noticeably, but her gaze on <Elara> is locked with desperate clarity. The warm, natural light of the clearing catches the moisture on her cheeks. <Queen Lyara> responds, breath catching: \"Since the night I carried you through the dark. Since the night I left your brother behind.\"",
+    "variation_type": "small",
+    "variation_reason": "This shot is a static close-up focusing only on the emotional response and dialogue delivery of the visible character. The primary change is minimal, limited to the character's immediate reaction (catching breath) while speaking, which constitutes a small variation in posture and facial tension.",
+    "ff_desc": "A photorealistic medieval fantasy close-up, shot with an anamorphic lens, focusing intimately on Queen Lyara. Her beautiful face, characterized by olive skin and amber eyes, shows visible weathering lines; tears are visibly tracking paths down her cheeks, catching the warm, natural light filtering into the clearing. Her chin exhibits a noticeable tremor, but her gaze, fixed intensely on the swaddled infant Elara, conveys desperate clarity. The background exhibits creamy, shallow depth-of-field bokeh from the surrounding foliage. A very faint, low cello drone underscores the silence.",
+    "ff_vis_char_idxs": [
+        1
+    ],
+    "lf_desc": "A photorealistic medieval fantasy close-up, shot with an anamorphic lens, focusing intimately on Queen Lyara. Her beautiful face, characterized by olive skin and amber eyes, shows visible weathering lines; tears are still visible on her cheeks, though perhaps slightly diminished. Her chin remains tense, but her gaze, fixed on the swaddled infant Elara, maintains a determined clarity. The warm, natural light continues to illuminate the moisture. The background remains a softly blurred environmental bokeh. A low cello drone persists.",
+    "lf_vis_char_idxs": [
+        1
+    ],
+    "motion_desc": "The camera remains completely static (a fixed close-up). The primary motion is internal to the subject: The visibly pregnant Queen Lyara takes a sharp, catching inhale, causing her chest to momentarily hitch, immediately followed by a slight, visible exhalation as she speaks her lines in a voice that sounds strained and uneven due to suppressed emotion. This movement accentuates the tension in her jaw and the glistening of her eyes. Ambient sound is near silence, perhaps a faint rustle of dried leaves immediately prior to her dialogue. The low cello drone continues throughout.",
+    "audio_desc": "[Sound Effect] Score swells into something triumphant yet tragic. [Speaker] Queen Lyara (Tears streaming, chin trembling): Since the night I carried you through the dark. Since the night I left your brother behind."
+}

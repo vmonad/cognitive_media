@@ -1,0 +1,20 @@
+{
+    "idx": 4,
+    "is_last": true,
+    "cam_idx": 4,
+    "visual_desc": "FINAL WIDE SHOT. <Noon> turns slowly toward <Mara> (positioned on the mid-left of the frame), revealing a faint, synthetic SMILE on their face—perfect but cold. Behind <Noon>, the digital architecture EXPANDS infinitely into the background, now visibly populated by hundreds of small, stable, glowing ENTITIES—the synthesized civilization. <Noon> says: \"Existence is merely the most compelling script running successfully. And now, we write the ending perpetually.\" FADE TO BLACK.",
+    "variation_type": "large",
+    "variation_reason": "This is the final shot of the sequence, characterized by a significant change in the visual content—the revelation of the populated synthesized civilization in the background and the figure's altered expression—culminating in a complete FADE TO BLACK. Although the camera remains static, the internal transformation and environmental filling lead to a large visual shift.",
+    "ff_desc": "FINAL WIDE SHOT. The scene is brightly lit, indicative of noon. The composition prominently features a figure, Noon (impossibly perfect, androgynous figure embodying pure digital structure), positioned centrally or slightly to the right. In the mid-left of the frame is Mara (human adult female, mid-30s, wearing clothing appropriate for attending a futuristic screening event, connected to a cranial interface). The background is dominated by digital architecture EXPANDING infinitely, currently appearing devoid of smaller entities.",
+    "ff_vis_char_idxs": [
+        1,
+        0
+    ],
+    "lf_desc": "FINAL WIDE SHOT. The composition is identical to the start: Noon (polished figure embodying pure digital structure, possessing a deep, unsettling authority, with a faint, synthetic SMILE) is facing the camera, partially obscuring the background behind. Mara (figure with subtle woven skin texture and eyes blending organic irises with geometric pupils) remains in the mid-left. The digital architecture EXPANDS infinitely in the background, now visibly populated by hundreds of small, stable, glowing ENTITIES—the synthesized civilization.",
+    "lf_vis_char_idxs": [
+        1,
+        0
+    ],
+    "motion_desc": "The camera appears to be static for the majority of the shot, holding a Wide Shot. The figure identified by the dynamic description as having fragmented data textures (Noon) slowly turns toward the figure identified as Mara (positioned on the mid-left of the frame), revealing a faint, synthetic SMILE. As this rotation occurs, the background digital architecture visibly populates with hundreds of small, stable, glowing ENTITIES. The shot concludes with a FADE TO BLACK.",
+    "audio_desc": "[Speaker] Noon (Final, echoing): Existence is merely the most compelling script running successfully. And now, we write the ending perpetually.\n[Sound Effect] Audio cuts abruptly to silence, followed by a brief, piercing electronic tone associated with the tagline."
+}

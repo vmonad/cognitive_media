@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_back_garden_night.png",
+            "Reference establishing shot of location 'cottage_back_garden_night': The rear exterior of the cottage at deep night. Focus is on the stonework foundation and a small, unlatched back window from which a faint, warm firelight glows. Low-hanging fog drifts across the stones. The surrounding back garden is overgrown and dark. The night sky above the chimney is inky black. The atmosphere is one of approaching, quiet danger."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/shots/10/first_frame.png",
+            "A photorealistic dark fairy tale establishing wide shot taken from the dark tree line at night. The composition is dominated by the silhouette of dense, overgrown foliage in the foreground and the distant, small, isolated cottage structure. Faint, weak, warm firelight emanates only from the small, unlatched back window of the cottage, creating a focal point against the ink-black sky. The ground between the camera and the cottage is characterized by overgrown garden elements and dark, damp earth. Volumetric fog, illuminated faintly near the ground, drifts low across the stone foundation of the cottage. The chimney stack is visible, from which a subtle plume of smoke curls upward, almost invisible against the harsh darkness. No characters are visible at this distance, only architectural and environmental elements. The overall mood is one of profound isolation and impending danger, heightened by deep chiaroscuro shadows and the texture of 35mm film grain."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_exterior_rain_storm.png",
+            "Reference establishing shot of location 'cottage_exterior_rain_storm': The cottage exterior during a violent, heavy downpour at night. Rain hammers the thatched roof in continuous sheets, causing the surrounding path to turn to mud. A flash of lightning briefly scrapes stark light across the wet, dark stonework walls and enhances the appearance of the sodden, dead garden. The atmosphere is chaotic, loud, and metaphoric of severe consequence."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale medium close-up focused sharply on the small, unlatched back window of the cottage. The exterior aspect, including the cottage wall stonework, moss, and surrounding dark garden elements, should reference Image 1. Faint, warm firelight spills visibly outward from the unlatched window, casting soft, localized shadows onto the immediate exterior wall structure, matching the lighting quality seen in Image 1 and Image 2. The trailing phantom plume of chimney smoke should be faintly visible against the velvet black sky above the roofline, matching the presence of smoke in Image 6. Shallow depth of field should be used, creating creamy anamorphic bokeh on the closest fog tendrils, referencing the style described in the visual style directive and seen in Image 6. The atmosphere must be one of quiet danger and intense isolation, consistent with Image 6. Ensure the entire image adheres to the Photorealistic dark fairy tale style, with rich cinematic color grade, deep chiaroscuro shadows, and 35mm film grain texture."
+}

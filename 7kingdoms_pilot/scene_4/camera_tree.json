@@ -1,0 +1,57 @@
+[
+    {
+        "idx": 0,
+        "active_shot_idxs": [
+            0
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_0 consists only of a title card/black screen and establishes the temporal setting without showing any scene content that could be contained by subsequent shots. Therefore, it must be the root camera.",
+        "is_parent_fully_covers_child": null,
+        "missing_info": null
+    },
+    {
+        "idx": 1,
+        "active_shot_idxs": [
+            1
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_1 provides the ESTABLISHING SHOT of the village setting described in its single shot, which must be contained within the title card established by CAMERA_0 (Shot 0). However, given the nature of CAMERA_0 (black screen), CAMERA_1 logically functions as the first visual establishing shot and is treated as a root element following CAMERA_0. Since CAMERA_0 is the only root, CAMERA_1 depends on it as the setup for the scene.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific characters (Elara) and detailed actions occurring within the village."
+    },
+    {
+        "idx": 2,
+        "active_shot_idxs": [
+            2
+        ],
+        "parent_cam_idx": 1,
+        "parent_shot_idx": 1,
+        "reason": "CAMERA_2 (Medium Shot tracking Elara hauling a yoke) is a direct follow-on from the establishing setting of CAMERA_1 (Shot 1), zooming into the main character performing physical labor within that village environment. Shot 1 encompasses the general area where Shot 2 takes place.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The detailed expressions, physical exertion, and close-up action of Elara (the subject of Shot 2)."
+    },
+    {
+        "idx": 3,
+        "active_shot_idxs": [
+            3
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 2,
+        "reason": "CAMERA_3 (Close Up on Elara's face/fury/magic) is a clear magnification of the primary subject introduced in CAMERA_2 (Medium Shot tracking Elara). Shot 2 contains Elara's complete presence and action, making it the immediate parent for the tight focus in Shot 3.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific, intense detail of Elara's facial expression (fury/magic manifestation) and the immediate environmental reaction (snapping fence post)."
+    },
+    {
+        "idx": 4,
+        "active_shot_idxs": [
+            4
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 2,
+        "reason": "CAMERA_4 (Extreme Close Up on Elara's hands) shows a specific physical detail of the main subject (Elara) who is fully framed and engaged in action in CAMERA_2 (Shot 2). While Shot 3 focuses on her face, Shot 2 frames her entire body and immediate action, providing the context for the extreme detail on her hands in Shot 4. Shot 2 is the broader shot containing the subject, Elara, who is performing the action leading to the shock shown in Shot 4.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The context of Elara's upper body, her face, and the overall scene dynamics shown in Shot 2. Shot 4 focuses only on the result of her experience (trembling hands)."
+    }
+]

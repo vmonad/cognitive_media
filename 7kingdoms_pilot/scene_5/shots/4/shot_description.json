@@ -1,0 +1,18 @@
+{
+    "idx": 4,
+    "is_last": false,
+    "cam_idx": 4,
+    "visual_desc": "EXTREME CLOSE UP on <Elara>'s hand, slightly dirty from farm work, held aloft in the air near the stream. A vibrant, luminous GOLDEN LIGHT pours violently from her fingertips. The light is so intense it creates strong highlights on her skin and pushes the surrounding mossy rock into deep shadow (chiaroscuro). The water in the stream nearby visibly slows, hesitates, then violently reverses its flow against gravity. Small, wet mossy stones lift silently upward around the stream, caught in a nascent golden vortex. <Elara>'s amber eyes, just visible in the upper third of the frame, are glowing intensely with raw power. The return of the powerful golden HUM is palpable. <Elara> asks, her voice shaking from the internal conflict of awe and anger: \"How long? How long have you known what I am?\"",
+    "variation_type": "medium",
+    "variation_reason": "Compared to the first frame, the last frame shows significant internal character action (intense golden eye glow, manifestation of power affecting the environment: water reversing, stones floating) and the introduction of the character's visible facial/eye features, shifting the focus from just the hand to the source of power, causing a medium change in composition and focus.",
+    "ff_desc": "A photorealistic medieval fantasy extreme close-up, shot with anamorphic lenses and visible film grain, focusing on the lower portion of one hand, slightly smudged with dirt, held against a backdrop of dark, wet, mossy rocks. Intense, violent golden light originates from the fingertips, creating sharp, dramatic chiaroscuro, forcing the surrounding environment into deep shadow. The stream water immediately adjacent to the hand appears unnaturally still and heavy. There is no visible character face, only the hand and immediate environment.",
+    "ff_vis_char_idxs": [
+        6
+    ],
+    "lf_desc": "A photorealistic medieval fantasy extreme close-up, shot with anamorphic lenses and visible film grain, focusing on the lower portion of one hand, slightly smudged with dirt, held against a backdrop of dark, wet, mossy rocks. Intense, violent golden light originates from the fingertips, which now appear static but still radiating power. The stream water in the immediate vicinity is violently flowing upward and backward against gravity. Small, wet, mossy stones are suspended silently in the air around the hand, caught in a chaotic golden swirl. In the upper third of the frame, two amber eyes are unmistakably glowing with intense golden light, framed by the edge of the hand. The only sound is the palpable, powerful golden HUM.",
+    "lf_vis_char_idxs": [
+        6
+    ],
+    "motion_desc": "The camera remains static throughout the shot, locked in an extreme close-up framing on the hand. Simultaneously, the power manifesting from the fingertips (the simple rough-spun peasant dress wearer) generates a violent visual effect: the light emission intensifies, the nearby stream water visibly slows, hesitates, and then reverses flow against gravity. Small, wet mossy stones rise silently into the air around the hand, caught in a growing golden vortex centered on the extended fingers. The glowing intensity in the amber eyes (of the simple rough-spun peasant dress wearer) becomes visible in the upper frame as the low, powerful golden HUM sound builds, accompanied by an intense, awe-and-anger-laced vocal query from the figure.",
+    "audio_desc": "[Sound Effect] The return of the golden HUM, now soaring and resonant. Water flow reversing against physics. [Speaker] Elara (Voice trembling with wonder and fury): How long? How long have you known what I am?"
+}

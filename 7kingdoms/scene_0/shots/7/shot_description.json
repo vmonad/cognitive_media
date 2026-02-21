@@ -1,0 +1,18 @@
+{
+    "idx": 7,
+    "is_last": false,
+    "cam_idx": 7,
+    "visual_desc": "EXT. SOUTHERN PLAINS - DAY. Low angle tracking shot following <Queen Sera> at the absolute front rank of her heavily armored CAVALRY, kicking up vast clouds of choking dust. She rides powerfully, her long sword arcing silver as she prepares a strike. She faces forward, toward chaos.",
+    "variation_type": "small",
+    "variation_reason": "The shot is a continuous tracking movement maintaining the same subject and general composition; only the immediacy and angle of the sword arc change slightly, thus the variation type is small.",
+    "ff_desc": "EXT. SOUTHERN PLAINS - DAY. A low angle shot capturing the front rank of a heavily armored cavalry formation moving rapidly forward, generating vast clouds of choking dust. At the absolute front is Queen Sera, heavily armored in polished obsidian, riding powerfully and holding her long sword so it arcs silver.",
+    "ff_vis_char_idxs": [
+        1
+    ],
+    "lf_desc": "EXT. SOUTHERN PLAINS - DAY. A low angle shot maintaining the perspective following the front rank of heavily armored cavalry kicking up vast clouds of choking dust. The leader, Armored in polished obsidian, is still riding powerfully forward, toward chaos, with her long sword arcing silver, poised for a strike.",
+    "lf_vis_char_idxs": [
+        1
+    ],
+    "motion_desc": "The camera performs a low angle tracking shot, moving forward parallel to the ground level, maintaining a consistent distance and angle relative to the group. The armored leader in polished obsidian rides powerfully at the absolute front rank of the cavalry, causing vast clouds of choking dust to be kicked up. Her long sword arcs silver as she prepares a strike, focused forward toward chaos.",
+    "audio_desc": "[Speaker] Queen Sera (Sharp, projecting over the charge): \"Hold the line! For the South!\" [Sound Effect] Thundering hooves."
+}

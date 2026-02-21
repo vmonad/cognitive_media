@@ -1,0 +1,20 @@
+{
+    "idx": 6,
+    "is_last": false,
+    "cam_idx": 6,
+    "visual_desc": "TWO SHOT — medium framing, framing both <Elara> and <Queen Lyara> from the waist up, positioned slightly off-center relative to the stream. <Elara> has slowly lowered her hand; the golden light has receded, but her amber eyes remain luminous and sharp. The carefree peasant appearance is gone; her posture is ramrod straight, conveying an instant, inherited authority. She faces <Queen Lyara> directly. <Elara>'s expression is now fixed steel. She asks, her voice transformed: \"Where is my brother?\". <Queen Lyara> looks utterly defeated, leaning slightly forward.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, the camera remains static, and only minor changes occur internally: one character lowers her hand, instantly adopts a rigid posture, changes expression, and delivers a line of dialogue, while the other character remains essentially fixed in a defeated pose. This constitutes a small variation.",
+    "ff_desc": "A photorealistic medieval fantasy two-shot, presented with HBO prestige television quality and anamorphic shallow depth of field, capturing Elara (Young Woman) and Queen Lyara from the waist up. The framing is medium and slightly off-center relative to an implied stream boundary. Elara (Young Woman) stands ramrod straight, facing Queen Lyara directly; her features are set in an expression of fixed steel, her sun-freckled skin contrasting with the dimly receding luminous quality in her amber eyes. She wears a simple rough-spun peasant dress in earthy brown. Queen Lyara is positioned opposite, leaning slightly forward, her olive skin and amber eyes conveying an aspect of utter defeat. The lighting is subdued, indicating the recent cessation of a magical golden light effect. Ambient sound suggests stillness, perhaps the faint lapping of water near the implied stream. The score is absent or extremely minimal.",
+    "ff_vis_char_idxs": [
+        6,
+        1
+    ],
+    "lf_desc": "A photorealistic medieval fantasy two-shot, framed medium from the waist up, showing Elara (Young Woman) and Queen Lyara. Elara (Young Woman) maintains a ramrod straight posture, her features rigid steel, facing Queen Lyara directly. Her simple rough-spun peasant dress is visible. Queen Lyara remains visibly defeated, leaning slightly forward, her posture unchanged from the initial frame. The ambient lighting reflects the preceding moments—the magical golden glow is entirely gone, leaving a muted, slightly shadowed atmosphere consistent with natural light post-event. The scene is visually static at its conclusion, the confrontation's tension physically held by the two figures.",
+    "lf_vis_char_idxs": [
+        6,
+        1
+    ],
+    "motion_desc": "The shot is static, maintaining a consistent medium framing on both Elara (Young Woman) and Queen Lyara. The primary dynamic occurs internally: Elara (Young Woman) slowly lowers her hand from its previous position (implied by the receding golden light). The carefree peasant appearance is instantly replaced by a posture of ramrod straight authority. The facial expression of Elara (Young Woman) fixes into steel. Elara (Young Woman) speaks, her voice now transformed, described as having an instant, inherited authority. Queen Lyara remains stationary in her defeated posture.",
+    "audio_desc": "[Score] The triumphant element of the music solidifies, taking on a foundation of resolve. [Speaker] Elara (Her unpolished voice now carrying undeniable, inherited authority): Where is my brother?"
+}

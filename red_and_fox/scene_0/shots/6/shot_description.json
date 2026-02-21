@@ -1,0 +1,18 @@
+{
+    "idx": 6,
+    "is_last": false,
+    "cam_idx": 6,
+    "visual_desc": "CLOSE-UP FLASHBACK (SCENE 2). Young <Red> (Character 0, appearance aged eight), sits rigid on the cold stone floor, her small face intensely lit by the flickering, practical orange GLOW of the fireplace, casting deep chiaroscuro shadows. Granny's (Character 2) massive, severe shadow engulfs her from behind, blotting out the background. The camera is static, focusing tightly on the visible tension in the child’s jaw and her tightly clenched fists in her lap. Emotion: pure, internalized fear. The 35mm grain texture is pronounced here due to the low, flickering light.",
+    "variation_type": "small",
+    "variation_reason": "This shot only shows the intense illumination from the fireplace flickering across the child's face and the resulting subtle dance of the surrounding shadow, which constitutes minor changes within the composition. The camera is static, and the primary subject remains in the same rigid posture, thus the variation type is small.",
+    "ff_desc": "A photorealistic dark fairy tale CLOSE-UP flashback showcasing Young Red (aged eight), who has beautiful brunette wavy hair and porcelain skin, sitting rigid on a cold stone floor. Her small, focused face is intensely illuminated by the flickering, practical orange GLOW of a fireplace, creating deep chiaroscuro shadows across her features. The tension in her jaw is visible, and her hands are tightly clenched in her lap. Granny's massive, severe shadow dominates the background, completely engulfing the area behind the child. The lighting emphasizes the 35mm film grain texture due to its low intensity. The ambiance suggests oppressive silence, underscored only by the crackle of embers.",
+    "ff_vis_char_idxs": [
+        2
+    ],
+    "lf_desc": "A photorealistic dark fairy tale CLOSE-UP flashback of Young Red (aged eight), still seated rigidly on the cold stone floor. Her face remains intensely illuminated by the flickering, practical orange GLOW of the fireplace. Her jaw is still clenched, and her hands remain tightly fisted in her lap, reflecting internalized fear. Granny's imposing shadow still looms directly behind the child, blotting out the remainder of the background environment. The 35mm film grain texture is prominent under the low, flickering light. The only perceptible sound is the low, erratic crackling of the fireplace.",
+    "lf_vis_char_idxs": [
+        2
+    ],
+    "motion_desc": "The camera remains absolutely static throughout the shot, adhering strictly to the initial close-up framing on the child. As the shot progresses, the only movement is the interior motion of the fire: the flames flicker erratically, causing the orange illumination on the small character's face to pulse and shift slightly, which in turn causes the edges of the enveloping shadow of the gaunt and imperious figure behind her to subtly dance. The overall atmosphere remains one of oppressive, frozen terror, with a sharp, intermittent crackle from the embers being the only ambient sound, accompanying a low, sustained cello drone in the score.",
+    "audio_desc": "[Sound Effect] The loud, rhythmic, cold TICKING OF THE GRANDFATHER CLOCK in the background. Granny's (Character 2) voice (crisp, cold, perfectly enunciated) heard faintly OFF-SCREEN: \"Sentiment is weakness.\""
+}

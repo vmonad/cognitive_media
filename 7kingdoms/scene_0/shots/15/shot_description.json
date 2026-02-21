@@ -1,0 +1,16 @@
+{
+    "idx": 15,
+    "is_last": false,
+    "cam_idx": 15,
+    "visual_desc": "EXT. SHADOW FISSURE - CLIMAX. Tight medium shot on a battered and bleeding <The Wolf>. He yells a final, guttural oath toward the swirling green maw of the Shadow Gate. He channels his strength and THROWS his entire body directly into the void. An enormous, primal burst of energy erupts outward as the fissure SNAPS SHUT.",
+    "variation_type": "large",
+    "variation_reason": "This is a dynamic climax shot. The subject of the shot (The Wolf) self-destructs by entering the focal point (the Shadow Gate), which then closes dramatically, leading to an extreme visual shift from a living subject to an empty closure scene, thus qualifying as a large variation.",
+    "ff_desc": "EXT. SHADOW FISSURE - CLIMAX. A tight medium shot frames a battered and bleeding warrior, identified as The Wolf, facing a swirling green maw of the Shadow Gate. The warrior is positioned center frame, looking directly toward the supernatural phenomenon. The mood is dark and intense, illuminated by the sickly green light emanating from the fissure.",
+    "ff_vis_char_idxs": [
+        3
+    ],
+    "lf_desc": "EXT. SHADOW FISSURE - CLIMAX. A tight medium shot captures the empty, swirling green maw of the Shadow Gate. The area where the warrior was standing is now just the backdrop of the now-closed fissure. The light is intensely green at the center, where the gate has snapped shut.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera remains in a tight medium shot. The warrior, battered and bleeding but unyielding, yells a final, guttural oath toward the Shadow Gate. He then channels his strength and propels his entire body forward into the void of the fissure. Immediately following his entry, an enormous, primal burst of energy erupts outward, and the fissure snaps shut.",
+    "audio_desc": "[Speaker] The Wolf (Guttural war cry): \"For the North!\" [Sound Effect] An enormous, primal burst of energy followed by the sound of collapsing mountains. Then, absolute, thick silence descends."
+}

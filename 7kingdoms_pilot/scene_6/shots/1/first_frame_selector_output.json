@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/2_Morgath/front.png",
+            "CANONICAL front-view portrait of Morgath. This is the definitive reference for this character's face and identity. Devastatingly beautiful real human woman, appears early 40s. Porcelain-pale skin with natural texture. Large dark nearly-black eyes with no warmth. High sharp cheekbones. Full crimson lips. Long straight raven-black hair falling heavy like a curtain. Tall, slender. Wears a fitted black gown with high structured collar embroidered with dark crimson thread. A blood-red jewel hangs on a gold chain around her neck."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/2_Morgath/side.png",
+            "Side-view portrait of Morgath showing profile and body shape. Porcelain-pale skin, large dark nearly-black eyes, high sharp cheekbones, long straight raven-black hair. Tall, slender."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_6/location_refs/throne_room.png",
+            "Reference establishing shot of location 'throne_room': A vast, imposing throne room within a dark castle, characterized by heavy baroque or gothic architecture. The primary focus is a massive, ornate, floor-standing mirror with a dark, possibly obsidian or heavily aged silver frame. The room is lit dimly by unseen, low-intensity ambient light sources, casting deep shadows that are emphasized by the mirror's light-absorbing surface, creating a feeling of oppressive, ominous royalty. The atmosphere is cold and still. Time is night. Weather is implied to be indoors, focusing on the cavernous, heavy atmosphere."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy, HBO prestige television quality, long, low-angle shot of the throne room/Morgath's chamber at night. The environment must reference Image 2. The environment is dominated by deep chiaroscuro shadows cast by unseen torches, making massive, cold stone walls loom high above. The central figure, Morgath, must be prominently positioned before a massive, ornate mirror that absorbs ambient light, appearing as a pool of liquid darkness. The depth of field is shallow, implicitly focused on the mirror's dark surface. The shot emphasizes the towering architecture and the subject's rigid, imposing silhouette. \n\nMorgath's appearance MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 0. The character must be recognizably identical to the portrait reference — they are the SAME ACTOR, the SAME PERSON. The posture and overall silhouette should reference Image 1 for the standing pose and the specific black gown with a high collar.\n\nThe visual style MUST be: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Real human actors in practical costumes — genuine leather, real chainmail, wool, silk, mud, rust, sweat. Natural skin with pores, imperfections, scars, freckles, and weathering. Real weather — mist, firelight, torchlight, dawn light. Rich dark crimson-and-black for the Witch's scenes. Deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. Every surface tactile — stone, iron, parchment, silk, fur, moss, wet rock, candlewax."
+}

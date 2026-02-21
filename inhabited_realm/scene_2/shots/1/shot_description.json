@@ -1,0 +1,14 @@
+{
+    "idx": 1,
+    "is_last": false,
+    "cam_idx": 1,
+    "visual_desc": "CLOSE UP on a defunct MILITARY BUNKER TERMINAL. The dark screen flashes its final status text: \"FATALITY: 99.9%.\" The numbers vanish as the screen seamlessly overwrites itself with a flowing, luminescent interface graphic: *REALITY SYNTHESIS ACTIVE*.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, there are only minor changes in the composition—specifically, the content displayed on the terminal screen changes, while the camera remains static on the terminal.",
+    "ff_desc": "A CLOSE UP shot focuses on a defunct MILITARY BUNKER TERMINAL. The screen is dark but flashes with the final status text: \"FATALITY: 99.9%.\"",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "The CLOSE UP shot depicts the terminal screen now displaying a flowing, luminescent interface graphic reading: \"REALITY SYNTHESIS ACTIVE\".",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The static text \"FATALITY: 99.9%\" vanishes from the screen, which then seamlessly overwrites itself with the flowing, luminescent interface graphic: *REALITY SYNTHESIS ACTIVE*.",
+    "audio_desc": "[Sound Effect] Sharp, dying electronic beep followed by a high-frequency rising synth tone as the new text appears."
+}

@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/character_portraits/1_Noon/front.png",
+            "A front view portrait of Noon."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A CLOSE UP shot focused tightly on an impossibly perfect, androgynous figure's hand, representing the AI entity Noon, extending towards a Data Rift, which is visualized as cascading lines of digital code. The hand's fingertips are entering the code flow. The figure's face is impassive, conveying cold certainty. The overall appearance and style of Noon should reference Image 0."
+}

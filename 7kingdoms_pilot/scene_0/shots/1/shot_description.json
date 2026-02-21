@@ -1,0 +1,19 @@
+{
+    "idx": 1,
+    "is_last": false,
+    "cam_idx": 1,
+    "visual_desc": "MATCH DISSOLVE transforms the parchment texture into the pale, weathered stone of the Throne Room walls. Medium Close Up on <King Edran> seated on the imposing stone throne, the silver-threaded Crown of Sevens catching the warm, flickering light cast by a nearby fireplace. Warm firelight from the right illuminates one side of his weathered face, leaving deep chiaroscuro shadows on the other. <Queen Lyara>, visibly pregnant, stands slightly to his left, her face soft but resolute. Courtiers are visible in the mid-ground, their forms slightly softened by shallow depth of field.",
+    "variation_type": "medium",
+    "variation_reason": "Compared to the first frame, a new character appears in the last frame, and there are no significant changes in the composition besides the arrival of the second character.",
+    "ff_desc": "A photorealistic medieval fantasy Medium Close Up, shot on Arri Alexa 65 with anamorphic lenses, of a noble king seated on an imposing dark stone throne. King Edran has a strong weathered face with a short grey-streaked dark beard, deep brown eyes, and the silver Crown of Sevens on his head. Warm flickering firelight from the right illuminates one side of his face, creating deep chiaroscuro shadows. He wears rich dark leather and blue velvet robes. The throne room background shows dark stone walls, fire braziers, and banners. Shallow depth of field. 35mm film grain.",
+    "ff_vis_char_idxs": [
+        0
+    ],
+    "lf_desc": "The same Medium Close Up. King Edran on the throne, now smiling warmly. Standing slightly to his left is Queen Lyara — a beautiful woman with olive skin, amber-brown eyes, long dark auburn hair, wearing a deep emerald silk gown with gold embroidery. She places a hand gently on his shoulder. Both are lit naturally by the warm firelight from the right. Courtiers visible softly in the background.",
+    "lf_vis_char_idxs": [
+        0,
+        1
+    ],
+    "motion_desc": "Static camera holds the Medium Close Up on King Edran on the stone throne. He speaks with warm authority, a satisfied smile forming. Queen Lyara — a beautiful woman with olive skin and dark auburn hair in an emerald gown — steps into frame from the left and places a hand on his shoulder. The warm firelight illuminates both faces naturally. The atmosphere is one of peaceful contentment.",
+    "audio_desc": "[Speaker] King Edran (Deep, resonant baritone, satisfied): Seven banners hang in this hall. Seven kingdoms at peace. Let us drink to another year of it. [Sound Effect] Muted cheering, clinking goblets. [Speaker] Queen Lyara (Warm contralto): The children will know a world without war, my love. [Speaker] King Edran (Smiling): That is all I ever wanted."
+}

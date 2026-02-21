@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/scene_1/shots/8/first_frame.png",
+            "An extreme close-up shot focused on the environment texture, which appears warped and digitally disrupted, suggesting an ongoing chaotic event. No distinct characters are fully visible, the frame is dominated by abstract, glitching visuals and the momentary appearance of what looks like a CGI medieval KNIGHT captured mid-swing with a sword."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nThe environment texture has returned to a stable state, though perhaps subtly altered, with no visible sword-wielding entity or triangular fragments remaining. The frame is empty of the knight, focusing solely on the environment's texture. The environment's texture and atmosphere should reference Image 0, but with the knight and the chaotic green energy entirely removed."
+}

@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/character_portraits/1_The Fox/front.png",
+            "A front view portrait of The Fox."
+        ],
+        [
+            ".working_dir/red_and_fox/character_portraits/0_Red/front.png",
+            "A front view portrait of Red."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale medium shot, captured with an Arri Alexa 65 and anamorphic lenses, showing the beautiful brunette wearing a deep blood-crimson velvet hooded cloak and The Fox, who has wild reddish-brown tousled hair and is wearing a long dark charcoal coat trimmed in auburn fox fur, deeply engaged in a fierce, final kiss. The composition emphasizes the front of their faces and torsos. Volumetric lighting, consistent with a warm interior but deep chiaroscuro shadows, casts sharp definition on their features. The brunette's appearance, including her deep blood-crimson velvet hooded cloak, should reference Image 2. The Fox's appearance, including his wild reddish-brown tousled hair and long dark charcoal coat trimmed in auburn fox fur, should reference Image 1. The lighting must be warm interior with deep chiaroscuro shadows, as specified by the style directive. The visual style must adhere to: Photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones and one vivid accent color (Red's crimson cloak), volumetric lighting with deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. Characters must be at correct proportional scale and lighting must match the environment's light sources."
+}

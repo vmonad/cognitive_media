@@ -1,0 +1,18 @@
+{
+    "idx": 1,
+    "is_last": false,
+    "cam_idx": 1,
+    "visual_desc": "INT. IRON THRONE HALL - NIGHT. A TIGHT CLOSE UP focusing exclusively on the heavy, ornate IRON CROWN resting on the brow of <King Aldric> (frail, aging). His skin looks pale under the reflection of hundreds of flickering candles. <King Aldric> (male, 70s, frail) attempts to lift a heavy silver goblet, his hand visibly TREMBLES, shaking the image slightly.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, there are only minor changes in the composition. The central subject remains the same, and the only visible motion is the internal action of the character's trembling hand affecting the image stability.",
+    "ff_desc": "INT. IRON THRONE HALL - NIGHT. A tight close-up shot focuses exclusively on a heavy, ornate IRON CROWN resting on the brow of a frail, aging man. The man's skin appears pale under the reflected glow of hundreds of flickering candles. The overall image carries a slight, overall tremor due to the hand movement.",
+    "ff_vis_char_idxs": [
+        0
+    ],
+    "lf_desc": "INT. IRON THRONE HALL - NIGHT. A tight close-up shot focuses exclusively on a heavy, ornate IRON CROWN resting on the brow of a frail, aging man. The man's skin appears pale under the reflected glow of hundreds of flickering candles. The slight, overall tremor present in the image persists.",
+    "lf_vis_char_idxs": [
+        0
+    ],
+    "motion_desc": "The camera is static. The aging man, wearing the heavy, jagged Iron Crown, attempts to lift a heavy silver goblet, causing his hand to visibly TREMBLE, which results in a slight shaking of the entire framed image.",
+    "audio_desc": "[Sound Effect] Deep, resonant silence in the hall, broken only by the slight metallic scrape of the goblet."
+}

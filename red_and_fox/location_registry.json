@@ -1,0 +1,14 @@
+{
+    "dark_forest": {
+        "path": ".working_dir/red_and_fox/location_refs/dark_forest.png",
+        "description": "Reference establishing shot of location 'dark_forest': An ancient old-growth forest at dusk with massive gnarled oak and birch trees. The canopy is so thick that the forest floor is nearly dark. Ground covered in thick moss, fallen leaves, and twisted roots. Low-hanging fog drifts between the trunks. Dying golden sunlight cuts through rare gaps in the canopy as god rays. No people. Narrow dirt path barely visible winding between the trees. Distant atmosphere of crows circling. Muted greens and browns with golden light accents."
+    },
+    "cottage_exterior": {
+        "path": ".working_dir/red_and_fox/location_refs/cottage_exterior.png",
+        "description": "Reference establishing shot of location 'cottage_exterior': A small isolated stone cottage in a dark forest clearing at twilight. Thatched roof overtaken by ivy and moss. A crooked chimney trails thin smoke. The garden is overgrown with dead thorny rose bushes. A single warm oil lantern hangs beside the heavy weathered oak front door. The back side has a small window with an iron latch. The cottage looks ancient, slightly menacing, and deeply lonely. Fog creeps around the foundation. No people."
+    },
+    "cottage_interior": {
+        "path": ".working_dir/red_and_fox/location_refs/cottage_interior.png",
+        "description": "Reference establishing shot of location 'cottage_interior': The interior of an oppressive Victorian cottage. Dark wood paneling on the walls. A stone fireplace with dying orange embers casting warm flickering light. Heavy dark burgundy velvet curtains hang between the main room and a shadowed bedroom doorway. A wooden rocking chair sits facing the fireplace. Oil lamps cast isolated warm pools of light surrounded by deep black shadow. A large grandfather clock stands against the wall. The air feels thick and claustrophobic. Cluttered with old books, dried flowers, and dark furniture. No people."
+    }
+}

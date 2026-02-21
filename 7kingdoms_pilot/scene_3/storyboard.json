@@ -1,0 +1,30 @@
+[
+    {
+        "idx": 0,
+        "is_last": false,
+        "cam_idx": 0,
+        "visual_desc": "BLACK SCREEN. FADE IN begins.",
+        "audio_desc": "[Narrator (deep, aged male voice, like a historian telling a legend)]: Morgath took the throne. She took the crown. And she took the boy. Not out of mercy — out of hunger. For Morgath had read the old texts, and she knew what the prince's blood could buy her."
+    },
+    {
+        "idx": 1,
+        "is_last": false,
+        "cam_idx": 1,
+        "visual_desc": "THRONE ROOM - WIDE SHOT. The hall is suffocatingly dark, draped in heavy black fabrics that absorb all natural light. Hundreds of black candles provide the only illumination, casting long, dancing shadows and a rich, deep chiaroscuro across the cavernous space. The stone throne is harsh. <Morgath> sits upon it, wearing the spiked crown of black iron thorns. Her fitted black gown contrasts sharply with the occasional flicker of firelight reflected in her pale skin and dark eyes. Beside the throne, a gilded crib rests on the stone floor. Inside, the infant <Prince Cael> sleeps peacefully, swaddled in fine white cloth. The royal banners are gone, replaced by flags bearing Morgath’s dark crimson embroidery. The overall texture is cold stone and melting wax.",
+        "audio_desc": "[Sound Effect] Faint, sharp flicker and crackle of hundreds of black candles in oppressive silence. [Score cue] Deep, sustained, low drone beginning."
+    },
+    {
+        "idx": 2,
+        "is_last": false,
+        "cam_idx": 2,
+        "visual_desc": "CLOSE UP - <Morgath> and BOOK. The camera executes a slow, deliberate DOLLY toward her, focusing through shallow depth of field on the ancient, enormous leather-bound book resting on a heavy stone pedestal. The pages are thick and yellowed, covered in arcane script that emits a sickly, internal green luminescence. The light catches the high sharpness of <Morgath>'s cheekbones and reflects unnervingly in her dark, large eyes, which are focused intently on the text. Her gloved hands rest lightly on the edges of the pages. The texture of the aged parchment and pitted iron of the pedestal are highly detailed.",
+        "audio_desc": "[Speaker] Morgath (silky, soft, almost musical, each word savored): \"The thousand-year moon. It rises when he turns eighteen. One ritual. One sacrifice. Royal blood, freely given or taken by force. And I will have power that no mortal has held since the world was young.\" [Sound Effect] A low, mechanical HUM emanates distinctly from the glowing book, pulsing slightly with her words."
+    },
+    {
+        "idx": 3,
+        "is_last": true,
+        "cam_idx": 3,
+        "visual_desc": "MEDIUM SHOT - <Morgath> and <Prince Cael>. The camera angle dips slightly low, looking up at <Morgath> as she leans over the gilded crib, entirely abandoning the throne's presence. <Prince Cael> is visible, sleeping soundly in the crib, visible only from the waist up, framed by the ornate gold bars. <Morgath>'s face, pale and sharp, hangs over him. She wears a long black glove, and she gently touches the infant's cheek with a single fingertip. Her crimson lips curl into a terrifying, possessive imitation of affection, her eyes fixed solely on the boy. The amber glow from the book is gone; the lighting is warm, flickering candlelight reflecting off the gold of the crib.",
+        "audio_desc": "[Speaker] Morgath (almost a lullaby whisper): \"I will feed you. I will teach you. I will make you love me, little prince. And when the moon rises... you will give me everything.\" [Sound Effect] <Prince Cael>'s soft, contented gurgles. [Score cue] Morgath's cello theme twists into a slow, dark, minor-key lullaby."
+    }
+]

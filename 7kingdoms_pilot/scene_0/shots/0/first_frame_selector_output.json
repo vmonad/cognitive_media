@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/scene_0/location_refs/throne_room.png",
+            "Reference establishing shot of location 'throne_room': A vast, majestic medieval throne room constructed from pale, smoothly cut stone blocks. High vaulted ceilings are supported by thick, carved pillars. Sunlight streams in through tall, arched windows, illuminating dust motes dancing in the air, giving the atmosphere a bright, stable feeling, though slightly aged. Large, colorful banners representing seven distinct kingdoms hang between the pillars, slightly drooping. A massive, imposing throne made of dark, polished wood or iron, possibly adorned with silver, dominates the center. The light is predominantly natural daylight, but warm, flickering glow from a large, central hearth casts deep, shifting shadows near the edges and corners of the hall."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy extreme close-up (ECU) on aged parchment, tactile with minute creases and the subtle sheen of dried gold leaf. The map is richly detailed, showcasing seven distinct, vibrantly colored regions of a continent inked upon the surface. The lighting is soft and warm, emphasizing the texture and the areas marked with gold leaf. The composition fills the frame entirely with the parchment surface. The environment and lighting must match the visual style of Image 0, with soft, warm lighting emphasizing texture and gold leaf, consistent with the warm golden palette mentioned in the style directive. The overall visual style MUST be photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, featuring 35mm film grain texture, shallow depth of field, and tactile surfaces. The parchment texture itself should be highly detailed, looking real and aged."
+}

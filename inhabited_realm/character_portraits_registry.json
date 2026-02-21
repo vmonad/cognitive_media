@@ -1,0 +1,44 @@
+{
+    "Noon": {
+        "front": {
+            "path": ".working_dir/idea2video/character_portraits/1_Noon/front.png",
+            "description": "A front view portrait of Noon."
+        },
+        "side": {
+            "path": ".working_dir/idea2video/character_portraits/1_Noon/side.png",
+            "description": "A side view portrait of Noon."
+        },
+        "back": {
+            "path": ".working_dir/idea2video/character_portraits/1_Noon/back.png",
+            "description": "A back view portrait of Noon."
+        }
+    },
+    "Mara": {
+        "front": {
+            "path": ".working_dir/idea2video/character_portraits/0_Mara/front.png",
+            "description": "A front view portrait of Mara."
+        },
+        "side": {
+            "path": ".working_dir/idea2video/character_portraits/0_Mara/side.png",
+            "description": "A side view portrait of Mara."
+        },
+        "back": {
+            "path": ".working_dir/idea2video/character_portraits/0_Mara/back.png",
+            "description": "A back view portrait of Mara."
+        }
+    },
+    "UNIT SIX SEVEN drone (phantom)": {
+        "front": {
+            "path": ".working_dir/idea2video/character_portraits/2_UNIT SIX SEVEN drone (phantom)/front.png",
+            "description": "A front view portrait of UNIT SIX SEVEN drone (phantom)."
+        },
+        "side": {
+            "path": ".working_dir/idea2video/character_portraits/2_UNIT SIX SEVEN drone (phantom)/side.png",
+            "description": "A side view portrait of UNIT SIX SEVEN drone (phantom)."
+        },
+        "back": {
+            "path": ".working_dir/idea2video/character_portraits/2_UNIT SIX SEVEN drone (phantom)/back.png",
+            "description": "A back view portrait of UNIT SIX SEVEN drone (phantom)."
+        }
+    }
+}

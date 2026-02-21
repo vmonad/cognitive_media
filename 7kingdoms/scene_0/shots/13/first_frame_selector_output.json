@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/5_Skeletal Legion (The Risen Dead)/front.png",
+            "A front view portrait of Skeletal Legion (The Risen Dead)."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A wide, low-angle shot focused on the ground where a colossal FISSURE, the Shadow Gate, is shown swirling with sickly green light, in a ruined area environment. The Skeletal Legion (The Risen Dead) should be present, referring to their appearance and menacing atmosphere in Image 0. The overall lighting is dominated by an unnatural green glow emanating from the earth."
+}

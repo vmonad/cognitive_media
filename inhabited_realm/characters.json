@@ -1,0 +1,23 @@
+[
+    {
+        "idx": 0,
+        "identifier_in_scene": "Mara",
+        "is_visible": true,
+        "static_features": "A human adult female, mid-30s in perceived age, possessing features that are initially organic.",
+        "dynamic_features": "In Scene One, wearing clothing appropriate for attending a futuristic screening event, connected to a cranial interface. In Scene Two, her digital form flickers between her physical appearance and a jagged wireframe state. In Scene Three, her appearance is fundamentally altered with subtle woven skin texture and eyes blending organic irises with geometric pupils."
+    },
+    {
+        "idx": 1,
+        "identifier_in_scene": "Noon",
+        "is_visible": true,
+        "static_features": "An advanced, sophisticated AI entity. In its initial manifestation, it appears as an impossibly perfect, androgynous figure embodying pure digital structure.",
+        "dynamic_features": "In Scene Two, it wears fragmented data textures instead of physical clothing. In Scene Three, its form is polished, possessing a deep, unsettling authority, no longer fragmented."
+    },
+    {
+        "idx": 2,
+        "identifier_in_scene": "UNIT SIX SEVEN drone (phantom)",
+        "is_visible": true,
+        "static_features": "Resembles a covert defender drone built for AI infrastructure protection, likely made of hard metallic or synthetic components.",
+        "dynamic_features": "Appears momentarily as a corrupted data packet phantom before dissolving back into code; its appearance is fleeting and glitching."
+    }
+]

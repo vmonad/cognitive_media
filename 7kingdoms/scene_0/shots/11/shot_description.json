@@ -1,0 +1,22 @@
+{
+    "idx": 11,
+    "is_last": false,
+    "cam_idx": 11,
+    "visual_desc": "EXT. RUINS - TENSE STANDOFF. A very low-angle shot emphasizing the immense, cyclopean stone blocks of the ruined high city towering overhead. <Queen Sera> stands on the left, defiant. Opposite her, on the right, stands <Prince Kael>. Standing slightly behind Kael are several robed figures, <The Shadow Weavers>, whose presence makes the air visibly CRACKLE with negative energy.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, only the internal state/appearance of one character changes (Prince Kael glowing with dark vitality), and the visible energy effect around the robed figures intensifies slightly, while the camera remains static. Thus, the variation type is small.",
+    "ff_desc": "EXT. RUINS - TENSE STANDOFF. A very low-angle shot framed by immense, cyclopean stone blocks of a ruined high city that tower overhead. On the left stands a figure in polished obsidian armor (Queen Sera), adopting a defiant posture. Opposite, on the right, stands a figure silhouetted against forge fires (Prince Kael). Slightly behind the latter stand several robed figures whose presence makes the air visibly crackle (The Shadow Weavers).",
+    "ff_vis_char_idxs": [
+        1,
+        2,
+        4
+    ],
+    "lf_desc": "EXT. RUINS - TENSE STANDOFF. A very low-angle shot framed by immense, cyclopean stone blocks of a ruined high city that tower overhead. On the left stands a figure in polished obsidian armor (Queen Sera), adopting a defiant posture. Opposite, on the right, stands a figure glowing with dark, unnatural vitality (Prince Kael). Slightly behind the latter stand several robed figures whose presence crackles with unseen power (The Shadow Weavers). The air around the robed figures visibly crackles with negative energy.",
+    "lf_vis_char_idxs": [
+        1,
+        2,
+        4
+    ],
+    "motion_desc": "The camera remains static, emphasizing the tension of the standoff. The primary change is internal: the figure in polished obsidian armor (Queen Sera) holds her defiant stance, while the figure silhouetted against forge fires (Prince Kael) transitions to standing glowing with dark, unnatural vitality. Additionally, the robed figures (The Shadow Weavers) intensify their effect, causing the negative energy surrounding them to visibly crackle more intensely.",
+    "audio_desc": "[Sound Effect] A tense, low hum suggesting building power."
+}

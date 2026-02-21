@@ -1,0 +1,18 @@
+{
+    "idx": 3,
+    "is_last": false,
+    "cam_idx": 3,
+    "visual_desc": "CLOSE UP, rack focus move. The camera executes a slow, tight PUSH-IN, focusing initially on <Elara>'s mouth and jawline, capturing the subtle tremor in her lower lip consistent with shock and incipient fury. When she speaks, her amber eyes are wide, showing raw disbelief. The background—part of the stream and moss—is rendered in soft, creamy bokeh. <Elara> manages a barely audible response: \"You're lying.\". Camera drives closer as <Queen Lyara>'s voice continues over the denial, her chin trembling slightly, still lit by the dappled green-gold light: \"Look at your hands, Elara. You have your father's gift. The blood of kings. It was always in you.\"",
+    "variation_type": "small",
+    "variation_reason": "This shot primarily showcases a subtle change in facial expression and a short vocal reaction from the existing character, coupled with a slow camera movement (push-in), resulting in minor compositional shifts. The core content remains focused on Elara (Young Woman).",
+    "ff_desc": "A photorealistic medieval fantasy CLOSE UP, shot on Arri Alexa 65 with Panavision anamorphic lenses, establishing a tight frame on Elara (Young Woman)'s lower face, emphasizing the subtle tremor in her lower lip. Her amber eyes are wide with raw disbelief. The immediate background, featuring parts of a stream and moss, is dissolved into a creamy, soft bokeh, bathed in luminous golden light suggesting a magical environment. A 35mm film grain texture is apparent. The facial lighting creates deep chiaroscuro shadows.",
+    "ff_vis_char_idxs": [
+        6
+    ],
+    "lf_desc": "A photorealistic medieval fantasy CLOSE UP, shot on Arri Alexa 65 with Panavision anamorphic lenses, showing Elara (Young Woman)'s face framed even tighter, the creamy bokeh of the background now even more pronounced. Her amber eyes are held wide open, reflecting stark shock, and her mouth is set in a barely formed denial. Her expression conveys physical tension consistent with intense emotional shock.",
+    "lf_vis_char_idxs": [
+        6
+    ],
+    "motion_desc": "The shot commences with a static camera focusing initially on the face of the young woman in the simple rough-spun peasant dress, with the background showing deep, creamy bokeh. A slow, tight PUSH-IN on the camera follows, driving closer towards the face. Simultaneously, the mouth of the young woman moves as she speaks her denial: 'You're lying.' The pacing of the push-in synchronizes with the continuing, velvety voice of the queen speaking overhead, which is not visually present in the frame. The motion ends when the camera reaches its closest proximity, holding on the expression of the young woman in the dress. The luminous golden light maintaining the mood remains constant.",
+    "audio_desc": "[Speaker] Elara (Barely audible, lips barely moving): You're lying. [Score] A quiet, tense single violin note holds beneath Lyara's accusation. [Speaker] Queen Lyara (Voice strained): Look at your hands, Elara. You have your father's gift. The blood of kings. It was always in you."
+}

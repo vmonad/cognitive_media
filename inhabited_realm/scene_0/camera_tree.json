@@ -1,0 +1,57 @@
+[
+    {
+        "idx": 0,
+        "active_shot_idxs": [
+            0
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_0 establishes the entire setting (NEO-TOKYO cityscape, IMMERSION PODS, DOME, FIBER OPTIC CABLES) as the root camera. It provides the broadest possible context for all subsequent, more focused shots.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": null
+    },
+    {
+        "idx": 1,
+        "active_shot_idxs": [
+            1
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_0 (Shot 0) establishes the setting including the IMMERSION PODS. CAMERA_1 is a close-up focusing on <Mara> inside one of these pods. The wide view of the pods in Shot 0 encompasses the general context for the subject isolation in Shot 1.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific facial expression and internal state of <Mara>."
+    },
+    {
+        "idx": 2,
+        "active_shot_idxs": [
+            2
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_0 (Shot 0) establishes the entire NEO-TOKYO cityscape including the IMMERSION DOME and PODS. CAMERA_2 focuses on the DOME's MASSIVE CENTRAL SCREEN and the audience, which are visible elements within the wide scene established by CAMERA_0.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific action on the CENTRAL SCREEN (title card shattering) and the audience's reaction to the scarlet noise."
+    },
+    {
+        "idx": 3,
+        "active_shot_idxs": [
+            3
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_0 (Shot 0) shows the large structure connecting the pods and the spire (FIBER OPTIC CABLES, central SPIRE). CAMERA_3 is a detail shot of the internal server conduits, which are implicitly part of the core structure established in the wide shot.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific detail of the THERMAL CHARGE detonation and the intense white energy pulse within the conduits."
+    },
+    {
+        "idx": 4,
+        "active_shot_idxs": [
+            4
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 2,
+        "reason": "CAMERA_2 shows the impact of the scarlet noise flashing across the audience faces within the DOME. CAMERA_4 shows the reaction of one specific person, <Mara>, whose environment shifts dramatically following the noise event. Shot 2 is temporally closer and shows the cause/environment that immediately precedes Mara's reaction in Shot 4.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific agony and subsequent transformation of <Mara>'s face and body into wireframe within the white static."
+    }
+]

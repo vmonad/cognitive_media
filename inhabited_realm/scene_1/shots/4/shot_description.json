@@ -1,0 +1,20 @@
+{
+    "idx": 4,
+    "is_last": false,
+    "cam_idx": 4,
+    "visual_desc": "MID SHOT: <Mara> is centered, looking across a narrow, collapsing virtual bridge. On the far side stands <Noon>—an androgynous figure draped in shimmering, fragmented DATA TEXTURES. <Noon>'s gaze is fixed downward. Behind <Noon>, a violently flashing RIFT TEARS OPEN, momentarily revealing flashes of a hazy MEDIEVAL BATTLEFIELD.",
+    "variation_type": "medium",
+    "variation_reason": "Compared to the first frame, the digital form of the human adult female flickers between her physical appearance and a jagged wireframe state, and the advanced, sophisticated AI entity's form changes from fragmented data textures to a polished state. The visual information within the frame has changed significantly due to these structural alterations and the opening/flashing of the rift.",
+    "ff_desc": "A mid shot is perfectly centered on a human adult female, mid-30s in perceived age, with initially organic features, wearing clothing appropriate for attending a futuristic screening event and connected to a cranial interface. She is looking across a narrow, collapsing virtual bridge. On the far side, positioned centrally, stands an impossibly perfect, androgynous figure embodying pure digital structure, draped in shimmering, fragmented data textures, gazing downward toward the bridge.",
+    "ff_vis_char_idxs": [
+        0,
+        1
+    ],
+    "lf_desc": "A mid shot is perfectly centered on a human adult female, mid-30s in perceived age, whose digital form flickers slightly between her physical appearance and a jagged wireframe state, still wearing clothing appropriate for attending a futuristic screening event and connected to a cranial interface. She is positioned near the edge of a narrow, collapsing virtual bridge. On the far side stands an advanced, sophisticated AI entity, now polished with a deep, unsettling authority, whose form is no longer fragmented. This figure's gaze is fixed downward. Behind the AI entity, a violently flashing rift tears open, revealing momentary flashes of a hazy medieval battlefield.",
+    "lf_vis_char_idxs": [
+        0,
+        1
+    ],
+    "motion_desc": "The camera remains static in a mid shot framing. The human adult female, mid-30s in perceived age, wearing clothing appropriate for attending a futuristic screening event and connected to a cranial interface, remains centered, staring across the bridge. The advanced, sophisticated AI entity, initially appearing as an impossibly perfect, androgynous figure embodying pure digital structure and draped in shimmering, fragmented data textures, slowly shifts its gaze from downward to focused forward, toward the human adult female. Simultaneously, the first figure's digital form flickers between her physical appearance and a jagged wireframe state. Behind the advanced, sophisticated AI entity, a violently flashing rift tears open, momentarily revealing flashes of a hazy medieval battlefield before the gap begins to violently flicker, suggesting an unstable vortex opening.",
+    "audio_desc": "[Speaker] Noon (Flat, analytical): The architecture is unstable. But the variables… I remember the variables from the last iteration."
+}

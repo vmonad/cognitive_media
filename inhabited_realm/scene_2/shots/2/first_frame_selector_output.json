@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/character_portraits/1_Noon/back.png",
+            "A back view portrait of Noon."
+        ],
+        [
+            ".working_dir/idea2video/scene_2/shots/2/new_camera_2.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The external environment and the specific terminal detail..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A vast, perfectly ordered space illuminated by intense, organized gold and green light, depicting physically perfect architecture derived from code. A central figure, <Noon>, is positioned at the epicenter, facing away from the camera. This figure should reference Image 0.\n\nThe composition, background, and lighting should reference Image 1, but the character in Image 1 must be replaced by <Noon> referencing Image 0."
+}

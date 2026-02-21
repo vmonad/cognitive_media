@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_exterior_dusk.png",
+            "Reference establishing shot of location 'cottage_exterior_dusk': An isolated, menacing cottage viewed during the golden hour as dusk settles. The structure features ivy-covered stone walls and a crooked chimney trailing thin, pale smoke. The architecture appears old and neglected. Dead roses cling to the overgrown garden surrounding the house. A single, dim, warm-toned lantern casts a small pool of light near the heavy oak front door. The atmosphere is one of lonely menace under a darkening sky."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/shots/13/first_frame.png",
+            "A photorealistic dark fairy tale, Hollywood blockbuster production quality close-up shot from inside a dark room focused on a heavy oak interior door. The lighting is dim, suggesting the weak exterior lantern light illuminates the surface of the door. The composition is tight on the door, dominated by its dark wood texture."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale, Hollywood blockbuster production quality close-up shot. The heavy oak door should clearly reference Image 2, but be slightly ajar. Filling the gap, perfectly framed by the weak exterior lantern light shining from behind (referencing the light source in Image 0), is the face of an individual wearing a deep blood-crimson velvet hooded cloak. This individual's appearance (skin, lips, eyes, expression of flawless, innocent filial concern) should match a highly detailed portrait of a young woman with luminous porcelain skin, full lips, and striking green-hazel eyes (imagined, consistent with the dark fairy tale aesthetic, referencing the implied character focus in the scene context). Their hand holding a basket appears steady just inside the threshold. Deep chiaroscuro shadows must dominate the interior frame surrounding the revealed face. The lighting on the character's visible features must match the weak exterior lantern light source described in Image 0 and visible faintly outside the door hinge area in Image 2. The overall image must strictly adhere to the Photorealistic dark fairy tale, Hollywood blockbuster production quality style, with rich cinematic color grade, deep chiaroscuro shadows, and shallow depth of field with creamy anamorphic bokeh."
+}

@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/6_Elara (Young Woman)/front.png",
+            "CANONICAL front-view portrait of Elara (Young Woman). This is the definitive reference for this character's face and identity. A real human young woman of 18. Striking — she has her mother's amber eyes and her father's strong jaw. Wild untamed dark auburn hair. Sun-freckled skin from living outdoors. Lean athletic build from years of farm work. Wears a simple rough-spun peasant dress in earthy brown."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/6_Elara (Young Woman)/side.png",
+            "Side-view portrait of Elara (Young Woman) showing profile and body shape. Amber eyes, strong jaw, wild untamed dark auburn hair. Sun-freckled skin. Lean athletic build."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_5/location_refs/forest_clearing.png",
+            "Reference establishing shot of location 'forest_clearing': A secluded, verdant forest clearing bathed in bright daylight. Dappled sunlight streams through a dense, high canopy of deciduous trees, casting shifting patterns of light and shadow onto the ground. The floor is covered in thick, vibrant green moss growing over large, rough-hewn stones. A small, shallow stream chatters across the clearing, water flowing clear over smooth pebbles. The atmosphere is initially calm and naturalistic, suggesting mid-morning or early afternoon on a clear, sunny day. Textures should emphasize damp moss, rough bark, and clear running water."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy medium close-up shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, focuses sharply on Elara. Her appearance, including her sun-freckled skin, lean athletic build, and simple rough-spun peasant dress in earthy brown, MUST exactly replicate Image 1. Her profile and body shape should also align with Image 2. Her amber eyes are glowing faintly golden, and her expression is one of stunned realization, lips slightly parted, shoulders rigid. The background is a creamy bokeh of dappled golden light filtering through dense green foliage, reflecting the earthy tones of the forest but rendered with a shallow depth of field characteristic of anamorphic lenses, similar to the lighting and environment cues in Image 0. All visual elements must conform to the mandatory style: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Real human actors in practical costumes — genuine leather, real chainmail, wool, silk, mud, rust, sweat. Natural skin with pores, imperfections, scars, freckles, and weathering. Real weather — mist, firelight, torchlight, dawn light. Warm golden palette for the peaceful kingdom. Deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. Every surface tactile — stone, iron, parchment, silk, fur, moss, wet rock, candlewax. NOT video game, NOT CGI render, NOT digital art, NOT World of Warcraft, NOT clean fantasy, NOT anime, NOT cartoon, NOT illustrated, NOT stylized, NOT 3D render, NOT Unreal Engine, NOT polished/perfect skin, NOT plastic armor, NOT oversaturated colors."
+}

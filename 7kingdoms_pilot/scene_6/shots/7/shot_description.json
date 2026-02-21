@@ -1,0 +1,14 @@
+{
+    "idx": 7,
+    "is_last": true,
+    "cam_idx": 7,
+    "visual_desc": "HARD CUT TO PURE BLACK SCREEN. The visual terror of the shattering glass is replaced by total visual void, emphasizing the finality of the revelation and the new threat.",
+    "variation_type": "small",
+    "variation_reason": "This shot consists only of a hard cut to black, which, while abrupt, maintains a static composition (total darkness) from start to finish without any internal element movement or complex camera motion.",
+    "ff_desc": "A photorealistic medieval fantasy shot, adhering to HBO prestige television quality, presenting a frame of absolute, total blackness. There are no discernible visual elements, characters, or environmental details. The image is a complete visual void, suggesting an abrupt cut to nothingness.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A photorealistic medieval fantasy shot, adhering to HBO prestige television quality, presenting a frame of absolute, total blackness. The visual void remains, indicating no new image or detail has emerged.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "A hard cut occurs immediately from the previous frame (implied by the context of shattering glass) to this absolute blackness. The camera remains static in this void, observing a complete cessation of visual information. There is no camera movement or internal element movement; this is defined solely by the abrupt transition to visual nothingness. The mood is one of finality and shock.",
+    "audio_desc": "[Sound Effect] After the final bass note fades, there is absolute, profound silence throughout the duration of the black screen. [Title Card] The text 'THE SEVEN KINGDOMS' appears centered, rendered in imposing, antiquated silver metal. Below it, the text 'Chapter One: Blood of the Crown' appears smaller."
+}

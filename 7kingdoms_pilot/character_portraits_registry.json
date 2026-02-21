@@ -1,0 +1,100 @@
+{
+    "Queen Lyara": {
+        "front": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/front.png",
+            "description": "CANONICAL front-view portrait of Queen Lyara. This is the definitive reference for this character's face and identity. A beautiful woman with olive skin and amber eyes. Resilient in appearance. Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/side.png",
+            "description": "Side-view portrait of Queen Lyara showing profile and body shape. A beautiful woman with olive skin and amber eyes. Resilient in appearance."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/back.png",
+            "description": "Back-view portrait of Queen Lyara showing hair, clothing, and silhouette from behind. A beautiful woman with olive skin and amber eyes."
+        }
+    },
+    "Elara (Infant)": {
+        "front": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/4_Elara (Infant)/front.png",
+            "description": "CANONICAL front-view portrait of Elara (Infant). This is the definitive reference for this character's face and identity. An infant princess. Swaddled."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/4_Elara (Infant)/side.png",
+            "description": "Side-view portrait of Elara (Infant) showing profile. An infant princess."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/4_Elara (Infant)/back.png",
+            "description": "Back-view portrait of Elara (Infant). An infant princess."
+        }
+    },
+    "Sir Aldren": {
+        "front": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/3_Sir Aldren/front.png",
+            "description": "CANONICAL front-view portrait of Sir Aldren. This is the definitive reference for this character's face and identity. A scarred Knight with a sturdy build. Gruff in demeanor. Wears armor that becomes scratched and muddied."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/3_Sir Aldren/side.png",
+            "description": "Side-view portrait of Sir Aldren showing profile and body shape. A scarred Knight with a sturdy build."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/3_Sir Aldren/back.png",
+            "description": "Back-view portrait of Sir Aldren showing hair, clothing, and silhouette from behind. A scarred Knight with a sturdy build."
+        }
+    },
+    "Prince Cael": {
+        "front": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/5_Prince Cael/front.png",
+            "description": "CANONICAL front-view portrait of Prince Cael. This is the definitive reference for this character's face and identity. An infant prince. Lies in a gilded crib."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/5_Prince Cael/side.png",
+            "description": "Side-view portrait of Prince Cael showing profile. An infant prince."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/5_Prince Cael/back.png",
+            "description": "Back-view portrait of Prince Cael. An infant prince."
+        }
+    },
+    "Morgath": {
+        "front": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/2_Morgath/front.png",
+            "description": "CANONICAL front-view portrait of Morgath. This is the definitive reference for this character's face and identity. Devastatingly beautiful real human woman, appears early 40s. Porcelain-pale skin with natural texture. Large dark nearly-black eyes with no warmth. High sharp cheekbones. Full crimson lips. Long straight raven-black hair falling heavy like a curtain. Tall, slender. Wears a fitted black gown with high structured collar embroidered with dark crimson thread. A blood-red jewel hangs on a gold chain around her neck."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/2_Morgath/side.png",
+            "description": "Side-view portrait of Morgath showing profile and body shape. Porcelain-pale skin, large dark nearly-black eyes, high sharp cheekbones, long straight raven-black hair. Tall, slender."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/2_Morgath/back.png",
+            "description": "Back-view portrait of Morgath showing hair, clothing, and silhouette from behind. Long straight raven-black hair falling heavy like a curtain. Fitted black gown."
+        }
+    },
+    "Elara (Young Woman)": {
+        "front": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/6_Elara (Young Woman)/front.png",
+            "description": "CANONICAL front-view portrait of Elara (Young Woman). This is the definitive reference for this character's face and identity. A real human young woman of 18. Striking — she has her mother's amber eyes and her father's strong jaw. Wild untamed dark auburn hair. Sun-freckled skin from living outdoors. Lean athletic build from years of farm work. Wears a simple rough-spun peasant dress in earthy brown."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/6_Elara (Young Woman)/side.png",
+            "description": "Side-view portrait of Elara (Young Woman) showing profile and body shape. Amber eyes, strong jaw, wild untamed dark auburn hair. Sun-freckled skin. Lean athletic build."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/6_Elara (Young Woman)/back.png",
+            "description": "Back-view portrait of Elara (Young Woman) showing hair, clothing, and silhouette from behind. Wild untamed dark auburn hair. Simple rough-spun peasant dress in earthy brown."
+        }
+    },
+    "King Edran": {
+        "front": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/front.png",
+            "description": "CANONICAL front-view portrait of King Edran. This is the definitive reference for this character's face and identity. A man with a strong, weathered face and deep brown eyes. He possesses an air of authority. Wearing a silver-threaded Crown of Sevens; dressed in practical armor."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/side.png",
+            "description": "Side-view portrait of King Edran showing profile and body shape. A man with a strong, weathered face and deep brown eyes. Practical armor with fur-trimmed cloak."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/back.png",
+            "description": "Back-view portrait of King Edran showing hair, clothing, and silhouette from behind. Practical armor with fur-trimmed cloak."
+        }
+    }
+}

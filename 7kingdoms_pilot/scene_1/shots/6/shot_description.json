@@ -1,0 +1,18 @@
+{
+    "idx": 6,
+    "is_last": false,
+    "cam_idx": 6,
+    "visual_desc": "CLOSE UP on <QUEEN LYARA>'s face, captured mid-turn. Her expression is one of complete, agonizing defeat. Her amber eyes brim with tears, and her jaw muscles visibly clench as she forces herself to yield. She stops thrashing, her posture collapsing as <SIR ALDREN>'s grip pulls her sideways toward the hidden archway. <SIR ALDREN> (gruff, anguished) says: \"If we go back, we all die! Your daughter needs her mother alive!\" She is half-pulled through the narrow stone opening, the rough texture of ancient stone framing the edges of the shot.",
+    "variation_type": "medium",
+    "variation_reason": "The shot maintains tight focus on the primary character, but the significant physical transition — the abrupt collapse of posture and being forcibly pulled through an architectural element (the archway) — constitutes a medium structural change in the visual focus and composition from the struggle to the submission.",
+    "ff_desc": "A photorealistic medieval fantasy close-up shot, utilizing a shallow depth of field with anamorphic bokeh, focuses tightly on the face of the visibly pregnant woman with olive skin and amber eyes. She is captured precisely mid-turn, facing slightly away from the camera's direction but turning toward the side of the frame. Her expression is one of agonizing defeat; her amber eyes are brimming with tears, and the tension in her jaw muscles is apparent as she struggles internally. The lighting is dim and cold, emphasizing the rough texture of ancient stone that begins to edge into the frame from the sides.",
+    "ff_vis_char_idxs": [
+        1
+    ],
+    "lf_desc": "A photorealistic medieval fantasy close-up shot, composed with shallow depth of field and creamy anamorphic bokeh, focuses on the face of the visibly pregnant woman with olive skin and amber eyes. She is now captured in profile or three-quarters view, yielding completely as she is half-pulled through a narrow stone opening, which frames the edges of the shot with its rough texture. Her body posture has collapsed, showing complete surrender, and tears are visible on her face as she stares towards the unseen object pulling her.",
+    "lf_vis_char_idxs": [
+        1
+    ],
+    "motion_desc": "The camera executes a locked-off or very slight backward-tilted close-up while the visibly pregnant woman with olive skin and amber eyes stops her thrashing movement. Her rigid posture collapses as the scarred Knight (gruff in demeanor, wearing scratched and muddied armor) applies a sharp sideways pull. This motion forcibly drags the woman through a narrow stone archway, moving her from the initial composition plane into the confined space beyond. The transition conveys a heavy, resigned movement driven by the Knight's anguished dialogue, which cuts off abruptly as the movement concludes. The lighting remains cold and stark throughout.",
+    "audio_desc": "[Sound Effect] A faint, heartbroken whimper from <QUEEN LYARA> as she yields. The sound of the baby queen whimpering softly, barely audible over <LYARA>'s ragged breath. [Score] A low, throbbing string rhythm begins."
+}

@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/2_Prince Kael/front.png",
+            "A front view portrait of Prince Kael."
+        ],
+        [
+            ".working_dir/7kingdoms/character_portraits/2_Prince Kael/side.png",
+            "A side view portrait of Prince Kael."
+        ],
+        [
+            ".working_dir/7kingdoms/scene_0/shots/6/new_camera_6.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The specific tactical action (catapults) and Kael's personalized context..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create a medium shot in harsh daylight on a high, secure battlement overlooking a vast battle, following the composition and background of Image 2. The figure standing in the foreground should be Prince Kael, positioned similarly to the figure in Image 2. Prince Kael's appearance (armor, cape, general features) should reference Image 0 for the front-facing/detailed look and Image 1 for the side profile, as required by the intended posture of cold calculation. The background should feature large siege weapons launching projectiles marked by trapped blue energy impacting stone fortifications, as generally depicted in Image 2. The overall atmosphere should be tactical, consistent with Image 2."
+}

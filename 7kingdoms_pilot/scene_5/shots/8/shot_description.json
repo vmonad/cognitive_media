@@ -1,0 +1,19 @@
+{
+    "idx": 8,
+    "is_last": true,
+    "cam_idx": 8,
+    "visual_desc": "REVERSE ANGLE TWO-SHOT. Camera frames <Elara> slightly dominant in the foreground, her determined face filling the left side of the frame, her eyes still charged with residual golden energy. <Queen Lyara> is visible slightly behind her, looking on with a mixture of hope and terror. The camera pushes in slowly on <Elara>'s resolute expression. The light is fading slightly as the dense forest canopy seems to close in above them, lending a sense of urgency and foreboding to the commitment. The texture of her rough garments and her sun-freckled skin is clear in the diminishing light.",
+    "variation_type": "large",
+    "variation_reason": "This is a large variation because the shot transitions significantly from an established two-shot framing the environment to a tight close-up focused almost entirely on one character's face, representing a significant shift in compositional focus driven by the camera's dolly-in motion.",
+    "ff_desc": "A photorealistic medieval fantasy reverse-angle two-shot, framed with Elara (Young Woman) dominant in the foreground on the left, her determined face filling that half of the frame. Her amber eyes faintly glow with residual golden energy. Queen Lyara is visible slightly behind her to the right, her expression a tense mixture of hope and terror. The dense forest canopy creates a high contrast, with diminishing, fading light filtering down, casting long shadows and lending a sense of urgency. The shallow depth of field emphasizes the tactile quality of the young woman's rough-spun peasant dress and sun-freckled skin. Ambient sound suggests silence broken by faint, distant forest ambience (e.g., rustling leaves, subdued wind). Score: A very low, tense string drone begins, hinting at commitment.",
+    "ff_vis_char_idxs": [
+        6,
+        1
+    ],
+    "lf_desc": "A photorealistic medieval fantasy close-up, framed on Elara's (Young Woman) resolute expression. Her amber eyes are intensely focused, still bearing the faint golden luminescence of spent energy. The background surrounding her head is indistinct, consisting of deep, creamy anamorphic bokeh from the dense elements of the closing forest canopy. The diminishing light casts a somber tone across her features. The texture of her rough garment collar and the slight tension around her jaw are sharply defined by the shallow focus. Ambient sound is dominated by the immediate, close presence of the forest, perhaps the sound of steady, soft breathing from the foregrounded individual. Score: The low string drone evolves into a sustained, expectant note.",
+    "lf_vis_char_idxs": [
+        6
+    ],
+    "motion_desc": "The camera performs a slow, deliberate push-in (dolly in) on the two figures, moving from a two-shot to isolate the determined face of the young woman wearing the simple rough-spun peasant dress. This slow camera movement is motivated by the growing sense of urgency and commitment. Concurrently, Queen Lyara (visibly pregnant, wearing dark, practical peasant garb) shifts her weight slightly and perhaps subtly leans forward, her expression of terror intensifying slightly before the camera's focus settles entirely on the determined figure. The ambient light noticeably dims throughout the shot as the canopy appears to 'close in' above them.",
+    "audio_desc": "[Sound Effect] The hero’s bold, determined theme cuts in sharply, loud and clear. [Score] SCORE SWELLS dramatically. CUT TO BLACK."
+}

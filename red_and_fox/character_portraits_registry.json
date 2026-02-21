@@ -1,0 +1,58 @@
+{
+    "Red": {
+        "front": {
+            "path": ".working_dir/red_and_fox/character_portraits/0_Red/front.png",
+            "description": "A front view portrait of Red."
+        },
+        "side": {
+            "path": ".working_dir/red_and_fox/character_portraits/0_Red/side.png",
+            "description": "A side view portrait of Red."
+        },
+        "back": {
+            "path": ".working_dir/red_and_fox/character_portraits/0_Red/back.png",
+            "description": "A back view portrait of Red."
+        }
+    },
+    "The Woodsman": {
+        "front": {
+            "path": ".working_dir/red_and_fox/character_portraits/3_The Woodsman/front.png",
+            "description": "A front view portrait of The Woodsman."
+        },
+        "side": {
+            "path": ".working_dir/red_and_fox/character_portraits/3_The Woodsman/side.png",
+            "description": "A side view portrait of The Woodsman."
+        },
+        "back": {
+            "path": ".working_dir/red_and_fox/character_portraits/3_The Woodsman/back.png",
+            "description": "A back view portrait of The Woodsman."
+        }
+    },
+    "Granny": {
+        "front": {
+            "path": ".working_dir/red_and_fox/character_portraits/2_Granny/front.png",
+            "description": "A front view portrait of Granny."
+        },
+        "side": {
+            "path": ".working_dir/red_and_fox/character_portraits/2_Granny/side.png",
+            "description": "A side view portrait of Granny."
+        },
+        "back": {
+            "path": ".working_dir/red_and_fox/character_portraits/2_Granny/back.png",
+            "description": "A back view portrait of Granny."
+        }
+    },
+    "The Fox": {
+        "front": {
+            "path": ".working_dir/red_and_fox/character_portraits/1_The Fox/front.png",
+            "description": "A front view portrait of The Fox."
+        },
+        "side": {
+            "path": ".working_dir/red_and_fox/character_portraits/1_The Fox/side.png",
+            "description": "A side view portrait of The Fox."
+        },
+        "back": {
+            "path": ".working_dir/red_and_fox/character_portraits/1_The Fox/back.png",
+            "description": "A back view portrait of The Fox."
+        }
+    }
+}

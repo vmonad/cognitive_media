@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/0_King Aldric/front.png",
+            "A front view portrait of King Aldric."
+        ],
+        [
+            ".working_dir/7kingdoms/scene_0/shots/3/new_camera_3.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The close-up view of the King's horrified face/eyes (CAMERA_2 content) and the King himself..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A low-angle medium close-up focuses on the Iron Crown, which is currently airborne, caught briefly in the warm, flickering glow of candlelight within a grand, candlelit hall. The polished marble floor is visible below, reflecting some of the ambient light. The overall composition emphasizes the crown's descent. The background, including the pillars and the surrounding figures in uniform, should reference Image 1. The Iron Crown should reference the airborne crown in Image 1."
+}

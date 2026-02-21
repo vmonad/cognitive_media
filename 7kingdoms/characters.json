@@ -1,0 +1,51 @@
+[
+    {
+        "idx": 0,
+        "identifier_in_scene": "King Aldric",
+        "is_visible": true,
+        "static_features": "An aging king, displaying fragility in his later years.",
+        "dynamic_features": "Wearing the heavy, jagged Iron Crown; holding a heavy goblet in a candlelit hall."
+    },
+    {
+        "idx": 1,
+        "identifier_in_scene": "Queen Sera",
+        "is_visible": true,
+        "static_features": "A commanding leader with a fierce demeanor.",
+        "dynamic_features": "Armored in polished obsidian; visible at the front rank of cavalry formations; later seen wearing a newly forged, simpler silver crown."
+    },
+    {
+        "idx": 2,
+        "identifier_in_scene": "Prince Kael",
+        "is_visible": true,
+        "static_features": "A brilliant and ambitious strategist.",
+        "dynamic_features": "Silhouetted against forge fires while studying ancient maps; later standing glowing with dark, unnatural vitality near the Shadow Gate."
+    },
+    {
+        "idx": 3,
+        "identifier_in_scene": "The Wolf",
+        "is_visible": true,
+        "static_features": "A savage-looking warrior with a scarred face; possesses raw, instinctual power.",
+        "dynamic_features": "Riding a fierce animal, wielding a massive axe; later battered but unyielding."
+    },
+    {
+        "idx": 4,
+        "identifier_in_scene": "The Shadow Weavers",
+        "is_visible": true,
+        "static_features": "Ancient, malevolent sorcerers whose faces are obscured by darkness.",
+        "dynamic_features": "Robed figures whose presence crackles with unseen power; associated with sickly green light and the opening of the Shadow Gate."
+    },
+    {
+        "idx": 5,
+        "identifier_in_scene": "Skeletal Legion (The Risen Dead)",
+        "is_visible": true,
+        "static_features": "Skeletal warriors, impossibly old, composed of bone and rusty metal.",
+        "dynamic_features": "Rising from corrupted earth, pouring from the Shadow Gate; described as a sickening wave of shambling forms."
+    },
+    {
+        "idx": 6,
+        "identifier_in_scene": "Direwolf",
+        "is_visible": true,
+        "static_features": "Massive and snarling animals, associated with the Northern warriors.",
+        "dynamic_features": "Howling fiercely in a frozen forest setting."
+    }
+]

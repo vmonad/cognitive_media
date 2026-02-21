@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/character_portraits/1_Noon/front.png",
+            "A front view portrait of Noon."
+        ],
+        [
+            ".working_dir/idea2video/character_portraits/0_Mara/front.png",
+            "A front view portrait of Mara."
+        ],
+        [
+            ".working_dir/idea2video/scene_2/shots/4/first_frame.png",
+            "FINAL WIDE SHOT. The scene is brightly lit, indicative of noon. The composition prominently features a figure, Noon (impossibly perfect, androgynous figure embodying pure digital structure), positioned centrally or slightly to the right. In the mid-left of the frame is Mara (human adult female, mid-30s, wearing clothing appropriate for attending a futuristic screening event, connected to a cranial interface). The background is dominated by digital architecture EXPANDING infinitely, currently appearing devoid of smaller entities."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nFINAL WIDE SHOT. The composition should be identical to Image 2, which depicts the scene. Noon (polished figure embodying pure digital structure, possessing a deep, unsettling authority, with a faint, synthetic SMILE) is facing the camera, partially obscuring the background behind, and should reference Image 0 for appearance details. Mara (figure with subtle woven skin texture and eyes blending organic irises with geometric pupils) remains in the mid-left, and should reference Image 1 for appearance details. The digital architecture EXPANDS infinitely in the background, now visibly populated by hundreds of small, stable, glowing ENTITIES—the synthesized civilization. The background and overall scene lighting/atmosphere should reference Image 2."
+}

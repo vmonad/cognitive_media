@@ -1,0 +1,29 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/6_Elara (Young Woman)/front.png",
+            "CANONICAL front-view portrait of Elara (Young Woman). This is the definitive reference for this character's face and identity. A real human young woman of 18. Striking — she has her mother's amber eyes and her father's strong jaw. Wild untamed dark auburn hair. Sun-freckled skin from living outdoors. Lean athletic build from years of farm work. Wears a simple rough-spun peasant dress in earthy brown."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/6_Elara (Young Woman)/side.png",
+            "Side-view portrait of Elara (Young Woman) showing profile and body shape. Amber eyes, strong jaw, wild untamed dark auburn hair. Sun-freckled skin. Lean athletic build."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/6_Elara (Young Woman)/back.png",
+            "Back-view portrait of Elara (Young Woman) showing hair, clothing, and silhouette from behind. Wild untamed dark auburn hair. Simple rough-spun peasant dress in earthy brown."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/front.png",
+            "CANONICAL front-view portrait of Queen Lyara. This is the definitive reference for this character's face and identity. A beautiful woman with olive skin and amber eyes. Resilient in appearance. Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/side.png",
+            "Side-view portrait of Queen Lyara showing profile and body shape. A beautiful woman with olive skin and amber eyes. Resilient in appearance."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_5/location_refs/forest_clearing.png",
+            "Reference establishing shot of location 'forest_clearing': A secluded, verdant forest clearing bathed in bright daylight. Dappled sunlight streams through a dense, high canopy of deciduous trees, casting shifting patterns of light and shadow onto the ground. The floor is covered in thick, vibrant green moss growing over large, rough-hewn stones. A small, shallow stream chatters across the clearing, water flowing clear over smooth pebbles. The atmosphere is initially calm and naturalistic, suggesting mid-morning or early afternoon on a clear, sunny day. Textures should emphasize damp moss, rough bark, and clear running water."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy two-shot, presented with HBO prestige television quality and anamorphic shallow depth of field, capturing Elara (Young Woman) and Queen Lyara from the waist up. The framing is medium and slightly off-center relative to an implied stream boundary. \n\nElara (Young Woman) stands ramrod straight, facing Queen Lyara directly. Elara's appearance, including her face, hair, skin tone, and clothing (simple rough-spun peasant dress in earthy brown), MUST exactly replicate Image 1. Her expression MUST be set in an expression of fixed steel, her sun-freckled skin contrasting with the dimly receding luminous quality in her amber eyes, referencing Image 1 for facial features and Image 2 for profile/stance reference if needed for pose nuance.\nQueen Lyara is positioned opposite, leaning slightly forward. Queen Lyara's appearance, including her face, skin tone (olive), and amber eyes, MUST exactly replicate Image 4. She conveys an aspect of utter defeat.\n\nThe background environment should evoke the forest clearing established in Image 0, specifically the mossy ground, dappled sunlight, and general light/shadow patterns, but the overall lighting must be subdued, indicating the recent cessation of a magical golden light effect, matching the mood of Image 7's environment while maintaining the detail of Image 0.\n\nCompositionally, the framing should match the waist-up two-shot of Image 7, but replace the characters with the appearances defined by their respective portraits (Image 1 for Elara, Image 4 for Lyara) in corresponding positions and poses described (Elara standing straight facing Lyara, Lyara leaning forward).\n\nLighting on the characters must match the subdued, post-magic environment light, creating deep chiaroscuro shadows and creamy anamorphic bokeh, consistent with the overall style directive and the darkening mood established relative to the bright sunlight of Image 0. The texture must include 35mm film grain. Ensure characters have correct proportional scale within the environment."
+}

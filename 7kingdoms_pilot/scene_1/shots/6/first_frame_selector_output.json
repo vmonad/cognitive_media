@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/front.png",
+            "CANONICAL front-view portrait of Queen Lyara. This is the definitive reference for this character's face and identity. A beautiful woman with olive skin and amber eyes. Resilient in appearance. Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/side.png",
+            "Side-view portrait of Queen Lyara showing profile and body shape. A beautiful woman with olive skin and amber eyes. Resilient in appearance."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_1/location_refs/throne_room.png",
+            "Reference establishing shot of location 'throne_room': A vast, oppressive medieval throne room at deep night. The architecture features high vaulted ceilings supported by massive stone pillars draped with heavy, richly colored tapestries (now being slashed). The floor is polished dark marble reflecting the flickering light of numerous braziers and wall sconces, which cast long, dramatic, high-contrast shadows across the scene. The atmosphere is one of sudden, brutal chaos—overturned heavy wooden furniture (thrones, tables) made of dark oak and gilded metal litter the floor. The air feels thick with dust and violence. Weather is irrelevant as the scene is entirely indoors, but the lighting suggests stormy nighttime conditions outside, though we don't see it."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy close-up shot, utilizing a shallow depth of field with anamorphic bokeh, focuses tightly on the face of the visibly pregnant woman with olive skin and amber eyes, captured precisely mid-turn, facing slightly away from the camera's direction but turning toward the side of the frame. Her expression is one of agonizing defeat; her amber eyes are brimming with tears, and the tension in her jaw muscles is apparent as she struggles internally. The lighting is dim and cold, emphasizing the rough texture of ancient stone that begins to edge into the frame from the sides. The woman's appearance, including her face, hair, skin tone, and clothing, MUST exactly replicate Queen Lyara from Image 1. The pose (mid-turn, turning toward the side) should be guided by Image 2. The dim and cold lighting, emphasizing rough ancient stone textures, should reference the atmosphere and texture elements seen in Image 0. The resulting image must adhere strictly to the visual style: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Use deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, and 35mm film grain texture. Lighting on the character must match the cold, dim environment, emphasizing genuine skin imperfection, pores, and weathering. Her clothing must look like genuine, tactile materials (wool, leather, fur/cloak as depicted in Image 1). The character must be recognizably identical to the portrait reference — she is the SAME ACTOR, the SAME PERSON."
+}

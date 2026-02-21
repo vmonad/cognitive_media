@@ -1,0 +1,18 @@
+{
+    "idx": 2,
+    "is_last": false,
+    "cam_idx": 2,
+    "visual_desc": "EXTREME CLOSE UP on <King Aldric>'s eyes—wide, bloodshot, and filled with sudden, sharp horror. He GAGS, his breathing ragged. The focus racks slightly forward as the goblet slips from his grasp.",
+    "variation_type": "small",
+    "variation_reason": "This shot primarily focuses on a character's intense reaction and a minor action (dropping an object), with no camera movement, resulting in small variation of the composition.",
+    "ff_desc": "Extreme close-up shot focusing tightly on the eyes of a character. The eyes are wide, bloodshot, and convey sharp horror. The lighting is dim, suggesting a candlelit environment.",
+    "ff_vis_char_idxs": [
+        0
+    ],
+    "lf_desc": "Extreme close-up shot focusing tightly on the eyes of a character. The eyes are wide, bloodshot, and convey sharp horror. The heavy, jagged Iron Crown of the aging king is visible framing the eyes. The goblet is no longer visible.",
+    "lf_vis_char_idxs": [
+        0
+    ],
+    "motion_desc": "The camera remains static in an extreme close-up position. The aging king, wearing the heavy, jagged Iron Crown, exhibits ragged breathing and gags. His grasp loosens, causing the heavy goblet he was holding to slip from his grasp and fall out of the frame below.",
+    "audio_desc": "[Sound Effect] A choked gasp from <King Aldric>."
+}

@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/scene_5/location_refs/forest_clearing.png",
+            "Reference establishing shot of location 'forest_clearing': A secluded, verdant forest clearing bathed in bright daylight. Dappled sunlight streams through a dense, high canopy of deciduous trees, casting shifting patterns of light and shadow onto the ground. The floor is covered in thick, vibrant green moss growing over large, rough-hewn stones. A small, shallow stream chatters across the clearing, water flowing clear over smooth pebbles. The atmosphere is initially calm and naturalistic, suggesting mid-morning or early afternoon on a clear, sunny day. Textures should emphasize damp moss, rough bark, and clear running water."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy black screen, captured with Arri Alexa 65 and Panavision anamorphic lenses, exhibiting the texture of very fine, aged 35mm film grain. The image is entirely dark, with no discernible objects or characters. The overall visual style must adhere to photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, featuring 35mm film grain texture and deep chiaroscuro shadows. The environment detail (darkness, texture) should reference Image 0."
+}

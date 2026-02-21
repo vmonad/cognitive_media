@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/front.png",
+            "CANONICAL front-view portrait of Queen Lyara. This is the definitive reference for this character's face and identity. A beautiful woman with olive skin and amber eyes. Resilient in appearance. Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/side.png",
+            "Side-view portrait of Queen Lyara showing profile and body shape. A beautiful woman with olive skin and amber eyes. Resilient in appearance."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_5/location_refs/forest_clearing.png",
+            "Reference establishing shot of location 'forest_clearing': A secluded, verdant forest clearing bathed in bright daylight. Dappled sunlight streams through a dense, high canopy of deciduous trees, casting shifting patterns of light and shadow onto the ground. The floor is covered in thick, vibrant green moss growing over large, rough-hewn stones. A small, shallow stream chatters across the clearing, water flowing clear over smooth pebbles. The atmosphere is initially calm and naturalistic, suggesting mid-morning or early afternoon on a clear, sunny day. Textures should emphasize damp moss, rough bark, and clear running water."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy close-up, shot with an anamorphic lens, focusing intimately on Queen Lyara. Queen Lyara's face, tears visibly tracking paths down her cheeks and catching the warm, natural light filtering into the clearing, MUST exactly replicate her face from Image 1. Her amber eyes and olive skin MUST appear as in Image 1, with noticeable weathering lines added due to the close-up. Her chin exhibits a noticeable tremor, but her gaze, fixed intensely on the swaddled infant Elara (not pictured), conveys desperate clarity. The overall lighting, including the warm, natural light filtering into the clearing, MUST match the lighting suggested by the environment in Image 0. The background exhibits creamy, shallow depth-of-field bokeh from the surrounding foliage, mimicking a close-up on the environment suggested in Image 0 but with a significantly shallower depth of field. The mood should reflect the visual style directive: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, using warm earthy tones. Deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. The proportions and scale of Queen Lyara must fit naturally into the shallow depth of field background. Queen Lyara's clothing, posture, and general appearance (excluding the specific expression and added tears/weathering) should reference Image 1 for identity and Image 2 for elements like profile/posture if needed for angle, but the primary focus is the face matching Image 1."
+}

@@ -1,0 +1,14 @@
+{
+    "idx": 0,
+    "is_last": false,
+    "cam_idx": 0,
+    "visual_desc": "Complete BLACK SCREEN. Text appears stark white against the darkness: \"18 YEARS LATER.\" The text has a subtle, aged parchment texture, conforming to the photorealistic medieval fantasy style.",
+    "variation_type": "small",
+    "variation_reason": "This shot only shows text fading in against a black background, with static camera and no movement from characters or environment. Thus, the variation type is small.",
+    "ff_desc": "A completely black frame, adhering to the photorealistic medieval fantasy style. There is no visible light source or environmental detail other than the superimposed text.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A completely black frame, adhering to the photorealistic medieval fantasy style. The stark white text remains visible in the center of the screen: \"18 YEARS LATER.\" The text possesses a subtle, aged parchment texture.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera is static throughout the shot. Stark white text, textured like aged parchment, fades in slowly and remains centered against the absolute black background. Ambient sound is complete silence. The score is absent.",
+    "audio_desc": "[Speaker] Narrator (deep, aged male voice, like a historian telling a legend): \"The Queen kept her word. She hid among common folk, in a village so small it had no name. And she raised her daughter as a farmer's child — strong, stubborn, and completely unaware of the blood that ran in her veins.\""
+}

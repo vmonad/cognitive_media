@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/2_Morgath/front.png",
+            "CANONICAL front-view portrait of Morgath. This is the definitive reference for this character's face and identity. Devastatingly beautiful real human woman, appears early 40s. Porcelain-pale skin with natural texture. Large dark nearly-black eyes with no warmth. High sharp cheekbones. Full crimson lips. Long straight raven-black hair falling heavy like a curtain. Tall, slender. Wears a fitted black gown with high structured collar embroidered with dark crimson thread. A blood-red jewel hangs on a gold chain around her neck."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/2_Morgath/side.png",
+            "Side-view portrait of Morgath showing profile and body shape. Porcelain-pale skin, large dark nearly-black eyes, high sharp cheekbones, long straight raven-black hair. Tall, slender."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_3/shots/2/new_camera_2.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The setting (THRONE ROOM), the crib, and Prince Cael..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description, adhering strictly to the visual style: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. \n\nA photorealistic medieval fantasy CLOSE UP, shot with an Arri Alexa 65 and Panavision anamorphic lenses, featuring Morgath and an ancient, enormous leather-bound book resting lightly on a heavy stone pedestal. The book's thick, yellowed pages display arcane script emitting a sickly, internal green luminescence, with the light strongly illuminating the immediate area. The lighting sculpts the sharp planes of Morgath's face, catching the high sharpness of her cheekbones, referencing Image 1's lighting cues. Her large, dark, unreadable eyes, MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 0 (Morgath's facial features and crown) and Image 2 (her overall appearance, focusing on the dark eyes and pale skin). She wears long black gloves (referencing Image 2's implied attire), her hands resting lightly on the edges of the parchment. The composition must reference the close-up composition and book/pedestal setup from Image 1, but Morgath's position, body shape, and glove details from Image 2 and Image 1 should be integrated. The scene is dominated by rich dark crimson-and-black tones, consistent with the established throne room atmosphere (Image 0) but dominated by the book's green light spill. The atmosphere should be intensely focused and arcane, with deep chiaroscuro shadows and shallow depth of field with creamy anamorphic bokeh, and 35mm film grain texture. Ensure Morgath's facial structure and expression are identical to Image 0. The pedestal and lighting environment must look physically embedded and tactilely real, referencing the stone texture from Image 1 and the candlelit darkness/crimson tones from Image 0."
+}

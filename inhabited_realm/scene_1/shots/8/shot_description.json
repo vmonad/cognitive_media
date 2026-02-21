@@ -1,0 +1,16 @@
+{
+    "idx": 8,
+    "is_last": false,
+    "cam_idx": 8,
+    "visual_desc": "MONTAGE SHOT 2 of 3 (RAPID CUT): A CGI medieval KNIGHT, mid-swing of a sword, flickers violently, its form breaking apart into green triangles before vanishing entirely. The texture of the environment around it warps momentarily.",
+    "variation_type": "large",
+    "variation_reason": "The shot depicts a complete, violent termination of a major visual element (the CGI knight) and a significant, albeit momentary, alteration of the background environment's texture, causing a complete change in the visual focus and content from the start to the end of the frame.",
+    "ff_desc": "An extreme close-up shot focused on the environment texture, which appears warped and digitally disrupted, suggesting an ongoing chaotic event. No distinct characters are fully visible, the frame is dominated by abstract, glitching visuals and the momentary appearance of what looks like a CGI medieval KNIGHT captured mid-swing with a sword.",
+    "ff_vis_char_idxs": [
+        2
+    ],
+    "lf_desc": "The environment texture has returned to a stable state, though perhaps subtly altered, with no visible sword-wielding entity or triangular fragments remaining. The frame is empty of the knight, focusing solely on the environment's texture.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera remains static during this brief, violent event. The CGI medieval KNIGHT, captured mid-swing, undergoes rapid digital disintegration: its form flickers violently, breaking apart into green triangles before completely vanishing. Simultaneously, the texture of the real-world environment surrounding the vanishing entity warps momentarily.",
+    "audio_desc": "[Audio] A sudden, high-pitched orchestral string crescendo followed immediately by digital static."
+}

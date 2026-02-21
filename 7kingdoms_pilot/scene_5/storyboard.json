@@ -1,0 +1,65 @@
+[
+    {
+        "idx": 0,
+        "is_last": false,
+        "cam_idx": 0,
+        "visual_desc": "BLACK SCREEN. The texture of very fine, aged 35mm film grain is visible across the frame.",
+        "audio_desc": "[Narrator (deep, aged male voice, like a historian telling a legend)]: The Queen had waited eighteen years for this moment. She had prayed it would never come. And she had prayed it would."
+    },
+    {
+        "idx": 1,
+        "is_last": false,
+        "cam_idx": 1,
+        "visual_desc": "FADE IN: A wide, establishing shot in a secluded forest clearing. Sunlight is dappled, creating moving patterns of golden light and deep chiaroscuro shadows on the mossy stones and a chattering stream running across the foreground. The environment is intensely tactile with visible moss and wet rock. <Queen Lyara> (late 50s, weathered face, wearing dark, practical peasant garb that shows dust and wear) stands patiently center-left, facing slightly toward the right edge of the frame where <Elara> (Young Woman) is expected to enter. The entire scene possesses a warm, earthy palette with heavy anamorphic lens flare catching the sunlight through the canopy. Camera is static, wide angle.",
+        "audio_desc": "[Sound Effect] Gentle stream noise, clear birdsong. Soft, low orchestral theme begins to build subtly."
+    },
+    {
+        "idx": 2,
+        "is_last": false,
+        "cam_idx": 2,
+        "visual_desc": "MEDIUM SHOT. Camera positioned slightly lower than eye-level, focused on <Queen Lyara> as she turns her body fully toward <Elara>, who is just entering the frame from the right. <Queen Lyara>'s face shows deep lines of stress and suppressed pain etched around her amber eyes, illuminated by the warm, shifting forest light. Her peasant dress appears rough wool against the velvet green moss in the background (shallow DOF, creamy bokeh). <Queen Lyara> speaks, her posture rigid: \"Your name is not Elara the farmer's daughter. Your name is Elara, firstborn of King Edran, heir to the Seven Kingdoms. Your father was murdered. Your brother was taken. And the woman who sits on your father's throne... she is not a queen. She is a witch who has waited eighteen years to sacrifice your brother's blood for power that will make her immortal.\". <Elara> is partially visible on the far right, hands clenching her rough skirt.",
+        "audio_desc": "[Speaker] Queen Lyara (Voice steady but laced with suppressed pain): Your name is not Elara the farmer's daughter. Your name is Elara, firstborn of King Edran, heir to the Seven Kingdoms. Your father was murdered. Your brother was taken. And the woman who sits on your father's throne... she is not a queen. She is a witch who has waited eighteen years to sacrifice your brother's blood for power that will make her immortal. [Score] Aching, building string motif begins to rise."
+    },
+    {
+        "idx": 3,
+        "is_last": false,
+        "cam_idx": 3,
+        "visual_desc": "CLOSE UP, rack focus move. The camera executes a slow, tight PUSH-IN, focusing initially on <Elara>'s mouth and jawline, capturing the subtle tremor in her lower lip consistent with shock and incipient fury. When she speaks, her amber eyes are wide, showing raw disbelief. The background—part of the stream and moss—is rendered in soft, creamy bokeh. <Elara> manages a barely audible response: \"You're lying.\". Camera drives closer as <Queen Lyara>'s voice continues over the denial, her chin trembling slightly, still lit by the dappled green-gold light: \"Look at your hands, Elara. You have your father's gift. The blood of kings. It was always in you.\"",
+        "audio_desc": "[Speaker] Elara (Barely audible, lips barely moving): You're lying. [Score] A quiet, tense single violin note holds beneath Lyara's accusation. [Speaker] Queen Lyara (Voice strained): Look at your hands, Elara. You have your father's gift. The blood of kings. It was always in you."
+    },
+    {
+        "idx": 4,
+        "is_last": false,
+        "cam_idx": 4,
+        "visual_desc": "EXTREME CLOSE UP on <Elara>'s hand, slightly dirty from farm work, held aloft in the air near the stream. A vibrant, luminous GOLDEN LIGHT pours violently from her fingertips. The light is so intense it creates strong highlights on her skin and pushes the surrounding mossy rock into deep shadow (chiaroscuro). The water in the stream nearby visibly slows, hesitates, then violently reverses its flow against gravity. Small, wet mossy stones lift silently upward around the stream, caught in a nascent golden vortex. <Elara>'s amber eyes, just visible in the upper third of the frame, are glowing intensely with raw power. The return of the powerful golden HUM is palpable. <Elara> asks, her voice shaking from the internal conflict of awe and anger: \"How long? How long have you known what I am?\"",
+        "audio_desc": "[Sound Effect] The return of the golden HUM, now soaring and resonant. Water flow reversing against physics. [Speaker] Elara (Voice trembling with wonder and fury): How long? How long have you known what I am?"
+    },
+    {
+        "idx": 5,
+        "is_last": false,
+        "cam_idx": 5,
+        "visual_desc": "CLOSE UP on <Queen Lyara>. Tears track clean paths down the weathered lines of her face, visible in the intricate texture of her skin. Her chin trembles noticeably, but her gaze on <Elara> is locked with desperate clarity. The warm, natural light of the clearing catches the moisture on her cheeks. <Queen Lyara> responds, breath catching: \"Since the night I carried you through the dark. Since the night I left your brother behind.\"",
+        "audio_desc": "[Sound Effect] Score swells into something triumphant yet tragic. [Speaker] Queen Lyara (Tears streaming, chin trembling): Since the night I carried you through the dark. Since the night I left your brother behind."
+    },
+    {
+        "idx": 6,
+        "is_last": false,
+        "cam_idx": 6,
+        "visual_desc": "TWO SHOT — medium framing, framing both <Elara> and <Queen Lyara> from the waist up, positioned slightly off-center relative to the stream. <Elara> has slowly lowered her hand; the golden light has receded, but her amber eyes remain luminous and sharp. The carefree peasant appearance is gone; her posture is ramrod straight, conveying an instant, inherited authority. She faces <Queen Lyara> directly. <Elara>'s expression is now fixed steel. She asks, her voice transformed: \"Where is my brother?\". <Queen Lyara> looks utterly defeated, leaning slightly forward.",
+        "audio_desc": "[Score] The triumphant element of the music solidifies, taking on a foundation of resolve. [Speaker] Elara (Her unpolished voice now carrying undeniable, inherited authority): Where is my brother?"
+    },
+    {
+        "idx": 7,
+        "is_last": false,
+        "cam_idx": 7,
+        "visual_desc": "CLOSE UP on <Queen Lyara>'s face, lit softly by the dappled light. Her mouth barely moves as she whispers, her eyes locked on <Elara>, conveying complete surrender to fate: \"The Witch has him. In the castle where your father died.\". The camera holds here for a beat, emphasizing the weight of the location name. Then, the focus shifts slightly to <Elara> on the opposite side of the frame (still a two-shot composition), whose jaw immediately locks, an expression of pure iron resolution forming over her features. Her eyes flare gold again violently for a second. <Elara> declares her intent: \"Then I'm going back. And I'm bringing him home.\"",
+        "audio_desc": "[Speaker] Queen Lyara (Whispering, defeated): The Witch has him. In the castle where your father died. [Speaker] Elara (Jaw locks, eyes flaring gold again): Then I'm going back. And I'm bringing him home."
+    },
+    {
+        "idx": 8,
+        "is_last": true,
+        "cam_idx": 8,
+        "visual_desc": "REVERSE ANGLE TWO-SHOT. Camera frames <Elara> slightly dominant in the foreground, her determined face filling the left side of the frame, her eyes still charged with residual golden energy. <Queen Lyara> is visible slightly behind her, looking on with a mixture of hope and terror. The camera pushes in slowly on <Elara>'s resolute expression. The light is fading slightly as the dense forest canopy seems to close in above them, lending a sense of urgency and foreboding to the commitment. The texture of her rough garments and her sun-freckled skin is clear in the diminishing light.",
+        "audio_desc": "[Sound Effect] The hero’s bold, determined theme cuts in sharply, loud and clear. [Score] SCORE SWELLS dramatically. CUT TO BLACK."
+    }
+]

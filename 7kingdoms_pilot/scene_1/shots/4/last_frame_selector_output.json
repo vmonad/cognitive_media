@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/front.png",
+            "CANONICAL front-view portrait of Queen Lyara. This is the definitive reference for this character's face and identity. A beautiful woman with olive skin and amber eyes. Resilient in appearance. Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/side.png",
+            "Side-view portrait of Queen Lyara showing profile and body shape. A beautiful woman with olive skin and amber eyes. Resilient in appearance."
+        ]
+    ],
+    "text_prompt": "Create an image based on the following description: A photorealistic medieval fantasy, HBO prestige television quality, tight close-up shot, focused on Queen Lyara. Queen Lyara MUST exactly replicate her face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 1, but modified to be 'dark, practical peasant garb' as mentioned in Image 1's description. Additionally, her profile, body shape, and silhouette from the side in this close-up should reference the posture/form suggested by Image 2.\n\nHer face fills the frame, starkly illuminated by the intense, warm golden light of nearby firelight catching the terror in her appearance. Her amber eyes are wide, reflecting the intense light source, and her mouth is pulled into the physical shape of a silent scream, the lips drawn tight against her teeth. The scene must adhere to the visual style: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Real human actors in practical costumes — genuine leather, real chainmail, wool, silk, mud, rust, sweat. Natural skin with pores, imperfections, scars, freckles, and weathering. Deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. The lighting on her face must be characterized by intense, warm golden light from a firelight source, creating deep chiaroscuro shadows, matching the atmosphere implied by the chaotic throne room lighting in Image 0 (though only the character is visible). Every surface tactile."
+}

@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/scene_0/shots/3/first_frame.png",
+            "EXTREME CLOSE UP, the camera is positioned underneath a flat surface, perhaps a floor or within a dark server core cavity. The frame is dark, dominated by tight metallic or structural textures implying confined space and technological infrastructure."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nThe frame is completely overwhelmed and entirely white due to an intense, crushing pulse of light, completely obliterating any discernible structural details or features of the environment. The lighting and overall mood should reference Image 0, but the scene should be entirely white."
+}

@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/dark_forest_path.png",
+            "Reference establishing shot of location 'dark_forest_path': A dense, ancient forest canopy seen at dusk. The lighting is low, moody, and dominated by deep shadows. Patches of thick, low-hanging fog drift through the trees, pierced occasionally by faint, ethereal god rays filtering down from above. The forest floor is dark, cluttered with moss and decaying organic matter, revealing a narrow, dirt path that vanishes into oppressive shadows. Atmospheric quality is intensely dense and oppressive."
+        ],
+        [
+            ".working_dir/red_and_fox/character_portraits/0_Red/front.png",
+            "A front view portrait of Red."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description, adhering strictly to the visual style: Photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones and one vivid accent color (Red's crimson cloak), volumetric god rays in forest scenes, warm candlelight interiors with deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture, practical lighting sources (oil lamps, fireplace, lanterns), every surface tactile and weathered (moss, bark, iron, lace, wet stone, velvet), atmospheric fog and rain. NOT cartoon, NOT anime, NOT illustrated, NOT stylized, NOT digital art, NOT 3D render, NOT watercolor, NOT painting.\n\nA photorealistic dark fairy tale close-up, shot at ground level with an anamorphic lens, focusing intensely on a worn leather boot belonging to the figure in the deep blood-crimson velvet hooded cloak. The boot is mid-descent, about to step over a thick, gnarled tree root that crosses the dirt path. The leather texture MUST appear damp, and the root MUST be visibly wet, referencing the dampness and texture shown in Image 0's environment.\n\nThe figure wearing the boot and cloak MUST look like Red, and her deep blood-crimson velvet hooded cloak MUST exactly replicate the appearance from Image 1. Specifically, the crimson velvet texture, the hood shape, and the overall garment style must match Image 1.\n\nThe lighting must be low and diffused, consistent with the moody, shadowy environment of Image 0, with extremely shallow depth of field rendering the immediate surrounding path edges into a smooth, dark bokeh. The proportion and lighting must be correct for this close-up ground action relative to the environment in Image 0. The character (foot/boot) must look physically embedded in the muddy, root-covered forest path of Image 0."
+}

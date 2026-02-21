@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/character_portraits/0_Red/back.png",
+            "A back view portrait of Red."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_interior_granny_room.png",
+            "Reference establishing shot of location 'cottage_interior_granny_room': The interior of the cottage at night, lit primarily by the low, dying orange embers in the fireplace. Granny sits in a heavy, dark wood rocking chair, which is slowly moving. In the shadows, a dark wood table is visible where a heavy leather book rests. The mood is claustrophobic, dominated by the dying firelight and deep shadows. A large grandfather clock is present, likely standing sentinel."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nA photorealistic dark fairy tale EXTREME CLOSE-UP shot, executed with Arri Alexa 65 and anamorphic lenses, capturing the face of Red. Red's appearance, including her luminous porcelain skin and strikingly green-hazel eyes, should reference Image 0. Initial composition shows her features held fixed, perhaps mid-expression of dawning realization; her lips are slightly parted, and her eyes show a flicker of intense, trapped emotion, reflecting the dim internal light. The lighting on her face must match the dim, warm interior light source with deep chiaroscuro shadows described in Image 1. The background is swallowed by deep chiaroscuro shadow due to the shallow depth of field and primary lighting focus on the face, consistent with the atmosphere of Image 1. The image must adhere to the visual style: Photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones and one vivid accent color (Red's crimson cloak), warm candlelight interiors with deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture, practical lighting sources, every surface tactile and weathered, atmospheric fog and rain."
+}

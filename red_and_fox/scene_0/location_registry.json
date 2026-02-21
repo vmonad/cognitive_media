@@ -1,0 +1,26 @@
+{
+    "dark_forest_path": {
+        "path": ".working_dir/red_and_fox/scene_0/location_refs/dark_forest_path.png",
+        "description": "Reference establishing shot of location 'dark_forest_path': A dense, ancient forest canopy seen at dusk. The lighting is low, moody, and dominated by deep shadows. Patches of thick, low-hanging fog drift through the trees, pierced occasionally by faint, ethereal god rays filtering down from above. The forest floor is dark, cluttered with moss and decaying organic matter, revealing a narrow, dirt path that vanishes into oppressive shadows. Atmospheric quality is intensely dense and oppressive."
+    },
+    "cottage_exterior_dusk": {
+        "path": ".working_dir/red_and_fox/scene_0/location_refs/cottage_exterior_dusk.png",
+        "description": "Reference establishing shot of location 'cottage_exterior_dusk': An isolated, menacing cottage viewed during the golden hour as dusk settles. The structure features ivy-covered stone walls and a crooked chimney trailing thin, pale smoke. The architecture appears old and neglected. Dead roses cling to the overgrown garden surrounding the house. A single, dim, warm-toned lantern casts a small pool of light near the heavy oak front door. The atmosphere is one of lonely menace under a darkening sky."
+    },
+    "cottage_interior_flashback": {
+        "path": ".working_dir/red_and_fox/scene_0/location_refs/cottage_interior_flashback.png",
+        "description": "Reference establishing shot of location 'cottage_interior_flashback': A cramped, dimly lit interior space dominated by the intense, flickering orange glow emanating from a stone fireplace. The light throws strong, dancing shadows, particularly the massive, severe shadow of an unseen figure (Granny) engulfing the foreground. The floor appears to be cold, dark stone. The atmosphere is charged with internalized fear and tension."
+    },
+    "cottage_interior_granny_room": {
+        "path": ".working_dir/red_and_fox/scene_0/location_refs/cottage_interior_granny_room.png",
+        "description": "Reference establishing shot of location 'cottage_interior_granny_room': The interior of the cottage at night, lit primarily by the low, dying orange embers in the fireplace. Granny sits in a heavy, dark wood rocking chair, which is slowly moving. In the shadows, a dark wood table is visible where a heavy leather book rests. The mood is claustrophobic, dominated by the dying firelight and deep shadows. A large grandfather clock is present, likely standing sentinel."
+    },
+    "cottage_back_garden_night": {
+        "path": ".working_dir/red_and_fox/scene_0/location_refs/cottage_back_garden_night.png",
+        "description": "Reference establishing shot of location 'cottage_back_garden_night': The rear exterior of the cottage at deep night. Focus is on the stonework foundation and a small, unlatched back window from which a faint, warm firelight glows. Low-hanging fog drifts across the stones. The surrounding back garden is overgrown and dark. The night sky above the chimney is inky black. The atmosphere is one of approaching, quiet danger."
+    },
+    "cottage_exterior_rain_storm": {
+        "path": ".working_dir/red_and_fox/scene_0/location_refs/cottage_exterior_rain_storm.png",
+        "description": "Reference establishing shot of location 'cottage_exterior_rain_storm': The cottage exterior during a violent, heavy downpour at night. Rain hammers the thatched roof in continuous sheets, causing the surrounding path to turn to mud. A flash of lightning briefly scrapes stark light across the wet, dark stonework walls and enhances the appearance of the sodden, dead garden. The atmosphere is chaotic, loud, and metaphoric of severe consequence."
+    }
+}

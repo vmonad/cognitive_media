@@ -1,0 +1,16 @@
+{
+    "idx": 4,
+    "is_last": false,
+    "cam_idx": 4,
+    "visual_desc": "A rapid montage sequence establishing mobilization. First, <Queen Sera> (fierce, armored in black obsidian) stands empowered on a desert precipice, arms outstretched to her legions. Second, <Prince Kael> (intense gaze) is silhouetted against the orange GLOW of subterranean forge fires, examining colossal military maps. Third, <The Wolf> (scarred, imposing) stands motionless in a swirling white BLIZZARD, his monstrous DIREWOLF resting its muzzle near his shoulder. This shot ends as dozens of distinct kingdom BANNERS (Sun, Gryphon, Ice) unfurl simultaneously against harsh skies.",
+    "variation_type": "large",
+    "variation_reason": "This is a rapid montage sequence establishing mobilization, cutting between three vastly different static scenes (desert, forge interior, blizzard) before resolving on a final climactic image of unified banners unfurling. The significant subject matter and setting changes mandate a large variation classification.",
+    "ff_desc": "A wide shot dominated by a harsh desert landscape under high contrast lighting. On a rocky precipice, an armored figure (fierce, armored in black obsidian) stands silhouetted with arms outstretched toward a vast plain of assembled legions below. The overall color palette is dry and stark, emphasizing the figure's commanding presence.",
+    "ff_vis_char_idxs": [
+        1
+    ],
+    "lf_desc": "A chaotic composition under harsh, turbulent skies (possibly overcast or storm-lit). Dozens of distinct banners, including emblems like the Sun, Gryphon, and Ice, are mid-unfurl, displaying vibrant color against the muted background. The composition is busy, filled with vertical lines of cloth snapping in the wind.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "This shot is a rapid sequence of three distinct cuts transitioning between establishing images, connected by implied speed and mobilization. **Cut 1:** The shot begins on the armored figure (fierce, armored in black obsidian) before immediately cutting. **Cut 2:** The camera cuts to frame a second individual (intense gaze) in a tight shot, silhouetted strongly against the intense orange GLOW emanating from what appears to be subterranean forge fires, this individual examining colossal military maps. **Cut 3:** The camera cuts again to a figure (scarred, imposing) standing utterly motionless in a swirling white BLIZZARD, standing near a massive, resting primal canine that gently rests its muzzle near the figure's shoulder. The sequence concludes with an immediate, sharp cut to the final image of dozens of kingdom BANNERS (Sun, Gryphon, Ice) unfurling violently and simultaneously against the sky.",
+    "audio_desc": "[Voiceover] (MALE, DEEP, SOMBER): \"When the iron crown falls, the seven will burn.\" [Music] A massive, coordinated sound cue of thousands of boots and siege engines hitting a single tempo."
+}

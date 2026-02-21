@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/1_Queen Sera/front.png",
+            "A front view portrait of Queen Sera."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nAn exterior scene in a narrow canyon during the day. The shot is a chaotic medium shot of the Southern Infantry pinned down. The commanding leader, whose appearance should reference Image 0, has a fierce demeanor. The soldiers display visible panic. The environment should be rocky canyon walls providing cover, though the soldiers appear exposed, and the scene should be brightly lit by daylight."
+}

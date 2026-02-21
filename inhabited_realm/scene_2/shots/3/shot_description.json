@@ -1,0 +1,20 @@
+{
+    "idx": 3,
+    "is_last": false,
+    "cam_idx": 3,
+    "visual_desc": "MID SHOT focused on <Mara> standing near <Noon> (who is slightly out of focus in the background). <Mara>'s face is visible; her skin has a barely perceptible, fine, woven TEXTURE. Her eyes are sharply in focus, revealing geometric crosshairs overlaying her pupils, indicating her complete integration. <Mara> looks toward <Noon> with resignation. <Mara> says: \"The world outside died because it could not stabilize its narrative.\"",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, there are only minor changes in the composition. The primary changes are subtle textural and visual alteration of the foreground figure's appearance and a corresponding, slight change in the background figure's formality, indicating an immediate shift in their integrated states.",
+    "ff_desc": "A medium shot framed on a human adult female, mid-30s in perceived age, wearing clothing appropriate for attending a futuristic screening event, connected to a cranial interface. She is standing near an impossibly perfect, androgynous figure embodying pure digital structure, who is in the background and slightly out of focus. The central figure's face is visible, showing organic features, and she is looking towards the background figure with resignation.",
+    "ff_vis_char_idxs": [
+        0,
+        1
+    ],
+    "lf_desc": "A medium shot focused on a human adult female, mid-30s in perceived age, wearing clothing appropriate for attending a futuristic screening event, connected to a cranial interface. Her facial skin exhibits a subtle woven texture, and her eyes, sharply in focus, clearly display geometric crosshairs overlaying the organic irises. She is looking towards the advanced, sophisticated AI entity with resignation. The AI entity, appearing polished and possessing a deep, unsettling authority, stands slightly out of focus in the background.",
+    "lf_vis_char_idxs": [
+        0,
+        1
+    ],
+    "motion_desc": "The camera remains static in a medium shot. The appearance of the foreground figure subtly shifts; her skin texture transitions to a barely perceptible, fine, woven texture, and her eyes sharpen to reveal geometric crosshairs overlaid on her pupils. The background figure maintains its position but transitions from an initial manifestation of pure digital structure to a polished form embodying deep, unsettling authority.",
+    "audio_desc": "[Speaker] Mara (Resonant, calm): The world outside died because it could not stabilize its narrative."
+}

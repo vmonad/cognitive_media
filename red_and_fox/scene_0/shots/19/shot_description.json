@@ -1,0 +1,20 @@
+{
+    "idx": 19,
+    "is_last": true,
+    "cam_idx": 19,
+    "visual_desc": "SILHOUETTE SHOT (SCENE 4) captured from a dark, dry vantage point inside the cottage, looking out through the window glass. <Red> (Character 0) and <The Fox> (Character 1) stand side-by-side, their outlines sharp and dark against the dim, rain-streaked interior light. They watch the Woodsman’s broad silhouette shrink against the backdrop of the dark, rain-swept forest. As his shape vanishes, <Red> subtly allows the mask to slip; a small, triumphant SMILE touches her lips for the first time, illuminated briefly by a residual interior flicker. Camera remains locked on this moment of victory, highlighting the outline of their shared secret.",
+    "variation_type": "medium",
+    "variation_reason": "The core composition remains static, but a key element (The Woodsman/Character 2) exits the frame completely during the shot, and a significant internal shift occurs—the visual manifestation of triumph (the subtle smile) on the face of the figure in the deep blood-crimson velvet hooded cloak is revealed through lighting change, marking a pivot point in the narrative.",
+    "ff_desc": "A photorealistic dark fairy tale silhouette shot captured from a dark, dry vantage point inside a cottage, looking out through a window filled with dim, rain-streaked interior light. Two figures, the one wearing a deep blood-crimson velvet hooded cloak and the other wearing a long dark charcoal coat trimmed in auburn fox fur, stand side-by-side. They are presented as sharp, dark outlines against the muted background light. Beyond them, framed by the window, the broad silhouette of a man in a red-and-black plaid flannel shirt stands in the backdrop of the dark, rain-swept forest. The composition emphasizes the sharp contrast of the interior silhouettes against the exterior gloom. Ambient sound is dominated by the steady patter of rain against glass and wood; the score is a low, sustained, tense drone.",
+    "ff_vis_char_idxs": [
+        0,
+        1
+    ],
+    "lf_desc": "A photorealistic dark fairy tale close-up silhouette shot focused inside the cottage, looking through the rain-streaked window. The figure wearing the long dark charcoal coat stands beside the figure wearing the deep blood-crimson velvet hooded cloak. The woodsman's silhouette is completely gone from the exterior view. The face of the figure in crimson is now slightly visible due to a fleeting interior flicker, revealing a subtle, upward curve of the lips in a triumphant, barely perceptible smile. Their forms remain sharply defined against the diffused, dark background light visible through the glass. Ambient sound is limited to the lingering sound of heavy rainfall outside and the soft textural presence of 35mm film grain; the score resolves into a single, high, sustained violin note.",
+    "lf_vis_char_idxs": [
+        0,
+        1
+    ],
+    "motion_desc": "The camera remains static (locked down) for the duration of the shot, maintaining an unchanging composition focused on the window. As the broad-shouldered silhouette of the Woodsman (wearing a red-and-black plaid flannel shirt) moves away, his shape outside the window shrinks against the dark, rain-swept forest backdrop until he vanishes completely. Immediately following the disappearance of the forest figure, the silhouette of the individual in the deep blood-crimson velvet hooded cloak subtly shifts their facial posture, allowing a small, barely visible triumphant smile to touch their lips, briefly illuminated by a residual interior flicker. The predator-like companion in the long dark charcoal coat remains stoically still beside them, sharing the moment. The atmosphere is one of cold, satisfied victory.",
+    "audio_desc": "[Sound Effect] The roar of the RAIN begins to SOFTEN slightly as the focus shifts internally. [Music Score] The ominous rumble cuts out, replaced by a brief SWELL of soaring, triumphant, yet slightly dangerous STRINGS."
+}

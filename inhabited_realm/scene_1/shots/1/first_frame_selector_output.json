@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/character_portraits/0_Mara/front.png",
+            "A front view portrait of Mara."
+        ],
+        [
+            ".working_dir/idea2video/scene_1/shots/1/new_camera_1.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The detailed emotional reaction and cranial interface device visible only in the Close Up..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A close-up shot focusing tightly on the face of a human adult female, mid-30s in perceived age. Her eyes should reflect complex, swirling blue and green light originating from an unseen cranial interface device near her temples, referencing Image 1. The facial appearance, expression, and head position should reference Image 0. The lighting should be dominated by these reflected, cool tones, referencing Image 1."
+}

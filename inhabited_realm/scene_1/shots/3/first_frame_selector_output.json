@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/character_portraits/0_Mara/front.png",
+            "A front view portrait of Mara."
+        ],
+        [
+            ".working_dir/idea2video/scene_1/shots/3/new_camera_3.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The context of the surrounding crowd, the dome, and the initial explosion. Shot 3 shifts the perspective dramatically to a new digital landscape..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A subjective Point-of-View (POV) shot, highly distorted or characterized by digital artifacting, placing the viewer where Mara's vision begins. The immediate foreground consists of broken, dark digital cobblestones under dim, ambient light. The overall environment is surreal, featuring glowing circuit boards intersecting with canals of dark, shimmering liquid, which should reference Image 1 (Image 3). The visual appearance and style of Mara, as implied by the POV, should be influenced by Image 0 (Image 0), capturing her near-future/cybernetic aesthetic within this digital landscape."
+}

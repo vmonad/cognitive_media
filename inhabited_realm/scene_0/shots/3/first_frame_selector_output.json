@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/scene_0/shots/3/new_camera_3.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The specific detail of the THERMAL CHARGE detonation and the intense white energy pulse within the conduits..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nEXTREME CLOSE UP, the camera is positioned underneath a flat surface, perhaps a floor or within a dark server core cavity. The frame is dark, dominated by tight metallic or structural textures implying confined space and technological infrastructure. The composition and background should reference Image 0, but the specific detail of the THERMAL CHARGE detonation and the intense white energy pulse within the conduits should be removed or replaced with the general appearance of the environment shown in Image 0."
+}

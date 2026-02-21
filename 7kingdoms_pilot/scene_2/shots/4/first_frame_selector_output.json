@@ -1,0 +1,37 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/3_Sir Aldren/front.png",
+            "CANONICAL front-view portrait of Sir Aldren. This is the definitive reference for this character's face and identity. A scarred Knight with a sturdy build. Gruff in demeanor. Wears armor that becomes scratched and muddied."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/3_Sir Aldren/side.png",
+            "Side-view portrait of Sir Aldren showing profile and body shape. A scarred Knight with a sturdy build."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/3_Sir Aldren/back.png",
+            "Back-view portrait of Sir Aldren showing hair, clothing, and silhouette from behind. A scarred Knight with a sturdy build."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/front.png",
+            "CANONICAL front-view portrait of Queen Lyara. This is the definitive reference for this character's face and identity. A beautiful woman with olive skin and amber eyes. Resilient in appearance. Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/side.png",
+            "Side-view portrait of Queen Lyara showing profile and body shape. A beautiful woman with olive skin and amber eyes. Resilient in appearance."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/back.png",
+            "Back-view portrait of Queen Lyara showing hair, clothing, and silhouette from behind. A beautiful woman with olive skin and amber eyes."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/4_Elara (Infant)/front.png",
+            "CANONICAL front-view portrait of Elara (Infant). This is the definitive reference for this character's face and identity. An infant princess. Swaddled."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_2/location_refs/forest_edge.png",
+            "Reference establishing shot of location 'forest_edge': A dramatic transition point at the edge of a dense forest as dawn breaks. The ground is covered in thick, cold, white mist that obscures the lower parts of the trees and the immediate surroundings. In the background, visible above the mist layer or on a ridge, stands a large, imposing castle structure visibly engulfed in bright orange and red flames against a lightening, pale blue and grey sky. The lighting is dim dawn light struggling to penetrate the mist, emphasizing contrast between the cold ground and the hot firelight in the distance. Weather is cold and heavily misty."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description, maintaining the style of Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, and 35mm film grain texture. \n\nGenerate a Medium Long Shot, slightly above eye level with a minimized Dutch angle, capturing the backs of two figures: a scarred Knight in muddy armor and a woman in dark, practical peasant garb, slightly behind him. The woman is holding a swaddled infant. \n\n**Character References:**\n1. The scarred Knight's appearance (face, hair, build, armor condition, and mud/scratches) MUST exactly replicate Sir Aldren from Image 0 (front portrait) and Image 2 (back view) for posture and clothing details.\n2. The woman's appearance (face, hair, build, and dark, practical peasant garb) MUST exactly replicate Queen Lyara from Image 3 (front portrait) and Image 5 (back view) for clothing silhouette.\n3. The swaddled infant MUST exactly replicate Elara (Infant) from Image 6.\n\n**Environmental/Scene References:**\n4. The setting must be the forest edge establishing shot captured in Image 7: Surrounded by low-lying, dense, impenetrable white mist hugging the forest floor, with dark trees visible. \n5. The lighting must be the pale, slightly yellowish light characteristic of a bruised dawn sky filtering through fog, as seen in Image 7. The figures must be sharply defined against the fog. The lighting on the characters must match the environment's dawn light filtering through mist.\n6. The Knight's posture must be their back view, matching the silhouette/positioning context provided by Image 2.\n7. The woman's posture must be her back view/side view, matching the silhouette/positioning context provided by Image 4 or Image 5, as she is viewed from behind while holding the infant.\n\nEnsure both figures are positioned in the foreground, seen from behind, walking away from the viewer, surrounded by the low-lying white mist, referencing the atmosphere and composition of Image 7. The Knight is slightly in front of the woman. Maintain correct proportional scale: the Knight is sturdy, the woman is average height, and the infant is small and swaddled."
+}

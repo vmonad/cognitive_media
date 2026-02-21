@@ -1,0 +1,14 @@
+{
+    "idx": 0,
+    "is_last": false,
+    "cam_idx": 0,
+    "visual_desc": "OPEN on an EXTREME WIDE SHOT sweeping across impossible, varied landscapes establishing the scope: jagged snow peaks (EAST) transition immediately to shimmering heat haze over arid plains (SOUTH). An urgent, foreboding orchestral swell underscores the visuals. The frame is vast and heavily stylized.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, there is no introduction or substantial movement of characters/elements, only a camera sweep that reframes the established vast landscape, resulting in small visual change within the frame's basic composition.",
+    "ff_desc": "An Extreme Wide Shot, heavily stylized and vast, dominated by a composition showing jagged snow peaks on the left (East) immediately adjacent to shimmering heat haze over arid plains on the right (South). The foreground and overall lighting suggest a sweeping, epic establishing view.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "An Extreme Wide Shot, heavily stylized and vast, dominated by a composition showing jagged snow peaks on the left (East) immediately adjacent to shimmering heat haze over arid plains on the right (South). The frame is vast and heavily stylized.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera executes a sweeping movement across the impossible, varied landscapes, transitioning smoothly from the composition dominated by jagged snow peaks to the composition dominated by shimmering heat haze over arid plains, establishing the scope of the world. An urgent, foreboding orchestral swell plays beneath the visuals.",
+    "audio_desc": "[Music] Orchestral score swells dramatically, full of foreboding majesty."
+}

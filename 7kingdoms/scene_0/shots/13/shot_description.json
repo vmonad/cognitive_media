@@ -1,0 +1,19 @@
+{
+    "idx": 13,
+    "is_last": false,
+    "cam_idx": 13,
+    "visual_desc": "EXT. RUINS - THE INVASION. A sickening, drawn-out shot focusing on the ground opening up into a colossal FISSURE—The Shadow Gate, swirling with sickly green light. A wave of the SKELETAL LEGION (The Risen Dead) pours forth, wielding rusty weapons. The living armies (<Sera>'s and <The Wolf>'s forces) recoil in unified horror, visible fear on their faces. <Prince Kael> stands proudly illuminated by the gate's glow.",
+    "variation_type": "medium",
+    "variation_reason": "The shot begins focused on the geographical event (the Fissure opening) and then transitions to reveal the emergence of the main threat (Skeletal Legion) and the reaction of the major characters (recoiling armies and the illuminated Prince Kael). The content composition changes significantly due to the action of the pouring horde, justifying a medium variation.",
+    "ff_desc": "EXT. RUINS - THE INVASION. A wide, low-angle shot focused on the ground where a colossal FISSURE, the Shadow Gate, is shown swirling with sickly green light. The overall lighting is dominated by this unnatural green glow emanating from the earth. The environment suggests a battlefield or ruined area.",
+    "ff_vis_char_idxs": [
+        5
+    ],
+    "lf_desc": "EXT. RUINS - THE INVASION. A wide, low-angle shot focused on the ground where a colossal FISSURE, the Shadow Gate, is shown swirling with sickly green light. A massive wave of skeletal warriors, composed of bone and rusty metal, is actively pouring forth from the gate, many holding rusty weapons. In the foreground, figures representing the living armies recoil in unified horror.",
+    "lf_vis_char_idxs": [
+        0,
+        5
+    ],
+    "motion_desc": "The camera performs a slow, sickening, drawn-out focus shift or push-in towards the ground opening up into the FISSURE. Simultaneously, a wave of the Skeletal Legion (The Risen Dead) pours forth from the gate. The living armies' troops, including those led by the armored figure in polished obsidian, recoil backward in unified horror as the skeletal horde emerges. Prince Kael (brilliant and ambitious strategist), silhouetted against the gate's glow, remains standing proudly, illuminated by the dark vitality emanating from the opening.",
+    "audio_desc": "[Sound Effect] A sickening, drawn-out sound effect of grinding tectonic plates, followed by the clatter of skeletal warriors."
+}

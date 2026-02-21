@@ -1,0 +1,18 @@
+{
+    "idx": 9,
+    "is_last": true,
+    "cam_idx": 9,
+    "visual_desc": "MONTAGE SHOT 3 of 3: EXTREME CLOSE UP on <Mara>'s face, contorted in a silent scream. Her lower body, from the waist down, has visually phased through the digital ground into the void below, visible only as a dissolving static outline. Her organic eyes are now clearly mixed with sharp, geometric pupils.",
+    "variation_type": "small",
+    "variation_reason": "This shot is a static frame holding a specific, highly altered visual state of the existing character, characteristic of the final montage segment. There is no camera movement, and the character's state (scream, phasing, altered eyes) is established and held, resulting in small variation.",
+    "ff_desc": "An Extreme Close Up (ECU) focusing tightly on the face of a human adult female, mid-30s in perceived age, referred to by the index 0. Her face is contorted in a silent scream. Her eyes clearly show a mix of organic irises and sharp, geometric pupils. Subtly visible is a woven skin texture over her face. The visual content suggests her lower body, from the waist down, has phased through the ground plane into a lower digital void, represented by a dissolving static outline.",
+    "ff_vis_char_idxs": [
+        0
+    ],
+    "lf_desc": "An Extreme Close Up (ECU) tightly focused on the face of the human adult female, mid-30s in perceived age (index 0). Her face remains contorted in the silent scream. Her eyes retain the distinct blend of organic irises and sharp, geometric pupils. The lower portion of her body remains visually phased through the digital ground, indicated by the dissolving static outline descending into the void.",
+    "lf_vis_char_idxs": [
+        0
+    ],
+    "motion_desc": "The shot is static. The primary dynamic elements involve the internal state and presentation quality of the subject in focus: features are fixed in a state of agony (silent scream), her eyes are permanently set with the mixed organic/geometric pupils, and the visual anomaly of her lower body phasing into the void remains constant throughout the duration of the shot.",
+    "audio_desc": "[Audio] The chaotic WAR soundscape peaks: the orchestral score clashes violently with prolonged, agonizing digital modem screeches. FADE TO BLACK."
+}

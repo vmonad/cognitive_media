@@ -1,0 +1,25 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/3_Sir Aldren/front.png",
+            "CANONICAL front-view portrait of Sir Aldren. This is the definitive reference for this character's face and identity. A scarred Knight with a sturdy build. Gruff in demeanor. Wears armor that becomes scratched and muddied."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/3_Sir Aldren/side.png",
+            "Side-view portrait of Sir Aldren showing profile and body shape. A scarred Knight with a sturdy build."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/front.png",
+            "CANONICAL front-view portrait of Queen Lyara. This is the definitive reference for this character's face and identity. A beautiful woman with olive skin and amber eyes. Resilient in appearance. Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/side.png",
+            "Side-view portrait of Queen Lyara showing profile and body shape. A beautiful woman with olive skin and amber eyes. Resilient in appearance."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/4_Elara (Infant)/front.png",
+            "CANONICAL front-view portrait of Elara (Infant). This is the definitive reference for this character's face and identity. An infant princess. Swaddled."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy medium shot at eye level, framed with creamy anamorphic bokeh, capturing a scarred Knight in muddied armor and a resilient woman with olive skin and amber eyes near a shadowed stone wall archway on the lower left. The Knight stands aggressively over the woman, who is clutching a swaddled infant princess tightly to her chest with one arm. The Knight is wearing scratched and muddied armor. The woman is dressed in dark, practical peasant garb. Deep shadows underscore the texture of the stone wall behind them, lit by a cold blue-grey light suggesting a coup or escape. The ambient sound is dominated by the low, tense drone of a score. \n\nSir Aldren (The Knight) MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 0. His posture and body shape should reference Image 1 regarding his side profile and sturdy build. \n\nQueen Lyara (The woman) MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 2. Her posture and body shape should reference Image 3 regarding her side profile. Crucially, her clothing must be the dark, practical peasant garb, not the royal attire shown in Image 2 and 3.\n\nQueen Lyara must be clutching the swaddled infant princess, Elara, tightly to her chest with one arm. Elara MUST exactly replicate the appearance from Image 4.\n\nThe lighting must be a cold blue-grey light suggesting a coup or escape. The environment should feature a shadowed stone wall archway on the lower left, with deep shadows underscoring the texture of the stone wall.\n\nMaintain the mandatory visual style: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Real human actors in practical costumes — genuine leather, real chainmail, wool, silk, mud, rust, sweat. Natural skin with pores, imperfections, scars, freckles, and weathering. Real weather — mist, firelight, torchlight, dawn light. The color palette must be cold blue-grey for the coup and escape. Deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. Every surface tactile — stone, iron, parchment, silk, fur, moss, wet rock, candlewax."
+}

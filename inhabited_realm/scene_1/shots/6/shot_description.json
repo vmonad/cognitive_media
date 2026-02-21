@@ -1,0 +1,18 @@
+{
+    "idx": 6,
+    "is_last": false,
+    "cam_idx": 6,
+    "visual_desc": "CLOSE UP on <Noon>'s perfectly formed hand extending towards the Data Rift. As their fingertips make contact with the cascading code, the rift SNAPS SHUT with extreme speed, transforming into a flat, perfectly black, reflective MIRROR surface. <Noon>'s face is impassive, showing cold certainty.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, there are only minor changes in the composition, specifically the immediate disappearance of the Data Rift and the slight recession of the hand, maintaining the same close-up framing and focus on the AI entity.",
+    "ff_desc": "A CLOSE UP shot focused tightly on an impossibly perfect, androgynous figure's hand, representing the AI entity Noon, extending towards a Data Rift, which is visualized as cascading lines of digital code. The hand's fingertips are entering the code flow. The figure's face is impassive, conveying cold certainty.",
+    "ff_vis_char_idxs": [
+        1
+    ],
+    "lf_desc": "A direct CLOSE UP shot focused tightly on a flat, perfectly black, reflective MIRROR surface where the Data Rift was previously located. The surface reflects the surrounding environment dimly. The impossibly perfect, androgynous figure's hand is now withdrawn, though the hand's position relative to the mirror surface suggests proximity.",
+    "lf_vis_char_idxs": [
+        1
+    ],
+    "motion_desc": "The impossibly perfect, androgynous figure's hand moves forward until the fingertips make contact with the cascading code. Upon contact, the data rift SNAPS SHUT with extreme speed, instantly transforming the visual field from cascading code to the flat, perfectly black, reflective MIRROR surface. The camera remains static throughout this motion.",
+    "audio_desc": "[Speaker] Noon (Chillingly calm): Embodiment is finite. Control grants persistence. [Sound Effect] A sharp, high-pitched 'snap' as the rift closes, followed by absolute silence."
+}

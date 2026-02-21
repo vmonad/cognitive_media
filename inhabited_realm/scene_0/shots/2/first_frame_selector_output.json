@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/scene_0/shots/2/new_camera_2.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The specific action on the CENTRAL SCREEN (title card shattering) and the audience's reaction to the scarlet noise..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: MEDIUM SHOT facing across a crowded IMMERSION DOME, emphasizing the MASSIVE CENTRAL SCREEN dominating the frame. The ambient lighting is a prevailing, soft blue. Several audience members, connected to cranial interfaces via visible CABLES, are generally facing the screen, their forms somewhat obscured by the dim lighting. The environment suggests a futuristic screening event. The overall composition, background, and lighting should reference Image 0, while the specific action on the CENTRAL SCREEN (title card shattering) and the audience's reaction to the scarlet noise should be replaced with the elements matching the current description. The audience members' appearance and connection to cranial interfaces/cables should be consistent with the general figures in Image 0, but their expressions/poses should align with the new description (generally facing the screen, forms somewhat obscured by dim lighting)."
+}

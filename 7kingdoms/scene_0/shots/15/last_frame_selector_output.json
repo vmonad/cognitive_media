@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/scene_0/shots/15/first_frame.png",
+            "EXT. SHADOW FISSURE - CLIMAX. A tight medium shot frames a battered and bleeding warrior, identified as The Wolf, facing a swirling green maw of the Shadow Gate. The warrior is positioned center frame, looking directly toward the supernatural phenomenon. The mood is dark and intense, illuminated by the sickly green light emanating from the fissure."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: EXT. SHADOW FISSURE - CLIMAX. A tight medium shot captures the empty, swirling green maw of the Shadow Gate. The area where the warrior was standing is now just the backdrop of the now-closed fissure. The light is intensely green at the center, where the gate has snapped shut. The overall scene and lighting should essentially be the setting from Image 0, but with The Wolf character removed, leaving only the dark, craggy background and the intensely green, swirling, and now-closed Shadow Gate at the center."
+}

@@ -1,0 +1,18 @@
+{
+    "idx": 3,
+    "is_last": false,
+    "cam_idx": 3,
+    "visual_desc": "SHOT 1 (POV - MARA) - Transition complete. <Mara> awakens abruptly, standing on broken, dark digital cobblestones. The environment is a surreal landscape where glowing MEGA-CIRCUIT BOARDS intersect with canals of dark, shimmering liquid. <Mara> looks down at her hands; they FLICKER rapidly between solid flesh and a jagged, orange wireframe skeleton. She is disoriented.",
+    "variation_type": "small",
+    "variation_reason": "The camera remains static, holding the POV shot. The only significant change is the internal visual event concerning the hands of the central figure (human adult female, mid-30s in perceived age, possessing features that are initially organic) flickering between solid flesh and a jagged, orange wireframe skeleton, which is a small, contained action.",
+    "ff_desc": "A subjective Point-of-View (POV) shot, highly distorted or characterized by digital artifacting, placing the viewer where Mara's vision begins. The immediate foreground consists of broken, dark digital cobblestones under dim, ambient light. The overall environment is surreal, featuring glowing MEGA-CIRCUIT BOARDS intersecting with canals of dark, shimmering liquid.",
+    "ff_vis_char_idxs": [
+        0
+    ],
+    "lf_desc": "A subjective Point-of-View (POV) shot. The viewer's perspective is stabilized, looking at the ground made of broken, dark digital cobblestones. The surrounding environment remains surreal, composed of glowing MEGA-CIRCUIT BOARDS and canals of dark, shimmering liquid. The viewer is seemingly fixed in place.",
+    "lf_vis_char_idxs": [
+        0
+    ],
+    "motion_desc": "The camera remains static, holding the POV perspective, but the visual field of the character whose perspective it is captures a sudden internal shift: the hands are brought into focus and observed. The hands rapidly flicker between a representation of solid flesh and a jagged, orange wireframe skeleton, indicating disorientation.",
+    "audio_desc": "[Sound Effect] A low, echoing digital distortion sound loop, reminiscent of failing hardware. Water lapping strangely."
+}

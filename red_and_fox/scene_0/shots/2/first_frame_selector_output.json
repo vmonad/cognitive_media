@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/character_portraits/0_Red/front.png",
+            "A front view portrait of Red."
+        ],
+        [
+            ".working_dir/red_and_fox/character_portraits/1_The Fox/front.png",
+            "A front view portrait of The Fox."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_exterior_dusk.png",
+            "Reference establishing shot of location 'cottage_exterior_dusk': An isolated, menacing cottage viewed during the golden hour as dusk settles. The structure features ivy-covered stone walls and a crooked chimney trailing thin, pale smoke. The architecture appears old and neglected. Dead roses cling to the overgrown garden surrounding the house. A single, dim, warm-toned lantern casts a small pool of light near the heavy oak front door. The atmosphere is one of lonely menace under a darkening sky."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale, Hollywood blockbuster production quality, two-shot with an intimate framing and a low angle. The scene is set on the wet path outside the menacing, ivy-covered cottage (Reference Image 2) at dusk, with thin fog curling around the characters' ankles. \n\n<Character 1 (The Brunette, Red)>: Place her standing close to the man, facing him. Her appearance MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 1. Since the description mentions 'brunette with long dark wavy chestnut-brown hair and luminous porcelain skin' and Image 1 shows her hooded, use Image 1 for the overall appearance, specifically her porcelain skin and figure in the red cloak. Her striking green-hazel eyes should burn with desperate longing under the low available light. Her breath must be visible as thin white mist in the cool dusk air.\n\n<Character 2 (The Man, The Fox)>: Place him standing close to the woman, facing her. His appearance MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 3. His glowing amber-golden eyes must be razor-sharp and intense under his wild reddish-brown tousled hair. His breath must be visible as thin white mist in the cool dusk air.\n\nEnsure both characters are placed at correct proportional scale within the environment. Lighting on characters must match the environment's light sources (dim lantern light from the cottage door, the last vestiges of golden hour light from the darkening sky), creating deep chiaroscuro shadows consistent with the visual style. Characters must look physically embedded in the space, not composited on top. The overall style MUST adhere to the visual directive: Photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones and one vivid accent color (Red's crimson cloak), warm candlelight interiors with deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture, atmospheric fog and rain."
+}

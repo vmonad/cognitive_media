@@ -1,0 +1,100 @@
+{
+    "The Shadow Weavers": {
+        "front": {
+            "path": ".working_dir/7kingdoms/character_portraits/4_The Shadow Weavers/front.png",
+            "description": "A front view portrait of The Shadow Weavers."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms/character_portraits/4_The Shadow Weavers/side.png",
+            "description": "A side view portrait of The Shadow Weavers."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms/character_portraits/4_The Shadow Weavers/back.png",
+            "description": "A back view portrait of The Shadow Weavers."
+        }
+    },
+    "Direwolf": {
+        "front": {
+            "path": ".working_dir/7kingdoms/character_portraits/6_Direwolf/front.png",
+            "description": "A front view portrait of Direwolf."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms/character_portraits/6_Direwolf/side.png",
+            "description": "A side view portrait of Direwolf."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms/character_portraits/6_Direwolf/back.png",
+            "description": "A back view portrait of Direwolf."
+        }
+    },
+    "Skeletal Legion (The Risen Dead)": {
+        "front": {
+            "path": ".working_dir/7kingdoms/character_portraits/5_Skeletal Legion (The Risen Dead)/front.png",
+            "description": "A front view portrait of Skeletal Legion (The Risen Dead)."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms/character_portraits/5_Skeletal Legion (The Risen Dead)/side.png",
+            "description": "A side view portrait of Skeletal Legion (The Risen Dead)."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms/character_portraits/5_Skeletal Legion (The Risen Dead)/back.png",
+            "description": "A back view portrait of Skeletal Legion (The Risen Dead)."
+        }
+    },
+    "King Aldric": {
+        "front": {
+            "path": ".working_dir/7kingdoms/character_portraits/0_King Aldric/front.png",
+            "description": "A front view portrait of King Aldric."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms/character_portraits/0_King Aldric/side.png",
+            "description": "A side view portrait of King Aldric."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms/character_portraits/0_King Aldric/back.png",
+            "description": "A back view portrait of King Aldric."
+        }
+    },
+    "Queen Sera": {
+        "front": {
+            "path": ".working_dir/7kingdoms/character_portraits/1_Queen Sera/front.png",
+            "description": "A front view portrait of Queen Sera."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms/character_portraits/1_Queen Sera/side.png",
+            "description": "A side view portrait of Queen Sera."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms/character_portraits/1_Queen Sera/back.png",
+            "description": "A back view portrait of Queen Sera."
+        }
+    },
+    "Prince Kael": {
+        "front": {
+            "path": ".working_dir/7kingdoms/character_portraits/2_Prince Kael/front.png",
+            "description": "A front view portrait of Prince Kael."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms/character_portraits/2_Prince Kael/side.png",
+            "description": "A side view portrait of Prince Kael."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms/character_portraits/2_Prince Kael/back.png",
+            "description": "A back view portrait of Prince Kael."
+        }
+    },
+    "The Wolf": {
+        "front": {
+            "path": ".working_dir/7kingdoms/character_portraits/3_The Wolf/front.png",
+            "description": "A front view portrait of The Wolf."
+        },
+        "side": {
+            "path": ".working_dir/7kingdoms/character_portraits/3_The Wolf/side.png",
+            "description": "A side view portrait of The Wolf."
+        },
+        "back": {
+            "path": ".working_dir/7kingdoms/character_portraits/3_The Wolf/back.png",
+            "description": "A back view portrait of The Wolf."
+        }
+    }
+}

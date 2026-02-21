@@ -1,0 +1,18 @@
+{
+    "idx": 4,
+    "is_last": false,
+    "cam_idx": 4,
+    "visual_desc": "CAMERA RACK FOCUS starts on the last bead of sweat on <KING EDRAN>'s dying eye (which is now blurred) and shifts sharply to a CLOSE UP on <QUEEN LYARA>'s face. Her olive skin is starkly lit by firelight catching the terror. Her naturally resilient appearance is shattered; her amber eyes are wide with raw horror and her mouth is pulled into a silent scream shape, lips drawn tight. <QUEEN LYARA> (screaming) says: \"EDRAN!\"",
+    "variation_type": "medium",
+    "variation_reason": "The shot transitions focus from a minute detail on one character (King Edran) to reveal the full, reacting face of another character (Queen Lyara), accompanied by a significant change in facial expression and a dramatic vocalization, which constitutes a medium change in visual information and emotional focus.",
+    "ff_desc": "A photorealistic medieval fantasy, HBO prestige television quality, extreme close-up, low angle shot, focused precisely on the last bead of sweat clinging to the blurred, dying eye of King Edran (wearing a silver-threaded Crown of Sevens and practical armor). The lighting is harsh and localized, emphasizing the wet reflection on the skin, suggesting a close proximity to a strong light source like firelight, contrasted by deep chiaroscuro shadows. Only the skin texture around the eye and the crown's edge are marginally in sharp focus, the rest is deep, creamy anamorphic bokeh, rich with 35mm film grain texture.",
+    "ff_vis_char_idxs": [
+        0
+    ],
+    "lf_desc": "A photorealistic medieval fantasy, HBO prestige television quality, tight close-up shot, focused on Queen Lyara (olive skin, visibly pregnant, wearing dark, practical peasant garb). Her face fills the frame, starkly illuminated by the intense, warm golden light of nearby firelight catching the terror in her appearance. Her amber eyes are wide, reflecting the intense light source, and her mouth is pulled into the physical shape of a silent scream, the lips drawn tight against her teeth. The shallow depth of field blurs out the surrounding environment into warm-toned bokeh.",
+    "lf_vis_char_idxs": [
+        1
+    ],
+    "motion_desc": "The motion involves a rapid camera rack focus transition. Starting stationary, the focus suddenly shears backward (rack focus) away from the marginally sharp details of King Edran's dying eye to snap sharply into precise focus on the face of Queen Lyara (olive skin, visibly pregnant, wearing dark, practical peasant garb). As the focus shifts, the Queen lets out an audible, sharp intake of breath followed by a raw vocalization. The ambient sound is dominated by the crackle of nearby fire. The emotional score is absent, punctuated only by the character's vocal sound.",
+    "audio_desc": "[Sound Effect] The muffled battle sounds are distant now, just a low roar. [Score] The single cello note swells briefly, profoundly sad."
+}

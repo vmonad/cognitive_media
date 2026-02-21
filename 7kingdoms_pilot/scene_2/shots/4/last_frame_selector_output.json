@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/scene_2/location_refs/forest_edge.png",
+            "Reference establishing shot of location 'forest_edge': A dramatic transition point at the edge of a dense forest as dawn breaks. The ground is covered in thick, cold, white mist that obscures the lower parts of the trees and the immediate surroundings. In the background, visible above the mist layer or on a ridge, stands a large, imposing castle structure visibly engulfed in bright orange and red flames against a lightening, pale blue and grey sky. The lighting is dim dawn light struggling to penetrate the mist, emphasizing contrast between the cold ground and the hot firelight in the distance. Weather is cold and heavily misty."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_2/shots/4/first_frame.png",
+            "A photorealistic medieval fantasy Medium Long Shot, slightly above eye level with a minimized Dutch angle, capturing the backs of a scarred Knight in muddy armor and a woman in dark, practical peasant garb, slightly behind him. The woman is holding a swaddled infant. They are surrounded by low-lying, dense, impenetrable white mist hugging the forest floor. A pale, slightly yellowish light, characteristic of a bruised dawn sky filtering through fog, provides the only illumination. The figures are sharply defined against the fog."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy Medium Long Shot, slightly above eye level, showing only the dense, impenetrable white mist. There are no clearly discernible human figures or structures remaining in the frame, as the environment is completely consumed by the fog. The pale, slightly yellowish light of the bruised dawn remains diffused. \n\nThis image should visually continue the setting established in Image 1, focusing solely on the dense, impenetrable white mist environment with the diffused, pale yellowish light of the bruised dawn. The tactile quality of the air and ground should match the mist/dawn feel of Image 1 and the surrounding environment suggested by Image 2. The overall visual style MUST adhere to the mandatory directive: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. NOT video game, NOT CGI render, NOT digital art, NOT World of Warcraft, NOT clean fantasy, NOT anime, NOT cartoon, NOT illustrated, NOT stylized, NOT 3D render, NOT Unreal Engine, NOT polished/perfect skin, NOT plastic armor, NOT oversaturated colors."
+}

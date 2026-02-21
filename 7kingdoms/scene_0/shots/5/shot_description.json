@@ -1,0 +1,21 @@
+{
+    "idx": 5,
+    "is_last": true,
+    "cam_idx": 5,
+    "visual_desc": "ESTABLISHING SHOT of the FIRST SCENE ENDING: A WIDE SHOT of the mobilization. Banners of three distinct factions are flying above battle-ready troops across three distinct terrains, illustrating the coming civil war. The scale is immense.",
+    "variation_type": "small",
+    "variation_reason": "The camera remains static, and the primary change is the subtle emergence of new elements (skeletal legion and the robed figures) in one section of the frame, indicating the start of the mobilization's more sinister elements, which constitutes a minor shift in the overall composition of the wide shot.",
+    "ff_desc": "An ESTABLISHING WIDE SHOT capturing the mobilization scene. Three distinct terrains are visible, each occupied by battle-ready troops affiliated with different factions. Banners representing these three factions fly high above the formations, illustrating the scale of the impending civil war.",
+    "ff_vis_char_idxs": [
+        1,
+        6
+    ],
+    "lf_desc": "An ESTABLISHING WIDE SHOT capturing the mobilization scene. Three distinct terrains are visible, each occupied by battle-ready troops affiliated with different factions. Banners representing these three factions fly high above the formations, illustrating the scale of the impending civil war. The skeletal warriors are beginning to pour forth from the area associated with the Shadow Gate.",
+    "lf_vis_char_idxs": [
+        1,
+        5,
+        6
+    ],
+    "motion_desc": "The shot remains static throughout. The initial composition shows the three terrain zones and their respective troops. As the shot concludes, the robed figures associated with unseen power start to congregate near one section of the terrain (the site of the Shadow Gate), and the skeletal warriors composed of bone and rusty metal begin to rise from the corrupted earth in that area, adding another visual element to the immense static scene.",
+    "audio_desc": "[Music] The mobilization sound cue cuts sharply into a driving, relentless war theme."
+}

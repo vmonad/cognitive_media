@@ -1,0 +1,18 @@
+{
+    "idx": 2,
+    "is_last": false,
+    "cam_idx": 2,
+    "visual_desc": "WIDE SHOT of the immediate location on the ground. The massive screen above the crowd suddenly explodes in a brilliant, jarring flash of white light, followed by a wave of digital distortion—the 'Arkanoid bombing'. The explosion visually manifests as geometric shapes tearing the air. Crowd members are seen recoiling in abstract shock. <Mara> is visible trying to pull the interface off.",
+    "variation_type": "large",
+    "variation_reason": "This is a large variation because the shot transitions from a visually coherent scene to one dominated by an explosive, abstract visual phenomenon (the digital distortion) that fundamentally alters the entire visual composition and causes significant, widespread movement within the crowd.",
+    "ff_desc": "A WIDE SHOT capturing the immediate environment on the ground where a large crowd has gathered for a futuristic screening event. The scene is visually dominated by a massive screen positioned above the crowd, which is currently displaying an image or video. Several crowd members occupy the lower half of the frame, appearing relatively static.",
+    "ff_vis_char_idxs": [
+        0
+    ],
+    "lf_desc": "A WIDE SHOT of the same ground location. The crowd is thrown into disarray, with members visibly recoiling in shock. The air is filled with the visual residue of abstract, geometric shapes, indicating a violent disruption. One individual, wearing clothing appropriate for attending a futuristic screening event, is seen entangled, actively attempting to detach a cranial interface.",
+    "lf_vis_char_idxs": [
+        0
+    ],
+    "motion_desc": "The shot begins static. Suddenly, the massive screen above the crowd emits a brilliant, jarring flash of white light, instantly succeeded by a wave of digital distortion—the 'Arkanoid bombing'. This manifests visually as sharp, geometric shapes tearing through the air across the frame. In reaction to the light and distortion, the crowd members exhibit sudden, jarring physical recoil. The individual wearing clothing appropriate for attending a futuristic screening event is seen moving to pull a cranial interface away from their head.",
+    "audio_desc": "[Sound Effect] Massive, digitized explosion sound layered with a sharp, abrasive screech. The crowd screams, digitally distorted."
+}

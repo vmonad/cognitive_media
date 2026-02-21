@@ -1,0 +1,30 @@
+[
+    {
+        "idx": 0,
+        "identifier_in_scene": "Red",
+        "is_visible": true,
+        "static_features": "Beautiful brunette with long dark wavy chestnut-brown hair, luminous porcelain skin, striking green-hazel eyes, full lips, high sculpted cheekbones. Slender but not fragile.",
+        "dynamic_features": "Wears a deep blood-crimson velvet hooded cloak over a fitted dark charcoal dress with lace-trimmed cuffs. Worn leather boots. Iron locket around her neck. Voice: soft, measured, slightly breathy when emotional. Speaks slowly and deliberately — the voice of someone masking every feeling. When afraid, her voice drops to barely a whisper."
+    },
+    {
+        "idx": 1,
+        "identifier_in_scene": "The Fox",
+        "is_visible": true,
+        "static_features": "A devastatingly handsome man with distinctly wolfish, predatory features. Sharp angular jawline with high prominent cheekbones that cast shadows. Slightly pointed ears. Glowing amber-golden eyes with slit-like pupils that catch light supernaturally. Wild reddish-brown tousled hair swept back. Light stubble along the jaw. A thin scar across his left eyebrow. Lean muscular build like a predator. Slightly elongated canine teeth visible when he smiles. His skin has a faintly weathered, almost inhuman quality. He looks like a werewolf trapped in human form — feral magnetism, dangerous beauty.",
+        "dynamic_features": "Wears a long dark charcoal coat with high collar trimmed in auburn fox fur, black leather gloves. The coat billows when he moves. Moves like shadow — silent, predatory, fluid. Voice: low, smooth baritone with a slight rasp. Speaks in half-whispers even when there is no need for secrecy. Seductive cadence. When urgent, his voice becomes clipped and precise like a blade."
+    },
+    {
+        "idx": 2,
+        "identifier_in_scene": "Granny",
+        "is_visible": true,
+        "static_features": "Gaunt and imperious. Silver-white hair in a severe tight bun stretching the skin at her temples. Deep-set ice-blue eyes that miss nothing. Thin lips pressed into a permanent line of disapproval. Liver-spotted hands with long bony fingers. Ramrod-straight posture.",
+        "dynamic_features": "Wears a high-collared black Victorian dress with jet buttons to the chin, cameo brooch at the throat, dark shawl over shoulders indoors. Voice: crisp, cold, perfectly enunciated. Every word is a controlled weapon. She never raises her voice — her whisper carries more menace than a scream."
+    },
+    {
+        "idx": 3,
+        "identifier_in_scene": "The Woodsman",
+        "is_visible": true,
+        "static_features": "Broad-shouldered and barrel-chested, thick dark beard streaked with grey, kind weathered face with deep laugh lines. Large calloused hands. Honest, open expression.",
+        "dynamic_features": "Wears red-and-black plaid flannel shirt, heavy leather work belt, mud-caked boots. Carries a large woodsman's axe with worn hickory handle. Voice: deep, warm, earnest. A working man's voice — no pretense, no suspicion. Speaks plainly and gently."
+    }
+]

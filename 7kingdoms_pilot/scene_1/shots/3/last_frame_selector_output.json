@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/front.png",
+            "CANONICAL front-view portrait of King Edran. This is the definitive reference for this character's face and identity. A man with a strong, weathered face and deep brown eyes. He possesses an air of authority. Wearing a silver-threaded Crown of Sevens; dressed in practical armor."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/side.png",
+            "Side-view portrait of King Edran showing profile and body shape. A man with a strong, weathered face and deep brown eyes. Practical armor with fur-trimmed cloak."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_1/shots/3/first_frame.png",
+            "A photorealistic medieval fantasy medium close-up, shot with an Arri Alexa 65 and anamorphic lenses, focusing tightly on King Edran's face. His deep brown eyes are wide with effort and shock against the backdrop of carnage, which creates soft, out-of-focus, deep chiaroscuro bokeh behind him. His expression shows visible strain and immediate structural failure in his posture. He is wearing practical armor with silver threading visible on the gorget. Ambient sound is dominated by the low, unsettling thud of silence following an intense battle, underpinned by a faint, slow heartbeat percussion score."
+        ]
+    ],
+    "text_prompt": "Create an image based on the following description:\nA photorealistic medieval fantasy close-up, shot with an Arri Alexa 65 and anamorphic lenses, showing King Edran collapsed onto his knees. His head is tilted slightly, and his eyes are fixed desperately toward the right edge of the frame. Dark, matte steel is fully embedded in his back, and a visible trickle of dark, tacky fluid stains the silver threading on his gorget. The shallow depth of field isolates him against the blurred, cold blue-grey background carnage. The ambient sound is absolute silence save for a very low cello drone score. \n\nKing Edran's appearance, face, and armor MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 1 (front portrait). His specific expression of strain and shock, and the details of his armor's silver threading, MUST reference Image 4. His side profile and body shape, while collapsing, should generally align with the structure shown in Image 2. The lighting and atmosphere—cold blue-grey carnage background with shallow depth of field and anamorphic bokeh—MUST reference the style and environmental quality of Image 4, adapted to the collapsed posture. Maintain the photorealistic medieval fantasy style mandated by the visual style directive, prioritizing texture, grain, and high-contrast, naturalistic lighting.\n\nPROPORTION AND LIGHTING: The character must be scaled correctly for a close-up shot, dominating the frame. Lighting on the character must match the cold blue-grey, low-light, carnage environment suggested by the description, using the high-contrast deep chiaroscuro technique seen in Image 4."
+}

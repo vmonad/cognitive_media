@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_interior_granny_room.png",
+            "Reference establishing shot of location 'cottage_interior_granny_room': The interior of the cottage at night, lit primarily by the low, dying orange embers in the fireplace. Granny sits in a heavy, dark wood rocking chair, which is slowly moving. In the shadows, a dark wood table is visible where a heavy leather book rests. The mood is claustrophobic, dominated by the dying firelight and deep shadows. A large grandfather clock is present, likely standing sentinel."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_exterior_rain_storm.png",
+            "Reference establishing shot of location 'cottage_exterior_rain_storm': The cottage exterior during a violent, heavy downpour at night. Rain hammers the thatched roof in continuous sheets, causing the surrounding path to turn to mud. A flash of lightning briefly scrapes stark light across the wet, dark stonework walls and enhances the appearance of the sodden, dead garden. The atmosphere is chaotic, loud, and metaphoric of severe consequence."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/shots/11/first_frame.png",
+            "A photorealistic dark fairy tale medium shot, shot on Arri Alexa 65 with anamorphic lenses, inside a dimly lit room, focusing on the area near a fireplace. In the foreground, Granny (gaunt build, silver-white hair in a severe tight bun, wearing a high-collared black Victorian dress with a cameo brooch) is seated upright in a rocking chair, her posture rigid. The chair is positioned near the hearth where dying embers cast a low, flickering orange light against deep shadows. The light source emphasizes the texture of the weathered stone hearth. Ambient sound is dominated by the slow, monotonous CREAK of the chair. There is no score."
+        ]
+    ],
+    "text_prompt": "Create a photorealistic dark fairy tale medium shot, shot on Arri Alexa 65 with anamorphic lenses, showing the interior space. The scene must match the visual style directive, emphasizing deep chiaroscuro shadows and warm, low light from dying embers in the fireplace, referencing Image 2 for the general setting and lighting mood, and specifically referencing Image 1 for the texture and weathering of the stone walls and floor. The rocking chair should be present, visually referencing the chair in Image 2, but it must be empty of its occupant. The central shadows in the frame should appear deeper, absorbing where a figure once was, with no visible eyes glinting. The dying embers in the fireplace maintain their low, warm glow, similar to Image 2. The overall lighting and scale of environmental details must match the high production quality aesthetic specified in the style directive, ensuring the shadows are deep and the fireplace light is the primary warm source, consistent with Image 2 and Image 1. The proportions of the remaining objects (chair, environment) should align with the scale shown in Image 2."
+}

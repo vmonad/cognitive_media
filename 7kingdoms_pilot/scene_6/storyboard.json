@@ -1,0 +1,58 @@
+[
+    {
+        "idx": 0,
+        "is_last": false,
+        "cam_idx": 0,
+        "visual_desc": "BLACK SCREEN. The sound of silence dominates. The visual style is enforced by the complete darkness, suggesting a void before the narrative begins. The absence of light emphasizes the oppressive atmosphere.",
+        "audio_desc": "[Narrator (deep, aged male voice, like a historian telling a legend)]: \"But in the castle of the seven kingdoms, the Witch had eyes everywhere. And mirrors that showed more than reflections.\" [Sound Effect] Complete, oppressive silence. [Score Cue] Faint, ominous, low cello motif begins, barely audible."
+    },
+    {
+        "idx": 1,
+        "is_last": false,
+        "cam_idx": 1,
+        "visual_desc": "FADE IN to a long, low-angle shot of the THRONE ROOM/MORGATH'S CHAMBER at night. The environment is dominated by deep chiaroscuro shadows cast by unseen torches; massive, cold stone walls loom. <Morgath> stands perfectly motionless before a massive, ornate MIRROR that seems to absorb all ambient light, appearing as a pool of liquid darkness. Her porcelain-pale skin catches the faintest suggestion of light. She is tall and slender in her fitted black gown with a high collar. The depth of field is shallow, drawing focus implicitly to the mirror's dark surface and <Morgath>'s rigid silhouette. She is imposing and unnervingly still.",
+        "audio_desc": "[Sound Effect] Absolute dead silence, suggesting the vacuum surrounding <Morgath>'s immobility. [Score Cue] <Morgath>'s dark cello motif swells slightly, mournful and sparse."
+    },
+    {
+        "idx": 2,
+        "is_last": false,
+        "cam_idx": 2,
+        "visual_desc": "CLOSE UP focused entirely on the dark surface of the massive MIRROR. The dark reflective surface suddenly ripples violently, like thick, disturbed black water. A sudden, startling shock of vibrant, luminous GOLDEN LIGHT appears in the center of the glass, pushing back the darkness with pure energy. An image slowly resolves within the light: the sharp, determined face of <Elara (Young Woman)>, her genuine, sun-freckled skin visible even in reflection, her amber eyes blazing with fierce intensity. The composition emphasizes the clash between the dark mirror and the golden magical intrusion.",
+        "audio_desc": "[Sound Effect] A high-frequency, intense golden HUM begins, vibrating loudly. [Score Cue] The golden HUM clashes violently with the dark, low cello motif; the soundtrack is suddenly discordant and powerful."
+    },
+    {
+        "idx": 3,
+        "is_last": false,
+        "cam_idx": 3,
+        "visual_desc": "An over-the-shoulder Medium Shot positioned behind <Morgath>, looking toward the mirror, which now clearly displays the image of <Elara (Young Woman)>. <Morgath>'s imposing silhouette is visible in the foreground, slightly out of focus, with light from the mirror catching the sharp edges of her high cheekbones. Her posture is rigid, reflecting sudden tension. Her dark eyes betray a flicker of unguarded shock. <Morgath> (silky, soft, almost musical voice, suddenly tight, strained): \"Show me... show me who threatens my crown.\" The camera begins a very slow, deliberate PUSH IN toward the reflection.",
+        "audio_desc": "[Speaker] Morgath (Voice suddenly tight, strained): \"Show me... show me who threatens my crown.\" [Score Cue] The cello motif becomes frantic underneath the energy of the golden hum."
+    },
+    {
+        "idx": 4,
+        "is_last": false,
+        "cam_idx": 4,
+        "visual_desc": "EXTREME CLOSE UP focused tightly on <Morgath's Face>. The camera has pushed through the illusory space of the mirror, forcing the focus onto her physical features. Her porcelain-pale skin is smooth but shows subtle texture under the harsh, magical light spilling from the viewer's left (the imagined mirror). For the first time, her composure is visibly shattered. Her large, dark eyes fly wide open in unfiltered shock and naked fear. Her crimson lips part slightly, revealing her teeth in a silent intake of breath. Her hand flashes briefly into the frame (bottom right) clenching into a tight fist against her black gown.",
+        "audio_desc": "[Speaker] Morgath (A deadly whisper, confirmation laced with terror): \"The King's daughter lives. She has the gift.\" [Sound Effect] A sharp, audible intake of breath from <Morgath>. [Score Cue] The cello drops instantly to a near halt, leaving only a tense violin drone."
+    },
+    {
+        "idx": 5,
+        "is_last": false,
+        "cam_idx": 5,
+        "visual_desc": "A tight CLOSE UP on <Morgath's eyes>. They are wide with residual shock, then instantly contract, the dark irises narrowing into predatory fury. The residual golden light fades, replaced by the oppressive, deep crimson and black light of her own chamber, emphasizing the darkness returning to her gaze. Her immaculate features are set in a mask of dangerous resolve. Her crimson lips pull back slightly in a snarl, exposing the edge of her teeth.",
+        "audio_desc": "[Speaker] Morgath (Voice hardens, low and forceful): \"Find her. Find her before the moon rises. Kill her before she reaches the boy.\" [Sound Effect] A distinct, sharp, almost silent exhale of anger from <Morgath>."
+    },
+    {
+        "idx": 6,
+        "is_last": false,
+        "cam_idx": 6,
+        "visual_desc": "A dynamic, wide shot capturing the center of the chamber. The ornate MIRROR EXPLODES outward. We see <Morgath> momentarily struck by the force, her arms raised defensively, dark glass shards (rendered sharp and realistic) flying directly toward the camera lens and across the frame. The camera locks onto <Morgath's> furious, startled face caught amidst the immediate debris—a micro-expression of rage mixed with surprise. Warm, deep shadows are violently interrupted by sharp, bright reflections off the thousands of razor-sharp shards of dark glass tumbling through the air. This shot uses shallow depth of field to create anamorphic bokeh flares from the scattering reflections.",
+        "audio_desc": "[Sound Effect] A massive, violent, deafening CRASH of shattering glass, echoing in the stone chamber. [Score Cue] The chaos is punctuated by a single, long, ominous, vibrating BASS NOTE that decays immediately into absolute dead silence."
+    },
+    {
+        "idx": 7,
+        "is_last": true,
+        "cam_idx": 7,
+        "visual_desc": "HARD CUT TO PURE BLACK SCREEN. The visual terror of the shattering glass is replaced by total visual void, emphasizing the finality of the revelation and the new threat.",
+        "audio_desc": "[Sound Effect] After the final bass note fades, there is absolute, profound silence throughout the duration of the black screen. [Title Card] The text 'THE SEVEN KINGDOMS' appears centered, rendered in imposing, antiquated silver metal. Below it, the text 'Chapter One: Blood of the Crown' appears smaller."
+    }
+]

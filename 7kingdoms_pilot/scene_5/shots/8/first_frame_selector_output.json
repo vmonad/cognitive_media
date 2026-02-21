@@ -1,0 +1,25 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/6_Elara (Young Woman)/front.png",
+            "CANONICAL front-view portrait of Elara (Young Woman). This is the definitive reference for this character's face and identity. A real human young woman of 18. Striking — she has her mother's amber eyes and her father's strong jaw. Wild untamed dark auburn hair. Sun-freckled skin from living outdoors. Lean athletic build from years of farm work. Wears a simple rough-spun peasant dress in earthy brown."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/6_Elara (Young Woman)/side.png",
+            "Side-view portrait of Elara (Young Woman) showing profile and body shape. Amber eyes, strong jaw, wild untamed dark auburn hair. Sun-freckled skin. Lean athletic build."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/front.png",
+            "CANONICAL front-view portrait of Queen Lyara. This is the definitive reference for this character's face and identity. A beautiful woman with olive skin and amber eyes. Resilient in appearance. Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/side.png",
+            "Side-view portrait of Queen Lyara showing profile and body shape. A beautiful woman with olive skin and amber eyes. Resilient in appearance."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_5/shots/8/new_camera_8.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The specific reverse angle perspective, Elara being dominant in the foreground, the slow push-in, and the visual representation of fading light conveying urgency..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy reverse-angle two-shot, framed with Elara dominant in the foreground on the left, her determined face filling that half of the frame. Her amber eyes faintly glow with residual golden energy. Queen Lyara is visible slightly behind her to the right, her expression a tense mixture of hope and terror. The dense forest canopy creates a high contrast, with diminishing, fading light filtering down, casting long shadows and lending a sense of urgency. The shallow depth of field emphasizes the tactile quality of the young woman's rough-spun peasant dress and sun-freckled skin. \n\nElara (Young Woman) MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 0, including the determined expression and faintly glowing amber eyes. Her posture and body shape should be informed by Image 1. \n\nQueen Lyara MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 2, including her tense expression. Her profile and body shape should be informed by Image 3. \n\nThe composition, lighting, and dark forest background/environment MUST reference Image 4, maintaining the reverse-angle two-shot perspective, Elara dominant in the foreground left, Lyara slightly behind and to the right, and the visual representation of diminishing, fading light conveying urgency. \n\nPhotorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Real human actors in practical costumes — genuine leather, real chainmail, wool, silk, mud, rust, sweat. Natural skin with pores, imperfections, scars, freckles, and weathering. Real weather — mist, firelight, torchlight, dawn light. Warm golden palette for the peaceful kingdom, cold blue-grey for the coup and escape, rich dark crimson-and-black for the Witch's scenes, warm earthy tones for the village, luminous golden light for magic scenes. Deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. Characters must be placed at correct proportional scale within the environment. Lighting on characters must match the environment's light sources (direction, color temperature, intensity). Characters must look physically embedded in the space, not composited on top."
+}

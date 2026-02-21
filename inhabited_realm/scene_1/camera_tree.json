@@ -1,0 +1,112 @@
+[
+    {
+        "idx": 0,
+        "active_shot_idxs": [
+            0
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_0 establishes the vast, oppressive high-tech cityscape setting and is the first visual context provided, making it the root camera for this sequence.",
+        "is_parent_fully_covers_child": null,
+        "missing_info": null
+    },
+    {
+        "idx": 1,
+        "active_shot_idxs": [
+            1
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "Shot 0 (CAMERA_0, EWS of cityscape) establishes the setting where Mara is located as part of the crowd before the Premiere Event. Shot 1 (CU of Mara's face) zooms in on a subject within that established environment, making Shot 0 a natural contextual parent, even though Mara is not explicitly visible in Shot 0's description.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The detailed emotional reaction and cranial interface device visible only in the Close Up."
+    },
+    {
+        "idx": 2,
+        "active_shot_idxs": [
+            2
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "Shot 2 (WS of the ground/explosion) shows the environment established in Shot 0, incorporating the explosion affecting the crowd. Mara is seen trying to remove the interface, connecting her action directly to the environment established by CAMERA_0.",
+        "is_parent_fully_covers_child": true,
+        "missing_info": null
+    },
+    {
+        "idx": 3,
+        "active_shot_idxs": [
+            3
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 0,
+        "reason": "Shot 2 established the 'Arkanoid bombing' and Mara trying to pull off the device in the cityscape. Shot 3 is a POV shot occurring immediately after this event, depicting Mara awakening in a new, surreal environment resulting from the initial chaos established in Shot 2.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The context of the surrounding crowd, the dome, and the initial explosion. Shot 3 shifts the perspective dramatically to a new digital landscape."
+    },
+    {
+        "idx": 4,
+        "active_shot_idxs": [
+            4
+        ],
+        "parent_cam_idx": 3,
+        "parent_shot_idx": 0,
+        "reason": "Shot 3 establishes Mara's disorientation in the new surreal environment (digital cobblestones, flickering hands). Shot 4 places Mara within this new environment, looking across a bridge, thus framing her within the context of the immediate location derived from Shot 3.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The self-examination of her hands flickering and disorientation mentioned in Shot 3. Shot 4 introduces Noon and the Data Rift."
+    },
+    {
+        "idx": 5,
+        "active_shot_idxs": [
+            5
+        ],
+        "parent_cam_idx": 4,
+        "parent_shot_idx": 0,
+        "reason": "Shot 4 introduces Mara, Noon, the bridge, and the Rift. Shot 5 shows Mara moving across the space established in Shot 4; the action (lunging across the path) is a direct continuation of the spatial setup in Shot 4.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific interaction with Noon and the fate of the pathway dissolving in front of her."
+    },
+    {
+        "idx": 6,
+        "active_shot_idxs": [
+            6
+        ],
+        "parent_cam_idx": 4,
+        "parent_shot_idx": 0,
+        "reason": "Shot 4 sets up the presence of Noon across the bridge facing the Data Rift. Shot 6 is a Close Up on Noon's interaction with the Data Rift area established in Shot 4, functioning as a detail extraction from the wider staging in Shot 4. Since both cameras feature Noon and the Rift, and Shot 4 (index 0) is before Shot 6 (index 0), CAMERA_4 is the parent.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The context of Mara on the pathway, the bridge structure, and the full perspective of the rift opening/closing."
+    },
+    {
+        "idx": 7,
+        "active_shot_idxs": [
+            7
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 0,
+        "reason": "Shots 7, 8, and 9 form a specific MONTAGE sequence cutting rapidly between different elements. Shot 2 established a widespread catastrophic event (the bombing) that seems to cause these subsequent reality distortions. Given the lack of direct character continuity connecting the montage shots to the immediate Mara/Noon interaction (C4-C6), the overarching environmental chaos introduced in C2 is the most logical anchor point for the montage's rapid-fire cuts depicting wider consequences.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific graphical content, the medieval knight, and Mara's scream/phasings."
+    },
+    {
+        "idx": 8,
+        "active_shot_idxs": [
+            8
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 0,
+        "reason": "Shot 8 is part of the consequence montage initiated conceptually by the bombing event in Shot 2.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific graphical content, the news feed, and Mara's scream/phasings."
+    },
+    {
+        "idx": 9,
+        "active_shot_idxs": [
+            9
+        ],
+        "parent_cam_idx": 3,
+        "parent_shot_idx": 0,
+        "reason": "Shot 9 shows the extreme physical manifestation of Mara's phasing body, which follows the disorientation of her flickering body established in Shot 3 (where she looked at her own hands). This maintains a progressive detail increase focusing on Mara's physical state.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The context of the environment, Noon, and the Data Rift interaction captured in the preceding shots."
+    }
+]

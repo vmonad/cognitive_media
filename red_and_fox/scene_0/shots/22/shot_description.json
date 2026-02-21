@@ -1,0 +1,18 @@
+{
+    "idx": 22,
+    "is_last": false,
+    "cam_idx": 22,
+    "visual_desc": "MEDIUM SHOT (SCENE 5). Her lace-cuffed fingers grip the cold iron handle, and she pulls the massive oak door shut. A deep, resonant THUD reverberates through the stone structure, signaling absolute closure against the remnants of the storm outside. She turns slowly into the room, breathing out a silent, visible sigh of success. Camera holds steady on her centered figure, waiting with her for the aftermath of her triumph. The texture of her velvet cloak is rich in the dim light.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, there are only minor changes. The camera remains static. The primary change is the subject rotating 180 degrees within the frame and the door being shut, reflecting the immediate success of securing the interior against the storm.",
+    "ff_desc": "A photorealistic dark fairy tale medium shot, captured with anamorphic lenses, presenting the interior of a massive stone structure under dim, warm candlelight with deep chiaroscuro shadows. Frame center, the figure clad in a deep blood-crimson velvet hooded cloak stands facing a massive, heavily textured oak door that occupies the background. The fingertips, delicately covered by lace cuffs, grip the cold iron handle of the door. The air appears thick with atmospheric moisture, visible as subtle mist around the edges of the candlelight. Ambient sound is dominated by the distant, muted roar of a receding storm. The score is absent.",
+    "ff_vis_char_idxs": [
+        0
+    ],
+    "lf_desc": "A photorealistic dark fairy tale medium shot, captured with anamorphic lenses, focused on the figure centered in the frame. The massive oak door in the background is fully closed, its heavy iron iron fittings catching the edge of the candlelight. The figure now faces away from the door, standing still within the space. The texture of the deep blood-crimson velvet hooded cloak is richly detailed in the dim illumination. Ambient sound consists of silence punctuated only by the faint echo of the closing door fading. The score remains absent.",
+    "lf_vis_char_idxs": [
+        0
+    ],
+    "motion_desc": "The camera holds perfectly steady in the medium shot as the individual wearing the lace-cuffed fingers pulls the massive oak door shut. A deep, resonant THUD sound effect underscores the action. Immediately after the door closes, the individual clad in the deep blood-crimson velvet hooded cloak slowly pivots on their axis to turn fully into the room. The figure then exhales slowly; the breath is visible in the cool air, indicating a visible sigh of success. The camera remains static, keeping the figure centered and waiting with them for the aftermath.",
+    "audio_desc": "[Sound Effect] The heavy door closes with a deep, resonant THUD that vibrates through the silence, then fades into nothingness. [Music Score] Silence."
+}

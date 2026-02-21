@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/2_Morgath/front.png",
+            "CANONICAL front-view portrait of Morgath. This is the definitive reference for this character's face and identity. Devastatingly beautiful real human woman, appears early 40s. Porcelain-pale skin with natural texture. Large dark nearly-black eyes with no warmth. High sharp cheekbones. Full crimson lips. Long straight raven-black hair falling heavy like a curtain. Tall, slender. Wears a fitted black gown with high structured collar embroidered with dark crimson thread. A blood-red jewel hangs on a gold chain around her neck."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/2_Morgath/side.png",
+            "Side-view portrait of Morgath showing profile and body shape. Porcelain-pale skin, large dark nearly-black eyes, high sharp cheekbones, long straight raven-black hair. Tall, slender."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nEXTREME CLOSE UP, photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. The shot is focused tightly on the face of the woman known as Morgath. Her appearance, facial features, expression (wide-open, unfiltered shock and naked fear in her large dark eyes, slightly parted crimson lips revealing teeth in a frozen, silent intake of breath), and skin texture (porcelain-pale with natural texture) MUST exactly replicate Image 1. \nOnly the top edge of her fitted black gown with a high structured collar embroidered with dark crimson thread should be suggested near the bottom edge of the frame; this clothing detail MUST match Image 1. \nLighting must be harsh and luminous magical light spilling from the left, illuminating her face and emphasizing texture, consistent with luminous golden light for magic scenes, while maintaining deep chiaroscuro shadows and shallow depth of field/creamy anamorphic bokeh. The overall style must follow the required visual style: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Real human actors in practical costumes. Natural skin with pores, imperfections, scars, freckles, and weathering. Rich dark crimson-and-black tones for the Witch's scenes. 35mm film grain texture. Every surface tactile. NOT video game, NOT CGI render, NOT digital art, NOT clean fantasy, NOT anime, NOT cartoon, NOT illustrated, NOT stylized, NOT 3D render, NOT Unreal Engine, NOT polished/perfect skin, NOT oversaturated colors."
+}

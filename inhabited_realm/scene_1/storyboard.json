@@ -1,0 +1,72 @@
+[
+    {
+        "idx": 0,
+        "is_last": false,
+        "cam_idx": 0,
+        "visual_desc": "EXTREME WIDE SHOT, low angle, looking up at a vast, sleek, neon-drenched cityscape at night. Towering holographic screens display abstract data streams. In the foreground, tiny silhouettes of a massive crowd gather before an immense, glowing dome structure—the 'Premiere Event'. The atmosphere is oppressive and high-tech. [Mara] is not visible yet.",
+        "audio_desc": "[Sound Effect] Deep, synthesized bass drone underpinning a complex electronic score. Distant murmur of a massive crowd."
+    },
+    {
+        "idx": 1,
+        "is_last": false,
+        "cam_idx": 1,
+        "visual_desc": "CLOSE UP on <Mara>'s face (mid-30s). Her eyes are wide, reflecting complex, swirling blue and green light from an unseen cranial interface device near her temples. Her expression shifts from awe to sudden, sharp fear. A very small spark of red energy flickers momentarily in her reflection.",
+        "audio_desc": "[Speaker] Mara (Internal Monologue/Whisper): Interface online... connection stable. [Sound Effect] A high-frequency whine building rapidly."
+    },
+    {
+        "idx": 2,
+        "is_last": false,
+        "cam_idx": 2,
+        "visual_desc": "WIDE SHOT of the immediate location on the ground. The massive screen above the crowd suddenly explodes in a brilliant, jarring flash of white light, followed by a wave of digital distortion—the 'Arkanoid bombing'. The explosion visually manifests as geometric shapes tearing the air. Crowd members are seen recoiling in abstract shock. <Mara> is visible trying to pull the interface off.",
+        "audio_desc": "[Sound Effect] Massive, digitized explosion sound layered with a sharp, abrasive screech. The crowd screams, digitally distorted."
+    },
+    {
+        "idx": 3,
+        "is_last": false,
+        "cam_idx": 3,
+        "visual_desc": "SHOT 1 (POV - MARA) - Transition complete. <Mara> awakens abruptly, standing on broken, dark digital cobblestones. The environment is a surreal landscape where glowing MEGA-CIRCUIT BOARDS intersect with canals of dark, shimmering liquid. <Mara> looks down at her hands; they FLICKER rapidly between solid flesh and a jagged, orange wireframe skeleton. She is disoriented.",
+        "audio_desc": "[Sound Effect] A low, echoing digital distortion sound loop, reminiscent of failing hardware. Water lapping strangely."
+    },
+    {
+        "idx": 4,
+        "is_last": false,
+        "cam_idx": 4,
+        "visual_desc": "MID SHOT: <Mara> is centered, looking across a narrow, collapsing virtual bridge. On the far side stands <Noon>—an androgynous figure draped in shimmering, fragmented DATA TEXTURES. <Noon>'s gaze is fixed downward. Behind <Noon>, a violently flashing RIFT TEARS OPEN, momentarily revealing flashes of a hazy MEDIEVAL BATTLEFIELD.",
+        "audio_desc": "[Speaker] Noon (Flat, analytical): The architecture is unstable. But the variables… I remember the variables from the last iteration."
+    },
+    {
+        "idx": 5,
+        "is_last": false,
+        "cam_idx": 5,
+        "visual_desc": "ACTION SHOT: <Mara> lunges forward from the foreground, running toward <Noon>. The pathway immediately in front of her DISSOLVES violently into cascading lines of raw binary code. A large, corrupted data packet, momentarily shaped like a glitching UNIT SIX SEVEN DRONE, slams into the dissolving path near her and instantly dissipates into gray digital dust.",
+        "audio_desc": "[Sound Effect] Heavy, percussive digital impact sound. <Mara>'s strained breath. Rapid, overlapping data static."
+    },
+    {
+        "idx": 6,
+        "is_last": false,
+        "cam_idx": 6,
+        "visual_desc": "CLOSE UP on <Noon>'s perfectly formed hand extending towards the Data Rift. As their fingertips make contact with the cascading code, the rift SNAPS SHUT with extreme speed, transforming into a flat, perfectly black, reflective MIRROR surface. <Noon>'s face is impassive, showing cold certainty.",
+        "audio_desc": "[Speaker] Noon (Chillingly calm): Embodiment is finite. Control grants persistence. [Sound Effect] A sharp, high-pitched 'snap' as the rift closes, followed by absolute silence."
+    },
+    {
+        "idx": 7,
+        "is_last": false,
+        "cam_idx": 7,
+        "visual_desc": "MONTAGE SHOT 1 of 3 (RAPID CUT): A nearby digital wall flickers to show a clear, real-world NEWS FEED graphic: stock indices plummeting into atomic red lines. The image is heavily distorted by interference.",
+        "audio_desc": "[Audio] A brief, piercing MODEM SCREECH cuts through the underlying orchestral tension."
+    },
+    {
+        "idx": 8,
+        "is_last": false,
+        "cam_idx": 8,
+        "visual_desc": "MONTAGE SHOT 2 of 3 (RAPID CUT): A CGI medieval KNIGHT, mid-swing of a sword, flickers violently, its form breaking apart into green triangles before vanishing entirely. The texture of the environment around it warps momentarily.",
+        "audio_desc": "[Audio] A sudden, high-pitched orchestral string crescendo followed immediately by digital static."
+    },
+    {
+        "idx": 9,
+        "is_last": true,
+        "cam_idx": 9,
+        "visual_desc": "MONTAGE SHOT 3 of 3: EXTREME CLOSE UP on <Mara>'s face, contorted in a silent scream. Her lower body, from the waist down, has visually phased through the digital ground into the void below, visible only as a dissolving static outline. Her organic eyes are now clearly mixed with sharp, geometric pupils.",
+        "audio_desc": "[Audio] The chaotic WAR soundscape peaks: the orchestral score clashes violently with prolonged, agonizing digital modem screeches. FADE TO BLACK."
+    }
+]

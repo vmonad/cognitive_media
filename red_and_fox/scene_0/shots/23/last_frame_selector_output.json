@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/character_portraits/2_Granny/front.png",
+            "A front view portrait of Granny."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/shots/23/first_frame.png",
+            "A photorealistic dark fairy tale wide shot of the cluttered cottage interior (SCENE 5), illuminated by warm candlelight creating deep chiaroscuro shadows and tactile, weathered surfaces. In the deepest shadow near a heavy, dark burgundy bedroom curtain, there is only a patch of absolute blackness. Ambient sound is silence. The score rests on no sound."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale medium close-up, shot with shallow depth of field and creamy anamorphic bokeh, focusing on the gaunt figure whose silver hair is immaculate and whose high-collared black Victorian dress is perfect. The figure MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 0. The figure is standing ramrod straight, hands held at her sides, the body still save for the facial expression. The figure's thin lips are stretched into a cruel, triumphant smile. The lighting must be a low, single light source that casts deep shadows, matching the chiaroscuro and warm candlelight mood of Image 1. The environment should be visually suggestive of the interior from Image 1 but kept out of focus due to the shallow depth of field and medium close-up shot. The overall visual style MUST be photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones, shallow depth of field with creamy anamorphic bokeh, and 35mm film grain texture. Ambient sound remains silence. The score remains absent."
+}

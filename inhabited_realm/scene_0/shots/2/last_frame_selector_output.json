@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/scene_0/shots/2/first_frame.png",
+            "MEDIUM SHOT facing across a crowded IMMERSION DOME, emphasizing the MASSIVE CENTRAL SCREEN dominating the frame. The ambient lighting is a prevailing, soft blue. Several audience members, connected to cranial interfaces via visible CABLES, are generally facing the screen, their forms somewhat obscured by the dim lighting. The environment suggests a futuristic screening event."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nMEDIUM SHOT across the IMMERSION DOME. The central screen now displays a flickering, jagged SCARLET NOISE. The faces of the nearby audience members reflect this unsettling, harsh red light. Visible CABLES trailing from the seating pods exhibit faint sparking. The composition retains the wide view of the dome interior. The dome structure, seating pods, audience members' general positions, and overhead lighting (but with a color shift) should reference Image 0."
+}

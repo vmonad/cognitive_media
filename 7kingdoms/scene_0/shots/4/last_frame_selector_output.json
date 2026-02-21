@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/scene_0/shots/4/first_frame.png",
+            "A wide shot dominated by a harsh desert landscape under high contrast lighting. On a rocky precipice, an armored figure (fierce, armored in black obsidian) stands silhouetted with arms outstretched toward a vast plain of assembled legions below. The overall color palette is dry and stark, emphasizing the figure's commanding presence."
+        ]
+    ],
+    "text_prompt": "Create an image based on the following guidance: \nThe composition should be chaotic under harsh, turbulent skies, possibly overcast or storm-lit, distinct from the sunset in Image 0. Dozens of distinct banners, including emblems like the Sun, Gryphon, and Ice, should be mid-unfurl, displaying vibrant color against the muted background. The composition should be busy, filled with vertical lines of cloth snapping in the wind. The overall aesthetic, lighting, and mood should strongly reference the desert landscape and military scale of Image 0, but with the specified changes to the sky and banners."
+}

@@ -1,0 +1,18 @@
+{
+    "idx": 2,
+    "is_last": false,
+    "cam_idx": 2,
+    "visual_desc": "MEDIUM SHOT tracking alongside <Elara (Young Woman)>, positioned slightly in front of her. She is wearing rough-spun, earthy brown peasant attire. Her dark auburn hair is wild and slightly tangled. She strains, gripping the wooden handles of a heavy yoke across her shoulders, hauling a portion of the weight alongside two older villagers who frame her against the muddy path. Her visible skin shows sun-freckles and slight weathering. She has a powerful, athletic build. She is laughing, her expression open and unpolished, conveying physical exertion and simple joy. The background—muddy ruts, wooden fences—is rendered with shallow depth of field, blurring into creamy bokeh.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, there are only minor changes, consisting entirely of continuous forward motion captured by the tracking camera, reflecting slight shifts in posture and expression as the subject continues her exertion.",
+    "ff_desc": "A photorealistic medieval fantasy medium tracking shot, using Panavision anamorphic lenses, capturing a young woman in rough-spun, earthy brown peasant attire walking along a muddy path. The woman, whose dark auburn hair is wild, grips the wooden handles of a heavy yoke resting on her shoulders. She is framed slightly ahead of two older villagers. Her exposed skin displays sun-freckles and weathering, and she possesses a lean, athletic build. Her expression is one of open, unpolished laughter mixed with physical exertion. The immediate background, consisting of muddy ruts and weathered wooden fences, is rendered with extremely shallow depth of field, resulting in creamy bokeh.",
+    "ff_vis_char_idxs": [
+        5
+    ],
+    "lf_desc": "A photorealistic medieval fantasy medium tracking shot, using Panavision anamorphic lenses, capturing the same young woman in rough-spun, earthy brown peasant attire walking along a muddy path. The woman, whose dark auburn hair remains wild, continues gripping the wooden handles of the heavy yoke across her shoulders, positioned slightly ahead of the two framing older villagers. Her expression remains an open, unpolished laugh, showing physical exertion and joy. The background remains blurred into creamy bokeh due to the continuing shallow depth of field.",
+    "lf_vis_char_idxs": [
+        5
+    ],
+    "motion_desc": "A medium tracking shot maintains lateral movement, moving alongside the young woman dressed in earthy brown peasant attire, keeping her centered and slightly ahead of the camera as she walks along the muddy path. This movement follows the pace of the trio hauling the yoke, keeping her athletic build and laughing expression in focus. The camera maintains a steady pace, reflecting shared physical exertion, while the background elements—muddy ruts and fences—drift past in smooth, creamy anamorphic background blur. The overall atmosphere is one of warm, earthy tones and palpable physical effort, underscored by the tactile texture of the environment and the shallow focus accentuating the central figures; ambient sound is dominated by dull thuds of footsteps in mud and heavy breathing; the score is absent.",
+    "audio_desc": "[Speaker] <Elara (Young Woman)> (Bright, fast, unpolished vernacular): \"If old Harren charges me double for flour again, I swear I'll dump it in his well.\" [Sound Effect] Ambient village sounds continue. [Speaker] Friend (Voice sounds cheerful, slightly muffled by distance): \"You wouldn't dare.\""
+}

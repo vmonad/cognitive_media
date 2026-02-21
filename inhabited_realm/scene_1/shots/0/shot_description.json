@@ -1,0 +1,14 @@
+{
+    "idx": 0,
+    "is_last": false,
+    "cam_idx": 0,
+    "visual_desc": "EXTREME WIDE SHOT, low angle, looking up at a vast, sleek, neon-drenched cityscape at night. Towering holographic screens display abstract data streams. In the foreground, tiny silhouettes of a massive crowd gather before an immense, glowing dome structure—the 'Premiere Event'. The atmosphere is oppressive and high-tech. [Mara] is not visible yet.",
+    "variation_type": "small",
+    "variation_reason": "The shot type, angle, and overall composition remain consistent (EXTREME WIDE SHOT, low angle) and no primary featured characters are introduced or leave the frame; only minor repositioning within the distant crowd is implied to fit the static nature of the description fragment.",
+    "ff_desc": "EXTREME WIDE SHOT, low angle, capturing a vast, sleek, neon-drenched cityscape at night. Towering structures dominate the frame, featuring holographic screens displaying abstract data streams. In the immediate foreground, the tiny silhouettes of a massive crowd are gathered before an immense, glowing dome structure labeled 'Premiere Event'. The environment is high-tech and oppressive. No distinct characters, specifically the human adult female mid-30s, are visible.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "EXTREME WIDE SHOT, low angle, still focused on the vast, neon-drenched cityscape at night and the immense, glowing dome structure of the 'Premiere Event'. The tiny silhouettes of the massive crowd remain visible in the foreground, though they may have subtly shifted their positions relative to the dome.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera remains static in an EXTREME WIDE SHOT, low angle, fixed upon the cityscape and the crowd before the dome. The primary motion is internal to the scene: the myriad of tiny silhouettes comprising the massive crowd waiting before the structure shift and coalesce slightly as if settling in anticipation.",
+    "audio_desc": "[Sound Effect] Deep, synthesized bass drone underpinning a complex electronic score. Distant murmur of a massive crowd."
+}

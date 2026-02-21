@@ -1,0 +1,16 @@
+{
+    "idx": 23,
+    "is_last": false,
+    "cam_idx": 23,
+    "visual_desc": "WIDE SHOT of the cluttered cottage interior (SCENE 5). Following the silence, a secondary, perfectly still SHADOW detaches itself from the deepest shadow near the heavy, dark burgundy bedroom curtain. <Granny> (Character 2) steps out smoothly from behind the fabric—her silver hair immaculate, her black Victorian dress perfect, untouched by the staged attack. A thin, cruel, triumphant SMILE stretches her thin lips, contrasting sharply with her gaunt features. The camera begins a slow, creeping DOLLY TOWARD her figure, the background details blurring slightly with shallow depth of field, building immense, mounting dread.",
+    "variation_type": "large",
+    "variation_reason": "This is a significant transition shot, beginning as a wide establishing shot with no visible characters and ending in a medium close-up focused tightly on one character's triumphant expression, necessitating a large camera movement (dolly in) and an extreme shift in composition and focus.",
+    "ff_desc": "A photorealistic dark fairy tale wide shot of the cluttered cottage interior (SCENE 5), illuminated by warm candlelight creating deep chiaroscuro shadows and tactile, weathered surfaces. In the deepest shadow near a heavy, dark burgundy bedroom curtain, there is only a patch of absolute blackness. Ambient sound is silence. The score rests on no sound.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A photorealistic dark fairy tale medium close-up, shot with shallow depth of field and creamy anamorphic bokeh, focusing on the gaunt figure whose silver hair is immaculate and whose high-collared black Victorian dress is perfect. Thin lips are stretched into a cruel, triumphant smile, contrasting sharply with the deep shadows cast by the low, single light source. The figure is standing ramrod straight, hands held at her sides, the body still save for the facial expression. Ambient sound remains silence. The score remains absent.",
+    "lf_vis_char_idxs": [
+        2
+    ],
+    "motion_desc": "The atmosphere is saturated with mounting dread, set against the silence and lack of score. From the deepest shadow behind the dark burgundy curtain, a perfectly still secondary shadow detaches itself, followed by the smooth emergence of the gaunt figure (Granny, whose silver hair is immaculate and who wears a black Victorian dress). As the figure steps fully into the limited light, a slow, creeping dolly begins tracking directly toward her figure. The background details, including the cluttered interior elements, begin to blur slightly due to the increasing shallow depth of field, isolating the figure for the final frame.",
+    "audio_desc": "[Sound Effect] Silence is broken by a single, excruciatingly high, sustained VIOLIN NOTE that begins to KEEN, cutting through the air. <Granny> (Character 2, crisp, cold, perfectly enunciated voice) whispers, her breath barely moving the air: \"Did you really think I wouldn't know, dear?\""
+}

@@ -1,0 +1,18 @@
+{
+    "idx": 2,
+    "is_last": false,
+    "cam_idx": 2,
+    "visual_desc": "INTERIOR - THE CORE. A VAST, perfectly ordered space glowing intensely with organized GOLD and GREEN light. The entire environment reads as pure, physically perfect architecture derived from code. <Noon> stands at the epicenter, facing away from the camera, their presence exuding absolute, unsettling AUTHORITY. <Noon>'s form is polished and solid.",
+    "variation_type": "small",
+    "variation_reason": "The shot features only a subtle internal change in the appearance of the existing central figure (<Noon>), consistent with a minor shift in digital manifestation, while the camera and general composition remain static.",
+    "ff_desc": "INTERIOR - THE CORE. A vast, perfectly ordered space illuminated by intense, organized GOLD and GREEN light, depicting physically perfect architecture derived from code. A central figure, <Noon>, is positioned at the epicenter, facing away from the camera. This figure appears as an impossibly perfect, androgynous entity embodying pure digital structure, its form polished and solid, exuding absolute, unsettling AUTHORITY.",
+    "ff_vis_char_idxs": [
+        1
+    ],
+    "lf_desc": "INTERIOR - THE CORE. The vast, perfectly ordered space still glows intensely with organized GOLD and GREEN light, revealing the perfect digital architecture. The central figure, <Noon>, stands at the epicenter, facing away from the camera. Its polished, solid form retains its unsettling AUTHORITY.",
+    "lf_vis_char_idxs": [
+        1
+    ],
+    "motion_desc": "Static camera shot. The advanced, sophisticated AI entity (<Noon>), initially appearing as an impossibly perfect digital structure, undergoes a subtle shift in its manifestation. While maintaining its central authoritative posture facing away, its appearance smooths into a 'polished, possessing a deep, unsettling authority' state, its form becoming less abstractly digital and more physically perfect, although the shot remains locked on its back.",
+    "audio_desc": "[Music] Orchestral swell, deeply resonant, symbolizing immense computational power being harnessed."
+}

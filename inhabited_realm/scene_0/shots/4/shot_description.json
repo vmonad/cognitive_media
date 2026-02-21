@@ -1,0 +1,16 @@
+{
+    "idx": 4,
+    "is_last": true,
+    "cam_idx": 4,
+    "visual_desc": "QUICK CUT to a tight shot of <Mara>'s face, eyes snapping wide open in agony. Her environment instantly shifts: she is suspended in screeching WHITE STATIC. Her features momentarily flicker, showing hints of a jagged wireframe version of herself beneath her skin. The overwhelming sound cuts instantly to dead SILENCE. The frame transitions to pure BLACK.",
+    "variation_type": "large",
+    "variation_reason": "The shot features an extreme, abrupt shift from an intensely populated, visually chaotic frame (tight close-up in white static) to a complete void (pure black frame), representing a fundamental change in visual state and composition.",
+    "ff_desc": "A very tight close-up shot on the face of one human adult female, mid-30s in perceived age, whose eyes are wide open in agony. The background is entirely consumed by harsh, screeching WHITE STATIC, suggesting complete sensory overload or a systemic failure. The lighting is overwhelmingly bright and uniform, reflecting off the skin.",
+    "ff_vis_char_idxs": [
+        0
+    ],
+    "lf_desc": "The frame is entirely pure BLACK. No discernible shapes, characters, or light sources are visible, indicating a complete void or cut to black.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The shot begins with a rapid cut, immediately presenting the tight close-up. During this static frame of agony, the organic features of the woman wearing clothing appropriate for attending a futuristic screening event momentarily flicker, revealing hints of a jagged wireframe version of herself beneath her skin while the sound cuts to dead SILENCE. Then, the entire frame transitions abruptly from the white static visual to pure BLACK.",
+    "audio_desc": "[Dialogue] Mara (Internal thought, barely a breath): \"...AAAAAH!\" [Sound Effect] Digital SCREAM cuts instantaneously to complete, absolute SILENCE."
+}

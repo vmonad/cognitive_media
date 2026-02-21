@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/1_Queen Sera/front.png",
+            "A front view portrait of Queen Sera."
+        ],
+        [
+            ".working_dir/7kingdoms/character_portraits/3_The Wolf/front.png",
+            "A front view portrait of The Wolf."
+        ],
+        [
+            ".working_dir/7kingdoms/scene_0/shots/14/new_camera_14.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The details of the undead surge itself or the location..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description for [Camera 1]. The scene should be an exterior shot of ruins on a chaotic battlefield filled with the surging tide of the Skeletal Legion (The Risen Dead), referencing Image 2 for the background and overall composition. Queen Sera, armored in polished obsidian, should stand on the left side of the foreground, referencing Image 0 for her appearance. The Wolf, a savage-looking warrior with a scarred face, should stand on the right side of the foreground, referencing Image 1 for his appearance. Queen Sera and The Wolf are locked in an intense eye contact across the melee. The visual style from Image 2 should be maintained."
+}

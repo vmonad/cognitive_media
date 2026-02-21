@@ -1,0 +1,101 @@
+[
+    {
+        "idx": 0,
+        "active_shot_idxs": [
+            0
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_0 is an all-black screen establishing minimal visual information (only film grain). It cannot contain any content from other cameras and therefore serves as the root.",
+        "is_parent_fully_covers_child": null,
+        "missing_info": null
+    },
+    {
+        "idx": 1,
+        "active_shot_idxs": [
+            1
+        ],
+        "parent_cam_idx": 1,
+        "parent_shot_idx": 0,
+        "reason": "Shot 1 is a wide, establishing shot of the entire forest clearing, showing the setting, the stream, the mossy stones, the dappled light, and Queen Lyara's general position. This encompasses the context for the subsequent close-ups and medium shots. It is the broadest view.",
+        "is_parent_fully_covers_child": true,
+        "missing_info": "The detailed expressions, dialogue, specific actions, and close framing of the characters, which are the primary focus of subsequent shots."
+    },
+    {
+        "idx": 2,
+        "active_shot_idxs": [
+            2
+        ],
+        "parent_cam_idx": 1,
+        "parent_shot_idx": 0,
+        "reason": "Shot 2 is a medium shot featuring both Queen Lyara and the partial entry of Elara, capturing their confrontation and dialogue. Shot 1 (Wide Shot) completely contains the setting seen in Shot 2, making Shot 1 the logical parent establishing the scene where this medium shot occurs.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific dialogue delivery, detailed facial expressions of Lyara, and the focused actions of Elara (clutching skirt)."
+    },
+    {
+        "idx": 3,
+        "active_shot_idxs": [
+            3
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 0,
+        "reason": "Shot 3 is a Close Up focusing primarily on Elara's reaction, but it dynamically rack focuses over to Queen Lyara as she speaks. Shot 2 (Medium Shot) frames both characters and the beginning of the interaction, encompassing the general vicinity and the interaction sequence that Shot 3 zooms into. Also, Shot 2 captures the environment (stream/moss) as bokeh, which is confirmed as part of the background in Shot 3.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The extreme close-up detail of Elara's mouth/jawline, the specific visual effect of the rack focus, and the intensity of Elara's eyes when speaking."
+    },
+    {
+        "idx": 4,
+        "active_shot_idxs": [
+            4
+        ],
+        "parent_cam_idx": 3,
+        "parent_shot_idx": 0,
+        "reason": "Shot 4 is an Extreme Close Up specifically isolating Elara's hand manifesting power and her glowing eyes. Shot 3 (Close Up) focuses on Elara's face/mouth/jawline and states she has the 'gift' just before this power manifestation. While Shot 3 doesn't show the hand, its focus on Elara's reaction directly precedes and sets up this specific action focusing on her latent ability shown in Shot 3.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The vivid golden light emission, the effect on the stream/moss, and the specific view of the hand gesture."
+    },
+    {
+        "idx": 5,
+        "active_shot_idxs": [
+            5
+        ],
+        "parent_cam_idx": 3,
+        "parent_shot_idx": 0,
+        "reason": "Shot 5 is a Close Up purely on Queen Lyara's reaction (tears, breath catching) right after Elara manifests power (Shot 4). Shot 3 focused on Elara and featured Lyara's voice continuing over. Since Shot 3 establishes the dialogue sequence where Lyara responds, and Shot 4 is a physical action based on that dialogue, Shot 3 (which includes the environment/context that Shot 5 grounds itself in) feels chronologically and spatially closer to the setup for the Lyara close-up response.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The explicit visual of Lyara's crying face and the specific dialogue expressing her history."
+    },
+    {
+        "idx": 6,
+        "active_shot_idxs": [
+            6
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 0,
+        "reason": "Shot 6 is a Two Shot featuring both characters from the waist up, encompassing the spatial relationship established in the earlier cuts. Shot 2 (Medium Shot focused mainly on Lyara mid-speech) established the initial framing dynamic of the two characters interacting in the clearing. Shot 6 builds directly on the positions established in Shot 2, returning to frame both actors together after the close-ups.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific waist-up framing, Elara's lowered hand, and the specific dialogue about going 'back'."
+    },
+    {
+        "idx": 7,
+        "active_shot_idxs": [
+            7
+        ],
+        "parent_cam_idx": 6,
+        "parent_shot_idx": 0,
+        "reason": "Shot 7 is complex, intercutting between a Close Up of Lyara whispering and then a visual shift to Elara's hardening features within the same shot composition period. Shot 6 (Two Shot) frames the physical proximity and tension between them immediately before this exchange, making Shot 6 the broader frame encompassing their relative positions as they deliver these key lines.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The extreme close-up focus on Lyara's face delivering the whisper, and the subsequent close-up focus on Elara's hardening jaw and gold-flaring eyes."
+    },
+    {
+        "idx": 8,
+        "active_shot_idxs": [
+            8
+        ],
+        "parent_cam_idx": 6,
+        "parent_shot_idx": 0,
+        "reason": "Shot 8 is a Reverse Angle Two Shot looking back at the configuration seen in Shot 6 (medium framing of both characters), but now Elara is dominant in the foreground, pushing in on her resolute expression while Lyara is slightly behind her. Shot 6 provided the standard two-shot orientation before this final push-in/reverse angle.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific reverse angle perspective, Elara being dominant in the foreground, the slow push-in, and the visual representation of fading light conveying urgency."
+    }
+]

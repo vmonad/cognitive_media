@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/character_portraits/0_Mara/front.png",
+            "A front view portrait of Mara."
+        ],
+        [
+            ".working_dir/idea2video/scene_0/shots/4/new_camera_4.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The specific agony and subsequent transformation of <Mara>'s face and body into wireframe within the white static..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A very tight close-up shot on the face of one human adult female, mid-30s in perceived age, whose eyes are wide open in agony. The background should entirely be harsh, screeching WHITE STATIC suggesting complete sensory overload or a systemic failure. The lighting should be overwhelmingly bright and uniform, reflecting off the skin. The facial features of the woman should reference Image 0. The overall composition, lighting, and background effect (white static) should reference Image 1."
+}

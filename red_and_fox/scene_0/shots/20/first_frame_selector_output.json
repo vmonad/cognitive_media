@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_interior_granny_room.png",
+            "Reference establishing shot of location 'cottage_interior_granny_room': The interior of the cottage at night, lit primarily by the low, dying orange embers in the fireplace. Granny sits in a heavy, dark wood rocking chair, which is slowly moving. In the shadows, a dark wood table is visible where a heavy leather book rests. The mood is claustrophobic, dominated by the dying firelight and deep shadows. A large grandfather clock is present, likely standing sentinel."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_interior_flashback.png",
+            "Reference establishing shot of location 'cottage_interior_flashback': A cramped, dimly lit interior space dominated by the intense, flickering orange glow emanating from a stone fireplace. The light throws strong, dancing shadows, particularly the massive, severe shadow of an unseen figure (Granny) engulfing the foreground. The floor appears to be cold, dark stone. The atmosphere is charged with internalized fear and tension."
+        ]
+    ],
+    "text_prompt": "Create a photorealistic dark fairy tale establishing shot within an empty, silent cottage interior, adhering to the visual style directives, especially the rich cinematic color grade with desaturated earth tones and deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, and tactile, weathered surfaces. \n\nThe scene must feature a stone fireplace on the left with dying embers casting a warm, textured glow, referencing the lighting and fireplace in Image 1. In contrast, a tall, dark, motionless grandfather clock should be centered slightly to the right, referencing the clock from Image 0. A heavy burgundy curtain, similar to the fabric detail in Image 0, should hang motionless near the back wall, contributing to the oppressive dimness of the room, consistent with the atmosphere of Image 0. The overall visual texture of the stone walls and floor should be tactile and weathered, matching Image 1. Ensure proper proportional scale and that the lighting on all elements matches the practical light sources (dying embers) establishing deep chiaroscuro shadows throughout the room, making the characters look physically embedded in the space."
+}

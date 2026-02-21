@@ -1,0 +1,46 @@
+[
+    {
+        "idx": 0,
+        "active_shot_idxs": [
+            0
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_0 is the opening shot (BLACK SCREEN. FADE IN begins) and thus establishes the sequence before any content is shown. It is the root camera.",
+        "is_parent_fully_covers_child": null,
+        "missing_info": null
+    },
+    {
+        "idx": 1,
+        "active_shot_idxs": [
+            1
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_1 (Shot 1) introduces the entire setting and all principal elements (Morgath, Prince Cael, Throne, Crib) in a WIDE SHOT. Shot 0 of CAMERA_0 is only a fade-in, so Shot 0 of CAMERA_0 establishes the beginning of the scene which CAMERA_1 details. Shot 1 of CAMERA_1 is the first scene establishing shot and acts as the root for all subsequent detailed shots.",
+        "is_parent_fully_covers_child": true,
+        "missing_info": null
+    },
+    {
+        "idx": 2,
+        "active_shot_idxs": [
+            2
+        ],
+        "parent_cam_idx": 1,
+        "parent_shot_idx": 1,
+        "reason": "CAMERA_2 (Shot 2) is a CLOSE UP focusing on Morgath and the Book, which were both visible in CAMERA_1 Shot 1 (Wide Shot). The Wide Shot contains the subject matter of the close-up.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The setting (THRONE ROOM), the crib, and Prince Cael."
+    },
+    {
+        "idx": 3,
+        "active_shot_idxs": [
+            3
+        ],
+        "parent_cam_idx": 1,
+        "parent_shot_idx": 1,
+        "reason": "CAMERA_3 (Shot 3) is a MEDIUM SHOT focusing on Morgath and Prince Cael interacting over the crib, all elements visually established in CAMERA_1 Shot 1 (Wide Shot).",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The setting (THRONE ROOM) and the throne itself."
+    }
+]

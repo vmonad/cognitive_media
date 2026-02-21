@@ -1,0 +1,18 @@
+{
+    "idx": 16,
+    "is_last": false,
+    "cam_idx": 16,
+    "visual_desc": "ACTION SHOT INTERIOR (SCENE 4). The heavy oak front door splinters VIOLENTLY inward. <The Woodsman> (Character 3) fills the frame, his massive silhouette positioned against the torrent of light and rain from the doorway. His axe is raised high over his shoulder; his plaid shirt is dark and dripping. His earnest face is etched with fierce, protective purpose. Camera is LOW ANGLE looking up at his imposing presence. Practical lighting emphasizes the water running down his beard.",
+    "variation_type": "medium",
+    "variation_reason": "The camera executes a significant push-in, changing the framing from encompassing the silhouette against the doorway to focusing tightly on the face, which represents a meaningful shift in composition and focus within the action sequence. The character's posture remains intensely focused, but the framing accentuates the protective purpose in their expression.",
+    "ff_desc": "A photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, low angle medium close-up on the entryway of an interior space. The heavy oak front door is violently splintered inward, framing a torrent of bright, rain-soaked exterior light and atmosphere behind a massive silhouette. The silhouette belongs to a broad-shouldered figure whose axe is raised high over their shoulder. This figure wears a dark, dripping plaid shirt. Practical lighting striking the scene emphasizes water running down their thick, dark beard. The figure's expression is etched with fierce, protective purpose.",
+    "ff_vis_char_idxs": [
+        3
+    ],
+    "lf_desc": "A photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, low angle close-up on the face of a broad-shouldered man. The man's axe is held ready, positioned just off-frame or slightly lower than in the initial frame. The rain and exterior light still backlight the scene, but volumetric light highlights the water droplets clinging to the individual hairs of his thick, dark beard. His earnest face, etched with fierce, protective purpose, is now slightly clearer against the bright background, seen in shallow depth of field with creamy anamorphic bokeh rendering the background light sources.",
+    "lf_vis_char_idxs": [
+        3
+    ],
+    "motion_desc": "The shot is accomplished via a fast, aggressive camera push-in (dolly or zoom) from a medium close-up framing the silhouette against the entrance, moving toward a tight close-up on the face of the broad-shouldered figure in the red-and-black plaid flannel shirt, immediately following the violent splintering of the heavy oak front door. Simultaneously, the figure, framed by the doorway, holds their raised axe steady, their posture locked in fierce readiness. Practical lighting, simulating the exterior storm, washes over the figure, emphasizing the water running down their beard as the camera moves in. The visual atmosphere is chaotic and urgent, underscored by the sound of shattering wood and heavy rain, with a tense, low string score building in intensity.",
+    "audio_desc": "[Sound Effect] Massive CRACK of wood breaking apart; the RAIN roaring continuously through the opening; <The Woodsman's> (deep, warm, earnest voice) heavy, earnest BREATHING audible over the storm."
+}

@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/front.png",
+            "CANONICAL front-view portrait of King Edran. This is the definitive reference for this character's face and identity. A man with a strong, weathered face and deep brown eyes. He possesses an air of authority. Wearing a silver-threaded Crown of Sevens; dressed in practical armor."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/side.png",
+            "Side-view portrait of King Edran showing profile and body shape. A man with a strong, weathered face and deep brown eyes. Practical armor with fur-trimmed cloak."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy medium close-up, shot with an Arri Alexa 65 and anamorphic lenses, focusing tightly on King Edran's face. King Edran's appearance (face, hair color, hair style, skin tone, eye color, bone structure, and clothing, including the practical armor with silver threading visible on the gorget) MUST exactly replicate Image 1. The body shape and profile view of the armor and cloak MUST reference Image 2. His deep brown eyes are wide with effort and shock. The soft, out-of-focus background must be the carnage environment described in Image 0, rendered with deep chiaroscuro, dramatic shadows, and creamy anamorphic bokeh, consistent with the lighting from the braziers in Image 0. Lighting on the character must match the flickering, high-contrast torchlight suggested by the environment reference. The scale of the character must be suitable for a medium close-up shot, creating a physically embedded look within the implied environment. Maintain the photorealistic medieval fantasy style with 35mm film grain texture, avoiding any video game or CGI render appearance."
+}

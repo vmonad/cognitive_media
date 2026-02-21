@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/scene_2/shots/1/new_camera_1.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The surrounding desolate landscape..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A CLOSE UP shot focuses on a defunct MILITARY BUNKER TERMINAL, keeping the composition and background exactly as in Image 0. The screen should display the final status text: \"FATALITY: 99.9%.\""
+}
