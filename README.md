@@ -18,7 +18,11 @@
 
 ### Blood of the Crown — The Seven Kingdoms (Pilot)
 
-<video src="7kingdoms_pilot/preview.mp4" width="720" controls></video>
+<p align="center">
+  <a href="7kingdoms_pilot/preview.mp4">
+    <img src="7kingdoms_pilot/preview_thumb.jpg" alt="Blood of the Crown — Click to play" width="720" />
+  </a>
+</p>
 
 King Edran is betrayed and murdered in a coup by the sorceress Morgath. His queen flees with their newborn daughter while Morgath keeps the infant prince alive for a dark ritual — eighteen years later, the exiled princess discovers who she truly is.
 
@@ -28,7 +32,11 @@ King Edran is betrayed and murdered in a coup by the sorceress Morgath. His quee
 
 ### Red and Fox
 
-<video src="red_and_fox/preview.mp4" width="720" controls></video>
+<p align="center">
+  <a href="red_and_fox/preview.mp4">
+    <img src="red_and_fox/preview_thumb.jpg" alt="Red and Fox — Click to play" width="720" />
+  </a>
+</p>
 
 Red plots to escape her grandmother's tyranny with the help of her lover, the wolfish outsider known as The Fox. They stage the perfect crime — but in the silence that follows, Red discovers the inheritance comes with a cost no one mentioned.
 
@@ -38,7 +46,11 @@ Red plots to escape her grandmother's tyranny with the help of her lover, the wo
 
 ### The Inhabited Realm
 
-<video src="inhabited_realm/preview.mp4" width="720" controls></video>
+<p align="center">
+  <a href="inhabited_realm/preview.mp4">
+    <img src="inhabited_realm/preview_thumb.jpg" alt="The Inhabited Realm — Click to play" width="720" />
+  </a>
+</p>
 
 In the late 2030s, a terrorist attack during an immersive neural cinema premiere kills civilian Mara mid-transfer, trapping her consciousness inside a collapsing simulation. Inside the fragmented digital reality, an NPC achieves self-awareness — and the line between real and generated dissolves.
 
@@ -48,7 +60,11 @@ In the late 2030s, a terrorist attack during an immersive neural cinema premiere
 
 ### The Seven Shattered Crowns
 
-<video src="7kingdoms/preview.mp4" width="720" controls></video>
+<p align="center">
+  <a href="7kingdoms/preview.mp4">
+    <img src="7kingdoms/preview_thumb.jpg" alt="The Seven Shattered Crowns — Click to play" width="720" />
+  </a>
+</p>
 
 The generation-long peace uniting seven kingdoms shatters with the poisoning of King Aldric, unleashing a prophecy of fire. Three ruthless contenders — a calculating queen, a strategic prince, and a wild northern warlord — plunge the continent into war.
 
