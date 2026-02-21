@@ -1,0 +1,25 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/3_Sir Aldren/front.png",
+            "CANONICAL front-view portrait of Sir Aldren. This is the definitive reference for this character's face and identity. A scarred Knight with a sturdy build. Gruff in demeanor. Wears armor that becomes scratched and muddied."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/3_Sir Aldren/side.png",
+            "Side-view portrait of Sir Aldren showing profile and body shape. A scarred Knight with a sturdy build."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/front.png",
+            "CANONICAL front-view portrait of Queen Lyara. This is the definitive reference for this character's face and identity. A beautiful woman with olive skin and amber eyes. Resilient in appearance. Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/side.png",
+            "Side-view portrait of Queen Lyara showing profile and body shape. A beautiful woman with olive skin and amber eyes. Resilient in appearance."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_2/location_refs/forest_edge.png",
+            "Reference establishing shot of location 'forest_edge': A dramatic transition point at the edge of a dense forest as dawn breaks. The ground is covered in thick, cold, white mist that obscures the lower parts of the trees and the immediate surroundings. In the background, visible above the mist layer or on a ridge, stands a large, imposing castle structure visibly engulfed in bright orange and red flames against a lightening, pale blue and grey sky. The lighting is dim dawn light struggling to penetrate the mist, emphasizing contrast between the cold ground and the hot firelight in the distance. Weather is cold and heavily misty."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy wide shot, captured with Panavision anamorphic lenses and 35mm film grain, positioned looking out from within a low, rough stone archway tunnel exit. The foreground is dominated by the silhouettes of the tunnel opening framing the scene. The three figures have just emerged onto a forest floor completely obscured by thick, cold, white mist that limits ground visibility to a few feet. In the background, high on a distant ridge against the lightening gray pre-dawn sky, the silhouette of a large castle is starkly defined by bright orange and red flames licking its structure. The light is cold, pale blue-grey, heavily diffused by the mist and smoke, creating deep shadows within the tunnel exit. \n\nSir Aldren (the figure in muddied armor) MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 0. His posture and position should be adapted to emerge from the archway, referencing the sturdy build and muddied armor from Image 1 for the side profile/body, as he is emerging onto the forest floor.\n\nQueen Lyara (the beautiful woman with olive skin and amber eyes) MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 2. She is holding an infant.\n\nThe swaddled infant MUST be a realistic newborn held by Lyara.\n\nThe environment, including the mist, forest edge, dawn lighting (cold, pale blue-grey, diffused), and the burning castle on the ridge in the background, MUST reference Image 4. \n\nPROPORTION AND LIGHTING: All characters must be placed at correct proportional scale within the environment, appearing physically embedded in the cold, misty space. Lighting on characters must match the cold, pale blue-grey, diffused light from the environment, contrasted by subtle rim lighting from the distant distant firelight on the castle. The entire image must adhere to the visual style: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, with 35mm film grain texture and deep chiaroscuro shadows."
+}

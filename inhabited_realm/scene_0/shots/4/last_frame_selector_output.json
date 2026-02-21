@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/scene_0/shots/4/first_frame.png",
+            "A very tight close-up shot on the face of one human adult female, mid-30s in perceived age, whose eyes are wide open in agony. The background is entirely consumed by harsh, screeching WHITE STATIC, suggesting complete sensory overload or a systemic failure. The lighting is overwhelmingly bright and uniform, reflecting off the skin."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: The frame is entirely pure BLACK. No discernible shapes, characters, or light sources are visible, indicating a complete void or cut to black. This frame should follow the overall style and look established by Image 0, but with the content entirely blacked out."
+}

@@ -1,0 +1,14 @@
+{
+    "idx": 0,
+    "is_last": false,
+    "cam_idx": 0,
+    "visual_desc": "BLACK SCREEN. A stark, grainy texture overlaid, suggesting old film stock. No visible elements.",
+    "variation_type": "small",
+    "variation_reason": "The shot involves no subject motion and no camera movement; it remains entirely static on a black screen with film grain, constituting the smallest possible visual change.",
+    "ff_desc": "A photorealistic medieval fantasy close-up of a black screen, overlaid with a stark, grainy texture characteristic of old, damaged 35mm film stock, suggesting the beginning of an archival recording. No discernable figures or environmental elements are present. The lighting is flat blackness, and the only visual characteristic is the textural grain.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A photorealistic medieval fantasy close-up of a black screen, overlaid with a stark, grainy texture characteristic of old, damaged 35mm film stock. No discernable figures or environmental elements are present. The lighting is flat blackness, a continuation of the initial state.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera remains perfectly static. There is no movement within the frame as the shot begins and ends on absolute blackness interrupted only by the sustained film grain texture. The mood is one of absolute void or silence, underscored by the absence of any visual or auditory indicators (assumed silence from the lack of description).",
+    "audio_desc": "[Narrator] (deep, aged male voice, like a historian telling a legend): \"It came without warning. On the night of the harvest feast, when every sword was sheathed and every guard was drunk on wine.\""
+}

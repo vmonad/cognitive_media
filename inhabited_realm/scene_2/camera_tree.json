@@ -1,0 +1,57 @@
+[
+    {
+        "idx": 0,
+        "active_shot_idxs": [
+            0
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_0 establishes the entire setting and initial atmosphere (EXT. EARTH - HIGH CONTRAST PANORAMA, desolate landscape, Movie Grids). It is the establishing visual for the sequence and thus serves as the root camera.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific details of the terminal, the characters, or the interior architecture."
+    },
+    {
+        "idx": 1,
+        "active_shot_idxs": [
+            1
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "Shot 0 (CAMERA_0) establishes the external environment where the terminal (Shot 1) is presumed to be located (desolate terrain). However, Shot 1 introduces a specific mechanical detail (Close Up on terminal), which is a focus shift, not a direct inset. Since Shot 1 introduces unique content not covered by the initial wide establishing shot of the landscape, and none of the subsequent shots define a relationship, it stands on its own below the root.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The surrounding desolate landscape."
+    },
+    {
+        "idx": 2,
+        "active_shot_idxs": [
+            2
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "Shot 2 (INTERIOR - THE CORE) introduces the primary location where the main characters reside and act. This interior setting is conceptually a part of the world established conceptually by CAMERA_0. Given the dramatic shift in location/scale (from EXT. PANORAMA to VAST INTERIOR), CAMERA_0 (Shot 0) as the overall scene initializer is the weakest but necessary progenitor for the root structure when no direct visual overlap is present.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The external environment and the specific terminal detail."
+    },
+    {
+        "idx": 3,
+        "active_shot_idxs": [
+            3
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 2,
+        "reason": "Shot 3 (MID SHOT focused on <Mara> near <Noon>) is contextually contained within the overall setting of THE CORE established by CAMERA_2 (Shot 2: VAST, perfectly ordered space with <Noon>). A Mid Shot focuses on specific characters who were introduced in the preceding scene setting.",
+        "is_parent_fully_covers_child": true,
+        "missing_info": null
+    },
+    {
+        "idx": 4,
+        "active_shot_idxs": [
+            4
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 2,
+        "reason": "Shot 4 (FINAL WIDE SHOT) encompasses the elements of Shot 3 (showing <Mara> and <Noon>) but expands the frame to show the full scope of the digital architecture and other entities. Thus, Shot 2 (THE CORE establishing shot) and Shot 3 (Mid Shot of characters) are contained within the scope of this final Wide Shot.",
+        "is_parent_fully_covers_child": true,
+        "missing_info": null
+    }
+]

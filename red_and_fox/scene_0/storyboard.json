@@ -1,0 +1,177 @@
+[
+    {
+        "idx": 0,
+        "is_last": false,
+        "cam_idx": 0,
+        "visual_desc": "EXTREME WIDE AERIAL SHOT. Photorealistic dark fairy tale quality, shot with Arri Alexa 65/Anamorphic lenses. Dusk. Volumetric god rays pierce through thick, low-hanging fog over the dense forest canopy. The camera slowly drifts, then cranes down through the mist, emphasizing the oppressive scale of the woods. It executes a slow, deliberate pan across the forest floor—moss, dark roots, and scattered detritus—finding the narrow path that vanishes into deep shadow. No characters are visible. The 35mm film grain texture is subtle but present.",
+        "audio_desc": "[Sound Effect] Low, pervasive WHISPER of wind through the high canopy; distant, echoing CALLS OF CROWS. [Music Score] A low, ambient, resonant DRONE begins."
+    },
+    {
+        "idx": 1,
+        "is_last": false,
+        "cam_idx": 1,
+        "visual_desc": "EXTREME CLOSE-UP, static and sharply focused. The Fox's black-gloved hand (Character 1) presses a small, corked glass vial containing the dark sleeping draught firmly into <Red's> (Character 0) bare, porcelain palm. The stark contrast between the oiled black leather and the luminous skin dominates the frame. Shallow depth of field creates creamy bokeh on the mossy background. Lighting is dim twilight.",
+        "audio_desc": "[Sound Effect] Muffled forest ambience; the distant calls of crows carry thinly. [Music Score] Drone continues, low beneath ambient sounds."
+    },
+    {
+        "idx": 2,
+        "is_last": false,
+        "cam_idx": 2,
+        "visual_desc": "TWO-SHOT, intimate framing, low angle. <Red> (Character 0) and <The Fox> (Character 1) face each other, their breaths visible as thin white mist between their lips due to the cool dusk air. Thin fog curls around their ankles on the path. A slow DOLLY PUSHES forward, closing the infinitesimal distance between their faces. <Red's> green-hazel eyes burn with desperate longing, illuminated by the low available light. <The Fox's> amber-golden eyes are razor-sharp and intense. <The Fox> (male, late 20s, low, smooth baritone with a slight rasp) says: \"Ten beats of the clock. No hesitation.\"",
+        "audio_desc": "[Sound Effect] Heavy, synchronized breathing; the WHISPER of wind through the high canopy. [Music Score] Increase in underlying tension in the score."
+    },
+    {
+        "idx": 3,
+        "is_last": false,
+        "cam_idx": 3,
+        "visual_desc": "MEDIUM SHOT, static. The kiss is brief, fierce, and final. The camera holds steady on the intensity of the contact, capturing the slight tremor through <Red's> shoulders and the tightening of <The Fox's> jaw, which reveals the subtle elongation of his canines. Passion and dread are etched on their faces. A single, sharp BIRD CALL cuts the moment, and every feature on their faces registers the abrupt cessation of movement.",
+        "audio_desc": "[Sound Effect] A single, sharp BIRD CALL, instantly replaced by profound INSTANTANEOUS SILENCE. [Music Score] Muted for the duration of the kiss, then a slight intake of score sound."
+    },
+    {
+        "idx": 4,
+        "is_last": true,
+        "cam_idx": 4,
+        "visual_desc": "WIDE SHOT. <The Fox> (Character 1) melts away, his dark charcoal coat billowing dramatically like shadow as he recedes rapidly into the deepening fog. <Red> (Character 0) stands utterly alone on the narrow path beneath towering oaks. She deliberately pulls the deep crimson velvet hood up over her beautiful hair, her fingers visible against the rich texture of the cloth, squaring her shoulders with rigid posture. A slow CRANE MOVE lifts the camera, capturing the vast, oppressive scale of the dark forest swallowing her entire frame. The anamorphic bokeh flares softly in the distance where <The Fox> vanished.",
+        "audio_desc": "[Sound Effect] The receding rustle of <The Fox's> coat, wind picking up. [Music Score] Low, mournful CELLO DRONE swells significantly, holding."
+    },
+    {
+        "idx": 5,
+        "is_last": false,
+        "cam_idx": 5,
+        "visual_desc": "EXTABLISHING SHOT (SCENE 2). The cottage exterior at golden hour. Photorealistic, rich color grading. The camera starts WIDE from the edge of the dark forest treeline, looking toward the isolated structure. It executes a slow LATERAL TRACKING SHOT along the overgrown garden, revealing dead roses clinging to the stone walls and ivy encroachment. The crooked chimney trails a thin plume of smoke against the darkening sky. A single, dim oil lantern illuminates the weathered oak door. No characters are visible. The entire scene feels tactile and lonely.",
+        "audio_desc": "[Sound Effect] Low, cold wind through the garden; a single, drawn-out CREAK of the front door; the FAINT, warm CRACKLE of fire audible inside. [Music Score] Sparse, melancholic PIANO NOTES."
+    },
+    {
+        "idx": 6,
+        "is_last": false,
+        "cam_idx": 6,
+        "visual_desc": "CLOSE-UP FLASHBACK (SCENE 2). Young <Red> (Character 0, appearance aged eight), sits rigid on the cold stone floor, her small face intensely lit by the flickering, practical orange GLOW of the fireplace, casting deep chiaroscuro shadows. Granny's (Character 2) massive, severe shadow engulfs her from behind, blotting out the background. The camera is static, focusing tightly on the visible tension in the child’s jaw and her tightly clenched fists in her lap. Emotion: pure, internalized fear. The 35mm grain texture is pronounced here due to the low, flickering light.",
+        "audio_desc": "[Sound Effect] The loud, rhythmic, cold TICKING OF THE GRANDFATHER CLOCK in the background. Granny's (Character 2) voice (crisp, cold, perfectly enunciated) heard faintly OFF-SCREEN: \"Sentiment is weakness.\""
+    },
+    {
+        "idx": 7,
+        "is_last": false,
+        "cam_idx": 7,
+        "visual_desc": "MEDIUM SHOT FLASHBACK (SCENE 2). <Granny> (Character 2), gaunt and imposing in her dark dress, SLAMS a heavy, leather-bound book shut onto a dark wood table. The camera focuses on the action, then executes a slight, invasive PUSH-IN, tracking tightly onto Young <Red's> face. Her lower lip visibly trembles for a fraction of a second, but her eyes visibly harden, locking down any outward display of tears into a steely gaze. Emotion: the birth of deep-seated hatred. The light from the fire catches the sudden, chilling hardness in her eyes.",
+        "audio_desc": "[Sound Effect] The CRACK of the book slamming echoes fiercely, dominating the soundscape, before immediately dropping into silence. [Music Score] Piano cuts out."
+    },
+    {
+        "idx": 8,
+        "is_last": false,
+        "cam_idx": 8,
+        "visual_desc": "MATCH CUT TO PRESENT (SCENE 2). Adult <Red's> (Character 0) eyes, displaying that exact same, terrible, steely hardness, track sharply forward, looking past the camera. The shot transitions seamlessly from the child's eyes to the adult's. She is now walking the forest path, her crimson hood drawn low over her beautiful hair, her wicker basket swinging rhythmically at her side. This is a slow, deliberate TRACKING SHOT accompanying her stride, passing through moments of dappled sunlight filtering through the canopy, lighting up the texture of her velvet cloak. Her focus is absolute.",
+        "audio_desc": "[Sound Effect] <Red's> leather boots making soft but deliberate contact with the damp leaves on the path. [Music Score] The strings transition abruptly from sparse to tense, RISING STRINGS signaling forward momentum."
+    },
+    {
+        "idx": 9,
+        "is_last": true,
+        "cam_idx": 9,
+        "visual_desc": "CLOSE-UP, ground level (SCENE 2). <Red's> (Character 0) worn leather boot steps precisely and deliberately over a thick, gnarled tree root crossing the path. The focus is entirely on this footfall—the leather texture damp, the root wet—a symbolic crossing of a final threshold. Shallow depth of field renders the path edges into soft, dark bokeh. All ambient sound and music immediately DROP OUT, emphasizing the singularity of this action.",
+        "audio_desc": "[Sound Effect] A single, heavy, resonant THUD of the boot hitting the ground, followed by absolute, suffocating silence. [Music Score] Silence."
+    },
+    {
+        "idx": 10,
+        "is_last": false,
+        "cam_idx": 10,
+        "visual_desc": "ESTABLISHING SHOT (SCENE 3). Night. The cottage exterior viewed from behind. Faint firelight glows weakly through the small, unlatched back window. The camera starts WIDE from the dark tree line, then executes a slow DOLLY FORWARD through the overgrown back garden toward the window. Fog drifts across the stone foundation, obscuring the base of the walls. The chimney smoke is a phantom plume against the ink-black sky. No characters. Emotion: approaching danger. Practical cottage light sources contrast deeply with the natural darkness.",
+        "audio_desc": "[Sound Effect] Distant CRICKETS; a single, lonely OWL HOOT; the FAINT, rhythmic CREAK of the rocking chair from inside the cottage. [Music Score] Barely audible, high-tension STRINGS begin to weave underneath the ambient sound."
+    },
+    {
+        "idx": 11,
+        "is_last": false,
+        "cam_idx": 11,
+        "visual_desc": "MEDIUM SHOT INTERIOR (SCENE 3). <The Fox> (Character 1), dressed entirely in black, his features obscured by shadow save for the faint amber glint of his eyes, forces the iron latch of the back window with practiced ease. He slips between the deep chiaroscuro shadows like liquid mercury, entering the room. In the foreground, Granny’s (Character 2) rocking chair continues its slow, monotonous CREAK near the dying embers of the fireplace. The camera employs slight HANDHELD movement to convey predatory stealth and immediacy.",
+        "audio_desc": "[Sound Effect] Sharp metallic SCRAPE of the latch being forced open; the rhythmic chair’s creak; the soft POP of wood in the dying fire. [Music Score] Tension strings underscore the movement."
+    },
+    {
+        "idx": 12,
+        "is_last": false,
+        "cam_idx": 12,
+        "visual_desc": "CLOSE-UP on <Granny's> (Character 2) face in the rocking chair, half-lit by the warm, flickering orange light of the dying embers. Her ice-blue eyes snap WIDE OPEN—not in panic, but in sharp, cold recognition as <The Fox's> (Character 1) deep shadow falls diagonally across her face. The camera remains unnervingly static, forcing the viewer to hold the gaze. The rocking chair stops INSTANTLY.",
+        "audio_desc": "[Sound Effect] The sound of the rocking chair stopping abruptly. Dead, suffocating SILENCE descends upon the room, broken only by the faint internal sound of the dying FIRE. [Music Score] All score elements cut out."
+    },
+    {
+        "idx": 13,
+        "is_last": false,
+        "cam_idx": 13,
+        "visual_desc": "FRONT DOOR POV FROM INSIDE (SCENE 3). Three soft, polite KNOCKS echo sharply against the heavy oak interior door: *tap… tap… tap.* The sound seems overly loud in the silence. The heavy door begins to open, revealing <Red's> (Character 0) face framed perfectly in the weak exterior lantern light—her expression is a flawless, porcelain mask of innocent filial concern, her hand holding the basket steady. Camera is static, treating the entry as a moment of high theatrical deception. Her crimson cloak is visible against the dark interior.",
+        "audio_desc": "[Sound Effect] The three knocks echo intensely, followed by the low, resonant RUMBLE of the old house settling itself. <Red's> (soft, measured, slightly breathy voice) voice curls through the wood: \"Granny? I brought your linens.\""
+    },
+    {
+        "idx": 14,
+        "is_last": true,
+        "cam_idx": 14,
+        "visual_desc": "OVER-THE-SHOULDER SHOT (SCENE 3) from just behind <Granny's> (Character 2) empty rocking chair. <The Fox> (Character 1) is visible standing statue-still to the right side of the frame, a dark sentinel in the shadow thrown by the door. <Red> (Character 0) steps fully into the room from the left, entering the dim light. Their eyes lock across the dark interior over the rigid, still shape seated between them—a silent, conspiratorial moment confirming their pact is sealed. A slow RACK FOCUS passes from <Red's> fleeting look of barely perceptible relief to <The Fox's> approving, unwavering amber gaze. The grandfather clock in the corner begins its steady, ominous *TICK-TOCK* once more.",
+        "audio_desc": "[Sound Effect] The grandfather clock begins its rhythmic TICK-TOCK. [Music Score] A subtle return of the underlying tension strings."
+    },
+    {
+        "idx": 15,
+        "is_last": false,
+        "cam_idx": 15,
+        "visual_desc": "ESTABLISHING SHOT (SCENE 4). The cottage exterior in a sudden, heavy downpour, seen from a very LOW ANGLE across the now-muddy path. Rain hammers the thatched roof in dense, streaking sheets. A brilliant flash of LIGHTNING briefly illuminates the stone walls and the sodden, dead garden, highlighting the texture of the weathered stone. The camera executes a slow PAN from the splintered, partially open front door across the storm-lashed facade to the dark, blurred treeline. No characters visible. Emotion: the storm as metaphor for consequence. Photorealism emphasizes the violence of the water.",
+        "audio_desc": "[Sound Effect] RAIN ROARING in sheets; distant, muffled THUNDER; high wind buffeting the structure. [Music Score] Deep, continuous OMINOUS RUMBLE swells, drowning out most other sound."
+    },
+    {
+        "idx": 16,
+        "is_last": false,
+        "cam_idx": 16,
+        "visual_desc": "ACTION SHOT INTERIOR (SCENE 4). The heavy oak front door splinters VIOLENTLY inward. <The Woodsman> (Character 3) fills the frame, his massive silhouette positioned against the torrent of light and rain from the doorway. His axe is raised high over his shoulder; his plaid shirt is dark and dripping. His earnest face is etched with fierce, protective purpose. Camera is LOW ANGLE looking up at his imposing presence. Practical lighting emphasizes the water running down his beard.",
+        "audio_desc": "[Sound Effect] Massive CRACK of wood breaking apart; the RAIN roaring continuously through the opening; <The Woodsman's> (deep, warm, earnest voice) heavy, earnest BREATHING audible over the storm."
+    },
+    {
+        "idx": 17,
+        "is_last": false,
+        "cam_idx": 17,
+        "visual_desc": "MEDIUM SHOT (SCENE 4). <Red> (Character 0) launches herself forward from the shadows, collapsing over the shrouded, body-sized bundle now laid across the rocking chair. Her dark velvet cloak is instantly soaking wet, clinging to her slender frame. She points a trembling, lace-cuffed hand toward the broken back window (visible in deep background bokeh), her face a picture of expertly manufactured, ragged despair. The camera settles at <Red's> eye level, emphasizing the raw, theatrical anguish of her performance. Her porcelain skin appears slick with either tears or rain.",
+        "audio_desc": "<Red> (soft, measured voice, now ragged with manufactured grief): \"A beast! It fled into the pines!\" [Sound Effect] Her choked SOBBING mixing with the continuous roar of the rain."
+    },
+    {
+        "idx": 18,
+        "is_last": false,
+        "cam_idx": 18,
+        "visual_desc": "TWO-SHOT (SCENE 4). <The Woodsman> (Character 3) nods gravely, his honest face grim and set in solemn concern. He gently lifts the heavy, blanket-wrapped shape. He casts a single, respectful, warm glance toward <Red> (Character 0) as he turns and shoulders his way back out the ruined front door into the deluge. Camera tracks his heavy, determined movement towards the threshold, showing the contrast between his bulk and the door frame.",
+        "audio_desc": "<The Woodsman> (deep, warm, earnest voice): \"Fear not, child. I will see justice done.\" [Sound Effect] The roar of the RAIN seems to engulf everything as he steps out, immediately muffling his footsteps."
+    },
+    {
+        "idx": 19,
+        "is_last": true,
+        "cam_idx": 19,
+        "visual_desc": "SILHOUETTE SHOT (SCENE 4) captured from a dark, dry vantage point inside the cottage, looking out through the window glass. <Red> (Character 0) and <The Fox> (Character 1) stand side-by-side, their outlines sharp and dark against the dim, rain-streaked interior light. They watch the Woodsman’s broad silhouette shrink against the backdrop of the dark, rain-swept forest. As his shape vanishes, <Red> subtly allows the mask to slip; a small, triumphant SMILE touches her lips for the first time, illuminated briefly by a residual interior flicker. Camera remains locked on this moment of victory, highlighting the outline of their shared secret.",
+        "audio_desc": "[Sound Effect] The roar of the RAIN begins to SOFTEN slightly as the focus shifts internally. [Music Score] The ominous rumble cuts out, replaced by a brief SWELL of soaring, triumphant, yet slightly dangerous STRINGS."
+    },
+    {
+        "idx": 20,
+        "is_last": false,
+        "cam_idx": 20,
+        "visual_desc": "ESTABLISHING SHOT (SCENE 5). SLOW PAN across the empty, silent cottage interior. The camera drifts like a ghost through the charged, dim air, showcasing the tactile details: lingering on the dying embers in the fireplace, the motionless, imposing grandfather clock, the heavy burgundy curtain hanging still near the back shadow, and the empty rocking chair. Practical light sources create deep chiaroscuro. No characters are visible. Emotion: eerie stillness, something profoundly wrong.",
+        "audio_desc": "[Sound Effect] ABSOLUTE silence between the beats. The relentless, metronomic TICKING of the grandfather clock is the ONLY audible sound. [Music Score] No continuous score."
+    },
+    {
+        "idx": 21,
+        "is_last": false,
+        "cam_idx": 21,
+        "visual_desc": "CLOSE-UP (SCENE 5). <Red> (Character 0) stands alone in the dim foyer area. Her crimson hood is down for the first time, and her beautiful dark hair cascades freely over her shoulders. Her face is completely relaxed, almost radiant with genuine relief and burgeoning freedom. She reaches one slender, free hand toward the heavy iron door handle. Camera executes a slow, intimate DOLLY IN on her expression of burgeoning freedom and finality. The lighting, reflecting off her porcelain skin, seems warmer than anywhere else in the room.",
+        "audio_desc": "[Sound Effect] Absolute, heavy silence surrounding her actions. The clock ticks softly in the distance. [Music Score] Silence."
+    },
+    {
+        "idx": 22,
+        "is_last": false,
+        "cam_idx": 22,
+        "visual_desc": "MEDIUM SHOT (SCENE 5). Her lace-cuffed fingers grip the cold iron handle, and she pulls the massive oak door shut. A deep, resonant THUD reverberates through the stone structure, signaling absolute closure against the remnants of the storm outside. She turns slowly into the room, breathing out a silent, visible sigh of success. Camera holds steady on her centered figure, waiting with her for the aftermath of her triumph. The texture of her velvet cloak is rich in the dim light.",
+        "audio_desc": "[Sound Effect] The heavy door closes with a deep, resonant THUD that vibrates through the silence, then fades into nothingness. [Music Score] Silence."
+    },
+    {
+        "idx": 23,
+        "is_last": false,
+        "cam_idx": 23,
+        "visual_desc": "WIDE SHOT of the cluttered cottage interior (SCENE 5). Following the silence, a secondary, perfectly still SHADOW detaches itself from the deepest shadow near the heavy, dark burgundy bedroom curtain. <Granny> (Character 2) steps out smoothly from behind the fabric—her silver hair immaculate, her black Victorian dress perfect, untouched by the staged attack. A thin, cruel, triumphant SMILE stretches her thin lips, contrasting sharply with her gaunt features. The camera begins a slow, creeping DOLLY TOWARD her figure, the background details blurring slightly with shallow depth of field, building immense, mounting dread.",
+        "audio_desc": "[Sound Effect] Silence is broken by a single, excruciatingly high, sustained VIOLIN NOTE that begins to KEEN, cutting through the air. <Granny> (Character 2, crisp, cold, perfectly enunciated voice) whispers, her breath barely moving the air: \"Did you really think I wouldn't know, dear?\""
+    },
+    {
+        "idx": 24,
+        "is_last": true,
+        "cam_idx": 24,
+        "visual_desc": "EXTREME CLOSE-UP on <Red's> (Character 0) face. In one horrifying instant, every flicker of hope, triumph, and memory of <The Fox> is violently scoured away. Her luminous porcelain skin blanches stark white, her beautiful hazel eyes widen into perfect circles of paralyzing, utterly silent HORROR, reflecting the dim internal light. Her full lips part mid-breath, unable to form a scream. The camera holds, unblinking, refusing to cut away from the devastation. The anamorphic lens renders the moment with brutal clarity against the background shadow.",
+        "audio_desc": "[Sound Effect] The high violin note CUTS OUT instantly. Replaced by one final, deep, resonant BASS NOTE that seems to vibrate in the structural silence of the room, sustained for three seconds. [Music Score] SLOW FADE TO BLACK begins immediately after the bass note ends."
+    }
+]

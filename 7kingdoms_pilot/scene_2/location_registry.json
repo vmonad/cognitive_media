@@ -1,0 +1,10 @@
+{
+    "under_castle_tunnels": {
+        "path": ".working_dir/7kingdoms_pilot/scene_2/location_refs/under_castle_tunnels.png",
+        "description": "Reference establishing shot of location 'under_castle_tunnels': A claustrophobic, ancient tunnel interior deep underground. The walls are constructed from crudely cut, dark grey stone, heavily coated in damp moss and constantly dripping water, creating slick patches. Illumination comes solely from erratic, flickering torchlight, casting long, dancing shadows that twist the space. The atmosphere is cold, oppressive, and damp. Time is deep night. Weather is implied subterranean dampness."
+    },
+    "forest_edge": {
+        "path": ".working_dir/7kingdoms_pilot/scene_2/location_refs/forest_edge.png",
+        "description": "Reference establishing shot of location 'forest_edge': A dramatic transition point at the edge of a dense forest as dawn breaks. The ground is covered in thick, cold, white mist that obscures the lower parts of the trees and the immediate surroundings. In the background, visible above the mist layer or on a ridge, stands a large, imposing castle structure visibly engulfed in bright orange and red flames against a lightening, pale blue and grey sky. The lighting is dim dawn light struggling to penetrate the mist, emphasizing contrast between the cold ground and the hot firelight in the distance. Weather is cold and heavily misty."
+    }
+}

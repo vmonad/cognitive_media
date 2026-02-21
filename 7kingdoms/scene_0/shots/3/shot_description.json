@@ -1,0 +1,16 @@
+{
+    "idx": 3,
+    "is_last": false,
+    "cam_idx": 3,
+    "visual_desc": "Low angle shot looking up at the Iron Crown now tumbling in mid-air, catching the candlelight briefly before it hits the polished marble floor. The crown SHATTERS into several jagged pieces in slow motion. Servants in the background flinch violently. SUDDEN AUDIO CUT.",
+    "variation_type": "large",
+    "variation_reason": "The initial focus is on a falling object (the crown), and the shot ends with a close-up of that object shattered on the ground, accompanied by significant disruptive movement from background elements. The focus shifts entirely from the airborne crown to the resulting debris.",
+    "ff_desc": "A low-angle medium close-up focuses on the Iron Crown, which is currently airborne, caught briefly in the warm, flickering glow of candlelight within a grand, candlelit hall. The polished marble floor is visible below, reflecting some of the ambient light. The overall composition emphasizes the crown's descent.",
+    "ff_vis_char_idxs": [
+        0
+    ],
+    "lf_desc": "A low-angle extreme close-up depicts the broken pieces of the Iron Crown, now scattered across sections of the highly reflective, polished marble floor. The candlelight illuminates the jagged edges of the fragments. In the background, several figures wearing servant attire are frozen in positions of sharp, startled recoil.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera remains static in its low-angle position. The Iron Crown tumbles towards the floor in a visually slowed motion, catching the candlelight as it falls. Upon impact, the crown shatters into multiple jagged pieces spread across the marble. Simultaneously, the figures in servant attire in the background flinch violently and recoil backward from the impact site.",
+    "audio_desc": "[Sound Effect] A sharp, deafening CRACK as the heavy iron cup SMASHES against the marble floor. Absolute silence immediately follows."
+}

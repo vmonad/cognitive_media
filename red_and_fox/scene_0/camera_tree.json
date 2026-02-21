@@ -1,0 +1,277 @@
+[
+    {
+        "idx": 0,
+        "active_shot_idxs": [
+            0
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_0 establishes the entire scene (dense forest, fog, setting) through the widest available shot (EXTREME WIDE AERIAL SHOT) before any specific characters or actions are introduced in the subsequent cameras. It is the root camera.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": null
+    },
+    {
+        "idx": 1,
+        "active_shot_idxs": [
+            1
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_1 (Shot 1: EXTREME CLOSE-UP of hand exchange) isolates the specific action of passing the vial, which occurs within the interaction frame established in CAMERA_2 (Shot 2: intimate TWO-SHOT of Red and The Fox facing each other). CAMERA_2 is the encompassing shot covering the characters' main interaction.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The full context of the exchange between Red and The Fox; the precise focus on the hand/vial."
+    },
+    {
+        "idx": 2,
+        "active_shot_idxs": [
+            2
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_2 (Shot 2: intimate TWO-SHOT of Red and The Fox) focuses on the two main characters interacting on the path. CAMERA_0 (Shot 0: EXTREME WIDE AERIAL SHOT) establishes the environment, including the path, fog, and general setting, which contains CAMERA_2's action.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific characters (Red and The Fox) and their intimate interaction."
+    },
+    {
+        "idx": 3,
+        "active_shot_idxs": [
+            3
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_3 (Shot 3: MEDIUM SHOT of the kiss/aftermath) is a tighter framing on the culmination of the moment established in CAMERA_2 (Shot 2: TWO-SHOT/Dolly Push-in leading to the kiss). CAMERA_2 contains the build-up and the main interaction.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific, intense action of the kiss itself and the precise reaction to the bird call."
+    },
+    {
+        "idx": 4,
+        "active_shot_idxs": [
+            4
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_4 (Shot 4: WIDE SHOT showing The Fox leaving and Red alone) is wider than the preceding interaction shots, showing the scale of the forest (established in CAMERA_0) swallowing up Red after the event.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific actions of The Fox leaving and Red's final posture/hood adjustment."
+    },
+    {
+        "idx": 5,
+        "active_shot_idxs": [
+            5
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_5 introduces an entirely new scene (Scene 2) and an entirely new setting (the cottage and garden) at a different time (golden hour). It functions as a new establishing shot, making it an independent sequence root, or the sequence root is CAMERA_0.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": null
+    },
+    {
+        "idx": 6,
+        "active_shot_idxs": [
+            6
+        ],
+        "parent_cam_idx": 7,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_6 (Shot 6: EXTREME CLOSE-UP on Young Red's face during the fear flashback) is a tight shot focusing on internal reaction which is immediately followed by CAMERA_7 (Shot 7: MEDIUM SHOT of Granny slamming the book and Red hardening her gaze). CAMERA_7 contains the action that causes the reaction seen in CAMERA_6 and provides context (Granny's action).",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific action by Granny (slamming the book) that leads to Young Red's reaction."
+    },
+    {
+        "idx": 7,
+        "active_shot_idxs": [
+            7
+        ],
+        "parent_cam_idx": 5,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_7 (Shot 7: MEDIUM SHOT FLASHBACK) continues Scene 2, focusing on Granny and Young Red's subsequent reaction. CAMERA_5 (Shot 5: WIDE ESTABLISHING SHOT of Scene 2) sets the initial scene boundaries for the cottage environment.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific characters (Granny/Young Red) and their actions/reactions in the flashback."
+    },
+    {
+        "idx": 8,
+        "active_shot_idxs": [
+            8
+        ],
+        "parent_cam_idx": 8,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_8 (Shot 8: MATCH CUT to present, Adult Red walking) shows the adult Red transitioning from the flashback state (established by CAMERA_7's focus on her hardening gaze) into the present action (walking the path). CAMERA_8 encompasses the result of the emotional memory.",
+        "is_parent_fully_covers_child": true,
+        "missing_info": null
+    },
+    {
+        "idx": 9,
+        "active_shot_idxs": [
+            9
+        ],
+        "parent_cam_idx": 8,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_9 (Shot 9: CLOSE-UP on boot step) is an extreme close-up detailing one specific part of the action established in CAMERA_8 (Shot 8: tracking shot accompanying her stride on the path). CAMERA_8 covers the entire walking sequence.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific detail of the boot stepping over the root and the momentary sound drop-out."
+    },
+    {
+        "idx": 10,
+        "active_shot_idxs": [
+            10
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_10 introduces Scene 3 (Night, cottage exterior) as a new major environmental shift, functioning as the establishing shot for this part of the narrative. It must be a root or linked to the previous scene root (CAMERA_5). Given the temporal and spatial shift, it serves as a distinct compositional anchor for Scene 3.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": null
+    },
+    {
+        "idx": 11,
+        "active_shot_idxs": [
+            11
+        ],
+        "parent_cam_idx": 13,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_11 (Shot 11: MEDIUM SHOT INT of The Fox entering) details the method used by The Fox to enter the cottage, an action which occurs just before Red's arrival in CAMERA_13 (Shot 13: POV of Red knocking/entering) and is framed concerning Granny's presence (indicated by the rocking chair). CAMERA_13 covers the point of entry where Red meets the established scene.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The Fox's stealth entry and Granny's silent presence."
+    },
+    {
+        "idx": 12,
+        "active_shot_idxs": [
+            12
+        ],
+        "parent_cam_idx": 11,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_12 (Shot 12: CLOSE-UP on Granny's eyes opening) isolates the sudden, sharp reaction of Granny, which is initiated by the event occurring in the environment established by CAMERA_11 (where The Fox enters and the chair is rocking). CAMERA_11 shows the predatory stillness preceding this direct moment of recognition.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The visual stillness of The Fox and the specific reaction (eyes snapping open) of Granny."
+    },
+    {
+        "idx": 13,
+        "active_shot_idxs": [
+            13
+        ],
+        "parent_cam_idx": 14,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_13 (Shot 13: FRONT DOOR POV) frames Red's deceptive entry. This shot leads directly into CAMERA_14 (Shot 14: O.T.S. over Granny's chair), which covers the subsequent interaction and connection between Red and The Fox across the room.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The Fox's position relative to Red during the moment Red enters the room."
+    },
+    {
+        "idx": 14,
+        "active_shot_idxs": [
+            14
+        ],
+        "parent_cam_idx": 13,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_14 (Shot 14: O.T.S. over Granny's chair) captures the silent communication between Red and The Fox after Red has entered (CAMERA_13). CAMERA_14 encompasses the immediate aftermath of the entry and the visual confirmation of the pact.",
+        "is_parent_fully_covers_child": true,
+        "missing_info": null
+    },
+    {
+        "idx": 15,
+        "active_shot_idxs": [
+            15
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_15 introduces Scene 4 (The storm) abruptly, utilizing a new, dramatic environmental element (heavy downpour) that fundamentally alters the physical space established in Scene 3 (CAMERA_10). It acts as a new establishing anchor for this tumultuous segment.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": null
+    },
+    {
+        "idx": 16,
+        "active_shot_idxs": [
+            16
+        ],
+        "parent_cam_idx": 15,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_16 (Shot 16: ACTION SHOT of The Woodsman entering) captures the dramatic physical breach of the cottage initiated by the storm established in CAMERA_15.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The Woodsman's specific appearance, action (axe raised), and emotional state."
+    },
+    {
+        "idx": 17,
+        "active_shot_idxs": [
+            17
+        ],
+        "parent_cam_idx": 16,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_17 (Shot 17: MEDIUM SHOT of Red collapsing over the bundle) shows Red's reaction while The Woodsman is present (implied by his entry in CAMERA_16). CAMERA_17 focuses tightly on her performance amidst the chaos.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The focus changes from The Woodsman's entry to Red's performance over the bundle."
+    },
+    {
+        "idx": 18,
+        "active_shot_idxs": [
+            18
+        ],
+        "parent_cam_idx": 17,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_18 (Shot 18: TWO-SHOT of Woodsman and Red) captures the grave interaction between The Woodsman and Red immediately following her performance in CAMERA_17. The Woodsman's action of turning to leave contains elements of their shared space.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The Woodsman's solemn nod and his physical departure out the front door."
+    },
+    {
+        "idx": 19,
+        "active_shot_idxs": [
+            19
+        ],
+        "parent_cam_idx": 18,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_19 (Shot 19: SILHOUETTE SHOT looking out) captures the aftermath of The Woodsman's exit (established in CAMERA_18) and focuses on Red and The Fox confirming their victory.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific moment Red's mask slips into a triumphant smile."
+    },
+    {
+        "idx": 20,
+        "active_shot_idxs": [
+            20
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_20 introduces Scene 5, marking the definitive end of the conflict and the cleansing of the space after the storm. It functions as the final environmental establish shot, separate from the preceding storm sequence (CAMERA_15).",
+        "is_parent_fully_covers_child": false,
+        "missing_info": null
+    },
+    {
+        "idx": 21,
+        "active_shot_idxs": [
+            21
+        ],
+        "parent_cam_idx": 22,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_21 (Shot 21: CLOSE-UP of Red's face/door handle grip) details Red's internal feeling of freedom upon the storm's passing, leading directly to the decisive action of closing the door in CAMERA_22 (Shot 22: MEDIUM SHOT of door closing). CAMERA_22 contains the conclusion of the action initiated by the emotion in CAMERA_21.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The physical act of gripping the handle and pulling the door shut."
+    },
+    {
+        "idx": 22,
+        "active_shot_idxs": [
+            22
+        ],
+        "parent_cam_idx": 21,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_22 (Shot 22: MEDIUM SHOT of door closing) is the physical conclusion of the moment initiated by the intimate focus on her hand and expression in CAMERA_21. The door closing signifies the end of the external threat.",
+        "is_parent_fully_covers_child": true,
+        "missing_info": null
+    },
+    {
+        "idx": 23,
+        "active_shot_idxs": [
+            23
+        ],
+        "parent_cam_idx": 24,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_23 (Shot 23: WIDE SHOT revealing Granny alive) details the true state of the room and reveals Granny's deception. This wide shot discovery frames the context for the extreme close-up horror on Red's face in CAMERA_24.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific appearance and subtle, triumphant smile of Granny."
+    },
+    {
+        "idx": 24,
+        "active_shot_idxs": [
+            24
+        ],
+        "parent_cam_idx": 23,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_24 (Shot 24: EXTREME CLOSE-UP of Red's horror) is the ultimate payoff, focusing on Red's reaction to the revelation of Granny's survival witnessed in CAMERA_23. CAMERA_23 provides the visual information that causes the reaction in CAMERA_24.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The extreme focus on Red's eyes and facial muscles reflecting the horror."
+    }
+]

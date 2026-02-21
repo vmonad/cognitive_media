@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/character_portraits/0_Mara/front.png",
+            "A front view portrait of Mara."
+        ],
+        [
+            ".working_dir/idea2video/character_portraits/1_Noon/front.png",
+            "A front view portrait of Noon."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nA dynamic action shot's opening frame. The frame is dominated by the foreground featuring a human adult female, mid-30s in perceived age, wearing clothing appropriate for attending a futuristic screening event, connected to a cranial interface, posed at the apex of a lunge, eyes fixed forward. This human figure should reference Image 0 for appearance and clothing. In the middle ground, the figure of an advanced, sophisticated AI entity, embodying pure digital structure, stands partially visible. The AI entity should reference Image 1 for appearance. The ground directly in front of the lunging figure is organic, solid ground."
+}

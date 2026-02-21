@@ -1,0 +1,101 @@
+[
+    {
+        "idx": 0,
+        "active_shot_idxs": [
+            0
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_0 (Shot 0) is a BLACK SCREEN and serves as the structural beginning or slate for the entire sequence. It establishes no visual narrative, thus it must be the root.",
+        "is_parent_fully_covers_child": null,
+        "missing_info": null
+    },
+    {
+        "idx": 1,
+        "active_shot_idxs": [
+            1
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_1 (Shot 1) introduces the initial, critical visual element (the dagger) immediately following the black screen (Shot 0). Shot 0 provides the framing context before the action starts, acting as the structural predecessor, although content-wise it is unrelated.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The dagger, the sheath, and the chiaroscuro lighting details."
+    },
+    {
+        "idx": 2,
+        "active_shot_idxs": [
+            2
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_2 (Shot 2) introduces the primary mise-en-scène (Throne Room, chaos, King Edran facing assassins) in a Wide Shot, establishing the main action sequence. As the first camera to establish the principal scene and characters (King Edran, Assassins), it is designated as a root camera for the main narrative line.",
+        "is_parent_fully_covers_child": null,
+        "missing_info": null
+    },
+    {
+        "idx": 3,
+        "active_shot_idxs": [
+            3
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 2,
+        "reason": "Shot 3 (CAMERA_3) is a Close Up focusing intensely on King Edran's face and the moment of his death, which occurs within the larger context established by CAMERA_2 (Shot 2), where King Edran is seen rising and roaring in the Wide Shot establishing the attack. The content of Shot 3 is a highly specific moment contained within the sequence of events covered by Shot 2.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The environment (Throne Room), the surrounding assassins, the overturned furniture, and the action of Elran leaping up."
+    },
+    {
+        "idx": 4,
+        "active_shot_idxs": [
+            4
+        ],
+        "parent_cam_idx": 3,
+        "parent_shot_idx": 3,
+        "reason": "Shot 4 (CAMERA_4) is a Rack Focus shot that begins on the details of King Edran's dying eye (content present in Shot 3) and then shifts focus to Queen Lyara's face. Because it directly transitions focus from the immediate aftermath of Shot 3 to the next key reaction, Shot 3 provides the immediate context for the starting point of Shot 4.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific details of King Edran's eye/death, the trickle of blood on the gorget, and the King's body collapsing."
+    },
+    {
+        "idx": 5,
+        "active_shot_idxs": [
+            5
+        ],
+        "parent_cam_idx": 4,
+        "parent_shot_idx": 4,
+        "reason": "Shot 5 (CAMERA_5) follows the action immediately after the Queen's scream (Shot 4). Shot 4 focuses on Queen Lyara's immediate reaction to Edran's death. Shot 5 shows her physical removal from that location by Sir Aldren, depicting the consequence of the preceding moment.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The close-up emotional response of Queen Lyara's face (terror, silent scream) captured in Shot 4."
+    },
+    {
+        "idx": 6,
+        "active_shot_idxs": [
+            6
+        ],
+        "parent_cam_idx": 5,
+        "parent_shot_idx": 5,
+        "reason": "Shot 6 (CAMERA_6) is a Close Up of Queen Lyara's face showing her 'agonizing defeat' and forced yielding, which is the direct psychological outcome of the physical struggle and conversation detailed in the Medium Shot (Shot 5) where Aldren pins her and convinces her to leave. The content of Shot 6 is solely Lyara's reaction within the context frame of Shot 5.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "Sir Aldren, the Infant Princess Elara, the shadowed wall archway, and the dialogue establishing the conflict requiring the yielding."
+    },
+    {
+        "idx": 7,
+        "active_shot_idxs": [
+            7
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 2,
+        "reason": "Shot 7 (CAMERA_7) shows Morgath entering the wide scope of the THRONE ROOM (established in Shot 2) from the perspective of a LOW-ANGLE shot. While temporally later, Shot 2 is the only existing Wide Shot establishing the environment that Morgath now dominates, providing the overall scene context for her dramatic entrance.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "Morgath, her costume, her precise internal monologue, and the extremely low-angle perspective."
+    },
+    {
+        "idx": 8,
+        "active_shot_idxs": [
+            8
+        ],
+        "parent_cam_idx": 7,
+        "parent_shot_idx": 7,
+        "reason": "Shot 8 (CAMERA_8) is an Extreme Close Up focusing on Morgath's face and eyes as she speaks about the prince. This is an intensified focus on the character introduced and framed in the preceding Wide/Low Angle shot (Shot 7). The content (Morgath's expression and action) is contained within the larger frame of Shot 7.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The Throne Room setting, the background carnage, the blue-grey lighting, the flow of her gown, and the placement relative to the gilded crib."
+    }
+]

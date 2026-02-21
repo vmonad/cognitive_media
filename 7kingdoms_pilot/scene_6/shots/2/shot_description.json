@@ -1,0 +1,18 @@
+{
+    "idx": 2,
+    "is_last": false,
+    "cam_idx": 2,
+    "visual_desc": "CLOSE UP focused entirely on the dark surface of the massive MIRROR. The dark reflective surface suddenly ripples violently, like thick, disturbed black water. A sudden, startling shock of vibrant, luminous GOLDEN LIGHT appears in the center of the glass, pushing back the darkness with pure energy. An image slowly resolves within the light: the sharp, determined face of <Elara (Young Woman)>, her genuine, sun-freckled skin visible even in reflection, her amber eyes blazing with fierce intensity. The composition emphasizes the clash between the dark mirror and the golden magical intrusion.",
+    "variation_type": "large",
+    "variation_reason": "The composition undergoes a large shift, transitioning from a purely static, dark, abstract surface (the mirror) to resolving a sharp, intensely lit, detailed human face within that surface, driven by a sudden, violent magical event and the subsequent clearing of the image.",
+    "ff_desc": "A photorealistic medieval fantasy CLOSE UP, shot on Arri Alexa 65 with Panavision anamorphic lenses, focused entirely on the dark, vast, and highly reflective surface of a massive MIRROR. The surface appears completely black and still, absorbing light. The lighting uses deep chiaroscuro shadows, emphasizing the deep blackness of the glass. Deep 35mm film grain texture is visible across the surface.",
+    "ff_vis_char_idxs": [
+        6
+    ],
+    "lf_desc": "A photorealistic medieval fantasy CLOSE UP, shot on Arri Alexa 65 with Panavision anamorphic lenses, locked on the luminous GOLDEN LIGHT emanating from the center of the dark mirror. Within this golden energy, the sharp, determined face of Elara (Young Woman) is fully resolved in reflection, her sun-freckled skin visible, and her amber eyes blazing with fierce intensity, framed by her wild untamed dark auburn hair. The composition highlights the luminous figure against the surrounding dark mirror. Deep chiaroscuro shadows surround the light source, and creamy anamorphic bokeh blurs the very edges of the frame.",
+    "lf_vis_char_idxs": [
+        6
+    ],
+    "motion_desc": "The static camera holds tight to the mirror surface. The quiet surface suddenly ripples violently, like thick, disturbed black water, caused by an unseen external force. Immediately following this disruption of the surface, a sudden, startling shock of vibrant, luminous GOLDEN LIGHT erupts from the center of the mirror, aggressively pushing back the surrounding darkness with pure, raw energy. As the light stabilizes, the image of the farmhand's determined face, characterized by her sun-freckled skin and amber eyes, slowly resolves within the brilliant light, her gaze fixed with fierce intensity, overwhelming the initial dark composition. The overall mood is one of sudden, powerful magical manifestation, underscored by a low, resonant magical hum (ambient sound) and a rising, high-pitched single violin note (score direction).",
+    "audio_desc": "[Sound Effect] A high-frequency, intense golden HUM begins, vibrating loudly. [Score Cue] The golden HUM clashes violently with the dark, low cello motif; the soundtrack is suddenly discordant and powerful."
+}

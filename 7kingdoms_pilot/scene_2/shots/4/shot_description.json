@@ -1,0 +1,18 @@
+{
+    "idx": 4,
+    "is_last": true,
+    "cam_idx": 4,
+    "visual_desc": "MEDIUM LONG SHOT from behind <Queen Lyara> and <Sir Aldren>, slightly above eye level (Dutch angle minimized to emphasize journey). <Sir Aldren> moves efficiently, positioning himself slightly in front of and covering <Queen Lyara>, who holds the swaddled <Elara (Infant)>. They are walking directly away from the camera, their figures rapidly swallowed by the dense, impenetrable white mist that hugs the forest floor. The only visible texture remaining is the pale, slightly yellowish light filtering down from the bruised dawn sky above the fog line. The camera remains static, holding on the shrinking silhouettes.\n\nNARRATOR (V.O.) (deep, aged male voice, like a historian telling a legend) says: \"And so the Queen of Seven Kingdoms became a peasant woman with no name, raising a princess who thought she was nobody.\"",
+    "variation_type": "large",
+    "variation_reason": "The primary focus shifts entirely from the characters to the environment as the human figures are completely swallowed by the mist and disappear from the frame. This constitutes a significant compositional and focus change, justifying a large variation type.",
+    "ff_desc": "A photorealistic medieval fantasy Medium Long Shot, slightly above eye level with a minimized Dutch angle, capturing the backs of a scarred Knight in muddy armor and a woman in dark, practical peasant garb, slightly behind him. The woman is holding a swaddled infant. They are surrounded by low-lying, dense, impenetrable white mist hugging the forest floor. A pale, slightly yellowish light, characteristic of a bruised dawn sky filtering through fog, provides the only illumination. The figures are sharply defined against the fog.",
+    "ff_vis_char_idxs": [
+        3,
+        1,
+        4
+    ],
+    "lf_desc": "A photorealistic medieval fantasy Medium Long Shot, slightly above eye level, showing only the dense, impenetrable white mist. There are no clearly discernible human figures or structures remaining in the frame, as the environment is completely consumed by the fog. The pale, slightly yellowish light of the bruised dawn remains diffused.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera remains static, holding its position and angle. The scarred Knight in muddy armor moves efficiently, stepping slightly forward and to the left, putting him in a position covering the woman in dark, practical peasant garb. The woman follows closely, holding the swaddled infant. Both figures move directly away from the camera, progressively shrinking in frame as they are rapidly swallowed and obscured by the advancing, dense white mist until only the fog remains.",
+    "audio_desc": "[Sound Effect] The footsteps of <Sir Aldren> and <Queen Lyara> quickly dampen and disappear entirely as they enter the core of the mist. Only the ambient chirping of birds remains for a moment. [Narrator] Deep, aged male voice, like a historian telling a legend: \"And so the Queen of Seven Kingdoms became a peasant woman with no name, raising a princess who thought she was nobody.\"[Audio Score] The lonely string score gently fades into quiet resignation, concluding on a final, soft decay before total silence."
+}

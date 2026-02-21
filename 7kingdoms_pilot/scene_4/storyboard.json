@@ -1,0 +1,37 @@
+[
+    {
+        "idx": 0,
+        "is_last": false,
+        "cam_idx": 0,
+        "visual_desc": "Complete BLACK SCREEN. Text appears stark white against the darkness: \"18 YEARS LATER.\" The text has a subtle, aged parchment texture, conforming to the photorealistic medieval fantasy style.",
+        "audio_desc": "[Speaker] Narrator (deep, aged male voice, like a historian telling a legend): \"The Queen kept her word. She hid among common folk, in a village so small it had no name. And she raised her daughter as a farmer's child — strong, stubborn, and completely unaware of the blood that ran in her veins.\""
+    },
+    {
+        "idx": 1,
+        "is_last": false,
+        "cam_idx": 1,
+        "visual_desc": "FADE IN: ESTABLISHING SHOT. A PEASANT VILLAGE at dawn, shrouded heavily in cool, pale morning mist. The thatched roofs are dark, soaked with dew. The ground is muddy. A few domestic animals (a couple of chickens, a goat) drift lazily in the foreground. The lighting is soft, diffused, with a natural, warm golden-hour glow trying to break through the mist, suggesting early morning. The visual quality is exquisitely photorealistic, showing texture on the thatch and mud (Arri Alexa 65, anamorphic lenses, slight film grain).",
+        "audio_desc": "[Sound Effect] Distant, clear rooster crowing. Soft, mournful bleating of sheep in the distance. Gentle birdsong. Very pastoral and quiet."
+    },
+    {
+        "idx": 2,
+        "is_last": false,
+        "cam_idx": 2,
+        "visual_desc": "MEDIUM SHOT tracking alongside <Elara (Young Woman)>, positioned slightly in front of her. She is wearing rough-spun, earthy brown peasant attire. Her dark auburn hair is wild and slightly tangled. She strains, gripping the wooden handles of a heavy yoke across her shoulders, hauling a portion of the weight alongside two older villagers who frame her against the muddy path. Her visible skin shows sun-freckles and slight weathering. She has a powerful, athletic build. She is laughing, her expression open and unpolished, conveying physical exertion and simple joy. The background—muddy ruts, wooden fences—is rendered with shallow depth of field, blurring into creamy bokeh.",
+        "audio_desc": "[Speaker] <Elara (Young Woman)> (Bright, fast, unpolished vernacular): \"If old Harren charges me double for flour again, I swear I'll dump it in his well.\" [Sound Effect] Ambient village sounds continue. [Speaker] Friend (Voice sounds cheerful, slightly muffled by distance): \"You wouldn't dare.\""
+    },
+    {
+        "idx": 3,
+        "is_last": false,
+        "cam_idx": 3,
+        "visual_desc": "CLOSE UP, focusing tightly on <Elara (Young Woman)>'s face, slightly off-center. Her expression shifts abruptly from a broad, challenging grin (as she's about to respond) to sudden, white-hot fury, eyes widening. The facial expression is highly detailed, showing pores and the tension in her jaw. As her anger peaks, the light quality changes rapidly: a brief, intense, luminous golden shimmer overlays her eyes and the immediate air around her (magic manifestation). A rough, weathered wooden fence post just behind her shoulder snaps visibly—a crack shooting across the aged wood texture. Nearby, dry, dead leaves on the ground visibly lift and begin to spin briefly in a tight, upward vortex, catching the low morning light as golden flecks.",
+        "audio_desc": "[Speaker] <Elara (Young Woman)> (Grinning, challenging): \"Try me.\" [Sound Effect] A sharp, loud CRACK of wood splitting, followed by a brief, almost inaudible rush of displaced air. The surrounding village bustle cuts out instantly. [Speaker] Villager (Harsh, sneering, slightly off-screen): \"Watch where you're going, orphan girl.\""
+    },
+    {
+        "idx": 4,
+        "is_last": true,
+        "cam_idx": 4,
+        "visual_desc": "EXTREME CLOSE UP on <Elara (Young Woman)>'s hands. They are rough, calloused from labor, dirty with mud and grain dust. She stares down, fingers slightly curled but trembling violently. Her hands are illuminated by the strange, internal golden light that still faintly emanates from her core, contrasting sharply with the dirt and the dull earth tones of the background (her dirty skirt hem). Her posture is frozen, shoulders hunched inward in shock and fear.",
+        "audio_desc": "[Sound Effect] A distinct, low, resonant GOLDEN HUM begins, vibrating slightly, reminiscent of a deep cello note sustained electronically. [Speaker] <Elara (Young Woman)> (Whispering, horrified): \"What... what did I just do?\" [Score] The single golden hum holds and sustains."
+    }
+]

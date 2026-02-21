@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/scene_1/shots/8/new_camera_8.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The specific graphical content, the news feed, and Mara's scream/phasings..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nAn extreme close-up shot focused on the environment texture, which appears warped and digitally disrupted, suggesting an ongoing chaotic event. No distinct characters are fully visible, the frame is dominated by abstract, glitching visuals and the momentary appearance of what looks like a CGI medieval KNIGHT captured mid-swing with a sword. The overall scene and 'glitching visuals' should reference Image 0, but the 'CGI medieval KNIGHT captured mid-swing with a sword' should reference Image 3."
+}

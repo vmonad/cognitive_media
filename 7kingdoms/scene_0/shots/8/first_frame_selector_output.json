@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/3_The Wolf/front.png",
+            "A front view portrait of The Wolf."
+        ],
+        [
+            ".working_dir/7kingdoms/character_portraits/6_Direwolf/front.png",
+            "A front view portrait of Direwolf."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nEXT. FROZEN NORTHERN FOREST - DAY. A chaotic, hand-held medium shot. Forest floor is covered in snow and ice. In the foreground, a savage-looking warrior wearing barbarian furs and wielding a colossal, rustic battle axe is mid-swing in a wide, savage arc. The warrior should reference Image 0, specifically his appearance and axe. Beside him, a massive, snarling Direwolf stands ready. The Direwolf should reference Image 3."
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "idx": 0,
+        "is_last": false,
+        "cam_idx": 0,
+        "visual_desc": "Extreme Close Up on an aged parchment map, heavily detailed with ink and gold leaf showing seven distinct, richly colored regions of a continent. The map texture is tactile, showing minute creases and the subtle sheen of dried gold leaf. The lighting is soft and warm, highlighting the detail. The camera executes a slow, deliberate PANS across the geography.",
+        "audio_desc": "[Narrator (Deep, aged male voice, like a historian telling a legend)]: There were seven kingdoms, each proud, each ancient. And for a generation, one man held them together — not by conquest, but by trust. His name was Edran. And this is the story of how his world was taken from him. [Sound Effect] Subtle, grand orchestral theme begins to build, deep strings and timpani."
+    },
+    {
+        "idx": 1,
+        "is_last": false,
+        "cam_idx": 1,
+        "visual_desc": "MATCH DISSOLVE transforms the parchment texture into the pale, weathered stone of the Throne Room walls. Medium Close Up on <King Edran> seated on the imposing stone throne, the silver-threaded Crown of Sevens catching the warm, flickering light cast by a nearby fireplace. Warm firelight from the right illuminates one side of his weathered face, leaving deep chiaroscuro shadows on the other. <Queen Lyara>, visibly pregnant, stands slightly to his left, her face soft but resolute. Courtiers are visible in the mid-ground, their forms slightly softened by shallow depth of field.",
+        "audio_desc": "[Speaker] King Edran (Deep, resonant baritone, satisfied): Seven banners hang in this hall. Seven kingdoms at peace. Let us drink to another year of it. [Sound Effect] Muted cheering from the COURTIERS, the clinking of goblets. [Speaker] Queen Lyara (Warm contralto, placing a hand on her belly): The children will know a world without war, my love. [Speaker] King Edran (Smiling warmly): That is all I ever wanted."
+    },
+    {
+        "idx": 2,
+        "is_last": true,
+        "cam_idx": 2,
+        "visual_desc": "Wide Shot of the entire Throne Room. The hall radiates stability, filled with golden daylight filtering through high windows, draping the heavy banners and stone columns. The composition is perfectly balanced, emphasizing the scale. Towards the far right edge of the frame, partially engulfed in deep, cool shadow where the ambient light struggles to reach, the vague, tall silhouette of <Morgath> is barely discernible, observing the ceremony. Her form is indistinct but clearly present.",
+        "audio_desc": "[Sound Effect] The score swells warmly, but a subtle, dissonant undertone of low brass creeps into the underlying harmony. [Sound Effect] Score shifts very subtly to a tense, minor key, the warmth quickly leaching out of the atmosphere. [Sound Effect] FADE TO BLACK."
+    }
+]

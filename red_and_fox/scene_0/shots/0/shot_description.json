@@ -1,0 +1,14 @@
+{
+    "idx": 0,
+    "is_last": false,
+    "cam_idx": 0,
+    "visual_desc": "EXTREME WIDE AERIAL SHOT. Photorealistic dark fairy tale quality, shot with Arri Alexa 65/Anamorphic lenses. Dusk. Volumetric god rays pierce through thick, low-hanging fog over the dense forest canopy. The camera slowly drifts, then cranes down through the mist, emphasizing the oppressive scale of the woods. It executes a slow, deliberate pan across the forest floor—moss, dark roots, and scattered detritus—finding the narrow path that vanishes into deep shadow. No characters are visible. The 35mm film grain texture is subtle but present.",
+    "variation_type": "large",
+    "variation_reason": "This is a drastic change in framing and perspective, moving from an extreme wide aerial shot of the forest canopy to a low, medium wide shot focused on the forest floor and path, involving significant camera movement (drift, crane down, and a wide pan).",
+    "ff_desc": "A photorealistic dark fairy tale EXTREME WIDE AERIAL SHOT, shot with Arri Alexa 65/Anamorphic lenses at dusk. Volumetric god rays pierce through thick, low-hanging fog illuminating the tops of an immense, dense forest canopy. The scene is dominated by dark greens and browns, with subtle 35mm film grain texture present. The composition is vast, emphasizing the oppressive scale of the woods seen from high above.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A photorealistic dark fairy tale MEDIUM WIDE SHOT, focused toward the forest floor. The camera is positioned low, capturing the immediate foreground dominated by rough, dark roots, dark green moss clinging to the earth, and scattered detritus. A narrow, muddy path stretches away from the camera, vanishing into the deep, shadowed recesses of the forest further back. The lighting is low and diffused by the overhead mist and canopy, creating deep shadows among the roots.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The shot begins as an EXTREME WIDE AERIAL SHOT. The camera executes a slow, deliberate drift downwards, combined with a slow, steady crane down through the heavy, volumetric mist, increasing the sense of oppression and scale. This vertical movement transitions the view from the canopy to the forest floor level. Following this descent, the camera performs a slow, deliberate pan across the textured woodland ground—moss, dark roots, and scattered detritus—searching until it isolates the narrow, shadowed path stretching into the gloom. Throughout the movement, the moody ambiance of dusk and the environmental fog remain constant, rendered with Arri Alexa 65/Anamorphic lenses and a subtle 35mm film grain texture.",
+    "audio_desc": "[Sound Effect] Low, pervasive WHISPER of wind through the high canopy; distant, echoing CALLS OF CROWS. [Music Score] A low, ambient, resonant DRONE begins."
+}

@@ -1,0 +1,18 @@
+{
+    "idx": 2,
+    "is_last": true,
+    "cam_idx": 2,
+    "visual_desc": "Wide Shot of the entire Throne Room. The hall radiates stability, filled with golden daylight filtering through high windows, draping the heavy banners and stone columns. The composition is perfectly balanced, emphasizing the scale. Towards the far right edge of the frame, partially engulfed in deep, cool shadow where the ambient light struggles to reach, the vague, tall silhouette of <Morgath> is barely discernible, observing the ceremony. Her form is indistinct but clearly present.",
+    "variation_type": "small",
+    "variation_reason": "This shot only involves the slow movement of one character within a static frame, resulting in small compositional changes.",
+    "ff_desc": "A photorealistic medieval fantasy Wide Shot of the entire Throne Room, shot on Arri Alexa 65 with anamorphic lenses. The grand hall features dark stone columns and banners of seven kingdoms, bathed in warm golden daylight from tall windows. Courtiers stand gathered near the throne. Towards the far right of the frame, standing among the courtiers but apart from them, is a tall slender woman with long straight raven-black hair and porcelain-pale skin, wearing a fitted black gown with high structured collar. A blood-red jewel hangs on a chain at her throat. She is FULLY VISIBLE and properly lit by the same golden window light as everyone else — NOT in shadow, NOT silhouetted. She is at correct proportional scale to the other courtiers around her. She watches the throne with dark unblinking eyes. The warm golden light falls on her pale face and black gown naturally.",
+    "ff_vis_char_idxs": [
+        2
+    ],
+    "lf_desc": "The same Wide Shot. The tall woman in the black gown has taken one deliberate step closer to the center of the hall. Her raven-black hair catches the golden light. Her dark eyes are fixed on the throne. The courtiers around her do not notice her movement. She is fully lit and at correct human scale within the environment.",
+    "lf_vis_char_idxs": [
+        2
+    ],
+    "motion_desc": "Static camera holds the Wide Shot. The tall slender woman with raven-black hair and fitted black gown moves one slow, deliberate step from the right side toward the center-right. The courtiers around her do not react. The golden daylight illuminates her pale face naturally — she is NOT a shadow or silhouette. The score shifts subtly to a minor key as she moves, the warmth draining from the music.",
+    "audio_desc": "[Sound Effect] The orchestral score swells warmly, then a subtle dissonant low brass undertone creeps in as the camera lingers on the woman in black. The warmth leaches from the music. Score shifts to minor key. [Sound Effect] FADE."
+}

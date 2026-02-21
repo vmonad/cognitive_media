@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/5_Skeletal Legion (The Risen Dead)/front.png",
+            "A front view portrait of Skeletal Legion (The Risen Dead)."
+        ],
+        [
+            ".working_dir/7kingdoms/scene_0/shots/13/first_frame.png",
+            "EXT. RUINS - THE INVASION. A wide, low-angle shot focused on the ground where a colossal FISSURE, the Shadow Gate, is shown swirling with sickly green light. The overall lighting is dominated by this unnatural green glow emanating from the earth. The environment suggests a battlefield or ruined area."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: EXT. RUINS - THE INVASION. A wide, low-angle shot focused on the ground where a colossal FISSURE, the Shadow Gate, is shown swirling with sickly green light. A massive wave of skeletal warriors, composed of bone and rusty metal, is actively pouring forth from the gate, many holding rusty weapons. This scene should heavily reference Image 1 (for the overall environment, composition, lighting, and atmosphere). The skeletal warriors should reference Image 0 for their appearance (bone structure, rusty metal armor, glowing red eyes, and general menacing look). In the foreground, figures representing the living armies recoil in unified horror."
+}

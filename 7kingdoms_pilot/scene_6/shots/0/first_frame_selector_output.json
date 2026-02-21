@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/scene_6/location_refs/throne_room.png",
+            "Reference establishing shot of location 'throne_room': A vast, imposing throne room within a dark castle, characterized by heavy baroque or gothic architecture. The primary focus is a massive, ornate, floor-standing mirror with a dark, possibly obsidian or heavily aged silver frame. The room is lit dimly by unseen, low-intensity ambient light sources, casting deep shadows that are emphasized by the mirror's light-absorbing surface, creating a feeling of oppressive, ominous royalty. The atmosphere is cold and still. Time is night. Weather is implied to be indoors, focusing on the cavernous, heavy atmosphere."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nA complete black screen. The frame is uniformly dark, suggesting an absolute void. No discernible light sources, characters, or environmental textures are present. The visual style must strictly adhere to: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. 35mm film grain texture. The overall appearance must match the oppressive, ominous royalty atmosphere established in Image 0, but rendered as a complete black screen. The lighting must be absent, representing an absolute void, as described in the frame description."
+}

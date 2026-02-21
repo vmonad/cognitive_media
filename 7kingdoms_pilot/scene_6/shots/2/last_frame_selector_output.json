@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/6_Elara (Young Woman)/front.png",
+            "CANONICAL front-view portrait of Elara (Young Woman). This is the definitive reference for this character's face and identity. A real human young woman of 18. Striking — she has her mother's amber eyes and her father's strong jaw. Wild untamed dark auburn hair. Sun-freckled skin from living outdoors. Lean athletic build from years of farm work. Wears a simple rough-spun peasant dress in earthy brown."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_6/shots/2/first_frame.png",
+            "A photorealistic medieval fantasy CLOSE UP, shot on Arri Alexa 65 with Panavision anamorphic lenses, focused entirely on the dark, vast, and highly reflective surface of a massive MIRROR. The surface appears completely black and still, absorbing light. The lighting uses deep chiaroscuro shadows, emphasizing the deep blackness of the glass. Deep 35mm film grain texture is visible across the surface."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy CLOSE UP, shot on Arri Alexa 65 with Panavision anamorphic lenses, locked on the luminous GOLDEN LIGHT emanating from the center of the dark mirror, which should reference Image 1 contextually as the reflective surface or background element structure. Within this golden energy, the sharp, determined face of Elara is fully resolved in reflection. Elara MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 0 (the portrait reference). The composition highlights the luminous figure against the surrounding dark mirror structure, which MUST reference the dark frame element from Image 1. Deep chiaroscuro shadows surround the light source, and creamy anamorphic bokeh blurs the very edges of the frame. The overall visual style must adhere strictly to the mandatory style directive: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Real human actors in practical costumes. Natural skin with pores, imperfections, freckles, and weathering. Warm golden palette for the magic scene. Deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. Every surface tactile. NOT stylized, NOT CGI render."
+}

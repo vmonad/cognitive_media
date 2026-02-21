@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/dark_forest_path.png",
+            "Reference establishing shot of location 'dark_forest_path': A dense, ancient forest canopy seen at dusk. The lighting is low, moody, and dominated by deep shadows. Patches of thick, low-hanging fog drift through the trees, pierced occasionally by faint, ethereal god rays filtering down from above. The forest floor is dark, cluttered with moss and decaying organic matter, revealing a narrow, dirt path that vanishes into oppressive shadows. Atmospheric quality is intensely dense and oppressive."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: An EXTREME WIDE AERIAL SHOT, shot with Arri Alexa 65/Anamorphic lenses at dusk. Volumetric god rays pierce through thick, low-hanging fog illuminating the tops of an immense, dense forest canopy. The scene is dominated by dark greens and browns, with subtle 35mm film grain texture present. The composition is vast, emphasizing the oppressive scale of the woods seen from high above. The overall visual style must adhere to the mandatory directive: Photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones and one vivid accent color (Red's crimson cloak), volumetric god rays in forest scenes, warm candlelight interiors with deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture, practical lighting sources (oil lamps, fireplace, lanterns), every surface tactile and weathered (moss, bark, iron, wet stone, velvet), atmospheric fog and rain. The environment should reference Image 0, maintaining its lighting conditions and atmospheric density."
+}

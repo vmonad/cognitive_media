@@ -1,0 +1,189 @@
+[
+    {
+        "idx": 0,
+        "active_shot_idxs": [
+            0
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_0 establishes the entire setting and scope immediately (EXTREME WIDE SHOT sweeping across varied landscapes). It sets the foundational visual context before any specific character or location is introduced, making it the root.",
+        "is_parent_fully_covers_child": null,
+        "missing_info": null
+    },
+    {
+        "idx": 1,
+        "active_shot_idxs": [
+            1
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_1 introduces specific characters (<King Aldric>) and a specific setting (INT. IRON THRONE HALL) which are inherently contained within the vast, stylized landscape established by CAMERA_0 Shot 0, even though the setting detail differs (interior vs exterior sweep). CAMERA_0 provides the global context within which the subsequent drama occurs. Since CAMERA_1 is the first specific narrative intrusion, CAMERA_0 Shot 0 is the most encompassing parent.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific interior setting (Iron Throne Hall), the King, and the close-up focus."
+    },
+    {
+        "idx": 2,
+        "active_shot_idxs": [
+            2
+        ],
+        "parent_cam_idx": 1,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_2 is an EXTREME CLOSE UP focusing exclusively on <King Aldric>'s eyes and immediate reaction (gagging, horror), which is a magnification of the TIGHT CLOSE UP framing King Aldric in CAMERA_1 Shot 1.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The context of the goblet, his hands, and the general framing of his upper body/face established in CAMERA_1 Shot 1."
+    },
+    {
+        "idx": 3,
+        "active_shot_idxs": [
+            3
+        ],
+        "parent_cam_idx": 1,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_3 captures the Iron Crown tumbling and shattering. This object (the crown on the King's brow) is central to the action described in CAMERA_1 Shot 1, even though the shot size is much wider/more dynamic (Low Angle vs Tight Close Up). It follows the King's reaction shown in CAMERA_2.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The close-up view of the King's horrified face/eyes (CAMERA_2 content) and the King himself."
+    },
+    {
+        "idx": 4,
+        "active_shot_idxs": [
+            4
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_4 is a rapid montage establishing mobilization across distinct territories (<Queen Sera> in desert, <Prince Kael> by forge, <The Wolf> in blizzard). These environments align with the geographical scope shown in CAMERA_0 Shot 0 (snow peaks to arid plains). It functions as a high-level overview of the divided world/coming conflict.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific character actions, the underground forge setting, and the specific deployment details."
+    },
+    {
+        "idx": 5,
+        "active_shot_idxs": [
+            5
+        ],
+        "parent_cam_idx": 4,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_5 is an ESTABLISHING WIDE SHOT showing the result of the montage in CAMERA_4: Banners of three factions across distinct terrains (King's, Queen's, Wolf's) illustrating the coming civil war. CAMERA_5 provides the spatial context for the elements introduced in CAMERA_4.",
+        "is_parent_fully_covers_child": true,
+        "missing_info": null
+    },
+    {
+        "idx": 6,
+        "active_shot_idxs": [
+            6
+        ],
+        "parent_cam_idx": 5,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_6 focuses on <Prince Kael> and his forces in the EASTERN MOUNTAIN PASS. This terrain is explicitly mentioned as one of the regions established in CAMERA_0 Shot 0 and visually represented in CAMERA_4/5.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific tactical action (catapults) and Kael's personalized context."
+    },
+    {
+        "idx": 7,
+        "active_shot_idxs": [
+            7
+        ],
+        "parent_cam_idx": 5,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_7 focuses on <Queen Sera> in the SOUTHERN PLAINS. This terrain aligns with the arid plains mentioned in CAMERA_0 Shot 0 and is represented in the wider context of CAMERA_5.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific cavalry action and Sera's forward charge."
+    },
+    {
+        "idx": 8,
+        "active_shot_idxs": [
+            8
+        ],
+        "parent_cam_idx": 5,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_8 focuses on <The Wolf> in the FROZEN NORTHERN FOREST. This aligns with the snow peaks (EAST/North) mentioned in CAMERA_0 Shot 0 and represents the third faction's location established in CAMERA_5.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific combat (axe work) and the Direwolf interaction."
+    },
+    {
+        "idx": 9,
+        "active_shot_idxs": [
+            9
+        ],
+        "parent_cam_idx": 7,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_9 is a medium shot showing <Queen Sera>'s forces being pinned down in a NARROW CANYON, experiencing violent shaking (an escalation of action in her theater revealed in C7). It continues the location focus of C7, transitioning from her charge to direct conflict.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific character Sera (she is present but incidental, the focus is on the infantry/ground) and the nature of the shaking."
+    },
+    {
+        "idx": 10,
+        "active_shot_idxs": [
+            10
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_10 reveals the SKELETAL HAND and the GREEN LIGHT on the horizon. This is a foundational, non-specific event indicating the awakening of a new, terrible force that impacts the entire scope established by CAMERA_0 Shot 0, preceding the direct confrontation.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific location details or character involvement."
+    },
+    {
+        "idx": 11,
+        "active_shot_idxs": [
+            11
+        ],
+        "parent_cam_idx": 11,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_11 establishes the standoff between <Queen Sera> and <Prince Kael> at the RUINS with the looming structures overhead. CAMERA_12 provides dialogue from <The Wolf> who stands between them, making CAMERA_11 the framing device for the immediate confrontation scene involving all three main players.",
+        "is_parent_fully_covers_child": true,
+        "missing_info": null
+    },
+    {
+        "idx": 12,
+        "active_shot_idxs": [
+            12
+        ],
+        "parent_cam_idx": 11,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_12 is a line delivery shot focused on <The Wolf> delivering crucial dialogue directed at <Prince Kael>, framing the interaction already established by the wide staging in CAMERA_11 Shot 0.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The wider context showing Sera and Kael's physical positions relative to the Wolf."
+    },
+    {
+        "idx": 13,
+        "active_shot_idxs": [
+            13
+        ],
+        "parent_cam_idx": 10,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_13 shows the consequence of the ominous sign in CAMERA_10 Shot 0: The SKELETAL LEGION pours out of the FISSURE (Shadow Gate) emitting the sickly GREEN LIGHT. This shot elaborates on the event foreshadowed by the skeletal hand.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The precise details of the gate (only hinted at by the light in C10)."
+    },
+    {
+        "idx": 14,
+        "active_shot_idxs": [
+            14
+        ],
+        "parent_cam_idx": 13,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_14 shows <Queen Sera> and <The Wolf> forging an alliance in response to the threat revealed in CAMERA_13 Shot 0 (the undead surge). This shot captures the joint reaction immediately following the unified horror established previously.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The details of the undead surge itself or the location."
+    },
+    {
+        "idx": 15,
+        "active_shot_idxs": [
+            15
+        ],
+        "parent_cam_idx": 14,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_15 is the climax of <The Wolf>'s arc—he throws himself into the fissure, which SNAPS SHUT. This action directly concludes the narrative thread involving his character established in the previous action shot (C14).",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The close-up reaction of Sera or the visual effect of the fissure closing."
+    },
+    {
+        "idx": 16,
+        "active_shot_idxs": [
+            16
+        ],
+        "parent_cam_idx": 5,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_16 is a final WIDE SHOT concluding the civil war/invasion narrative by showing the aftermath and the new ruler (<Queen Sera>). Its scope returns to the large, establishing scale similar to CAMERA_5, showing the state of the continent after the climax (C15).",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The intimate detail of Sera placing the crown and her final expression (which are close-ups/mediums within the wide shot)."
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "idx": 0,
+        "is_last": false,
+        "cam_idx": 0,
+        "visual_desc": "OPEN on an EXTREME WIDE SHOT sweeping across impossible, varied landscapes establishing the scope: jagged snow peaks (EAST) transition immediately to shimmering heat haze over arid plains (SOUTH). An urgent, foreboding orchestral swell underscores the visuals. The frame is vast and heavily stylized.",
+        "audio_desc": "[Music] Orchestral score swells dramatically, full of foreboding majesty."
+    },
+    {
+        "idx": 1,
+        "is_last": false,
+        "cam_idx": 1,
+        "visual_desc": "INT. IRON THRONE HALL - NIGHT. A TIGHT CLOSE UP focusing exclusively on the heavy, ornate IRON CROWN resting on the brow of <King Aldric> (frail, aging). His skin looks pale under the reflection of hundreds of flickering candles. <King Aldric> (male, 70s, frail) attempts to lift a heavy silver goblet, his hand visibly TREMBLES, shaking the image slightly.",
+        "audio_desc": "[Sound Effect] Deep, resonant silence in the hall, broken only by the slight metallic scrape of the goblet."
+    },
+    {
+        "idx": 2,
+        "is_last": false,
+        "cam_idx": 2,
+        "visual_desc": "EXTREME CLOSE UP on <King Aldric>'s eyes—wide, bloodshot, and filled with sudden, sharp horror. He GAGS, his breathing ragged. The focus racks slightly forward as the goblet slips from his grasp.",
+        "audio_desc": "[Sound Effect] A choked gasp from <King Aldric>."
+    },
+    {
+        "idx": 3,
+        "is_last": false,
+        "cam_idx": 3,
+        "visual_desc": "Low angle shot looking up at the Iron Crown now tumbling in mid-air, catching the candlelight briefly before it hits the polished marble floor. The crown SHATTERS into several jagged pieces in slow motion. Servants in the background flinch violently. SUDDEN AUDIO CUT.",
+        "audio_desc": "[Sound Effect] A sharp, deafening CRACK as the heavy iron cup SMASHES against the marble floor. Absolute silence immediately follows."
+    },
+    {
+        "idx": 4,
+        "is_last": false,
+        "cam_idx": 4,
+        "visual_desc": "A rapid montage sequence establishing mobilization. First, <Queen Sera> (fierce, armored in black obsidian) stands empowered on a desert precipice, arms outstretched to her legions. Second, <Prince Kael> (intense gaze) is silhouetted against the orange GLOW of subterranean forge fires, examining colossal military maps. Third, <The Wolf> (scarred, imposing) stands motionless in a swirling white BLIZZARD, his monstrous DIREWOLF resting its muzzle near his shoulder. This shot ends as dozens of distinct kingdom BANNERS (Sun, Gryphon, Ice) unfurl simultaneously against harsh skies.",
+        "audio_desc": "[Voiceover] (MALE, DEEP, SOMBER): \"When the iron crown falls, the seven will burn.\" [Music] A massive, coordinated sound cue of thousands of boots and siege engines hitting a single tempo."
+    },
+    {
+        "idx": 5,
+        "is_last": true,
+        "cam_idx": 5,
+        "visual_desc": "ESTABLISHING SHOT of the FIRST SCENE ENDING: A WIDE SHOT of the mobilization. Banners of three distinct factions are flying above battle-ready troops across three distinct terrains, illustrating the coming civil war. The scale is immense.",
+        "audio_desc": "[Music] The mobilization sound cue cuts sharply into a driving, relentless war theme."
+    },
+    {
+        "idx": 6,
+        "is_last": false,
+        "cam_idx": 6,
+        "visual_desc": "EXT. EASTERN MOUNTAIN PASS - DAY. Medium shot focused on <Prince Kael> observing from a high, secure battlement. His expression is cold calculation. In the background, his forces operate massive CATAPULTS firing projectiles glowing with trapped blue energy that smash stone fortifications. The action is precise and tactical.",
+        "audio_desc": "[Sound Effect] Heavy, rhythmic bombardment and sharp, tactical commands."
+    },
+    {
+        "idx": 7,
+        "is_last": false,
+        "cam_idx": 7,
+        "visual_desc": "EXT. SOUTHERN PLAINS - DAY. Low angle tracking shot following <Queen Sera> at the absolute front rank of her heavily armored CAVALRY, kicking up vast clouds of choking dust. She rides powerfully, her long sword arcing silver as she prepares a strike. She faces forward, toward chaos.",
+        "audio_desc": "[Speaker] Queen Sera (Sharp, projecting over the charge): \"Hold the line! For the South!\" [Sound Effect] Thundering hooves."
+    },
+    {
+        "idx": 8,
+        "is_last": false,
+        "cam_idx": 8,
+        "visual_desc": "EXT. FROZEN NORTHERN FOREST - DAY. Chaotic, hand-held medium shot showing <The Wolf> (imposing, scarred face) swinging a colossal, rustic battle axe in wide, savage arcs against arrayed infantry. Beside him, a snarling DIREWOLF lets out a deafening HOWL, dominating the soundscape.",
+        "audio_desc": "[Sound Effect] The DEAFENING HOWL of DIREWOLVES mixes with the impact of steel on wood and bone."
+    },
+    {
+        "idx": 9,
+        "is_last": false,
+        "cam_idx": 9,
+        "visual_desc": "EXT. NARROW CANYON - DAY. A chaotic medium shot showing <Queen Sera>'s Southern Infantry pinned down, showing visible panic. Kael’s unseen archers rain fire from above. Suddenly, the ground beneath the soldiers begins to SHAKE VIOLENTLY, throwing multiple soldiers off balance. The focus shifts slightly to the violently shaking earth.",
+        "audio_desc": "[Sound Effect] A deep, unnatural tremor shakes the ground aggressively."
+    },
+    {
+        "idx": 10,
+        "is_last": false,
+        "cam_idx": 10,
+        "visual_desc": "EXT. BATTLEFIELD EDGE - DAY. Foreground focus on a patch of desiccated earth where a single IRON SHOVEL scrapes, covered in dust. An impossibly ancient, brittle SKELETAL HAND grips the soil and pulls itself upright. In the far background, a sickly GREEN LIGHT flickers ominously over the horizon, hinting at something terrible awakening.",
+        "audio_desc": "[Sound Effect] The scraping of the shovel against dry earth, followed by a rising, subtle, unnatural hum."
+    },
+    {
+        "idx": 11,
+        "is_last": false,
+        "cam_idx": 11,
+        "visual_desc": "EXT. RUINS - TENSE STANDOFF. A very low-angle shot emphasizing the immense, cyclopean stone blocks of the ruined high city towering overhead. <Queen Sera> stands on the left, defiant. Opposite her, on the right, stands <Prince Kael>. Standing slightly behind Kael are several robed figures, <The Shadow Weavers>, whose presence makes the air visibly CRACKLE with negative energy.",
+        "audio_desc": "[Sound Effect] A tense, low hum suggesting building power."
+    },
+    {
+        "idx": 12,
+        "is_last": false,
+        "cam_idx": 12,
+        "visual_desc": "[Speaker] The Wolf (Low growl): \"Treachery costs more than gold, Prince.\" <The Wolf> stands between Sera and Kael, his stance aggressive, confronting Kael directly.",
+        "audio_desc": "[Speaker] The Wolf (Low growl): \"Treachery costs more than gold, Prince.\""
+    },
+    {
+        "idx": 13,
+        "is_last": false,
+        "cam_idx": 13,
+        "visual_desc": "EXT. RUINS - THE INVASION. A sickening, drawn-out shot focusing on the ground opening up into a colossal FISSURE—The Shadow Gate, swirling with sickly green light. A wave of the SKELETAL LEGION (The Risen Dead) pours forth, wielding rusty weapons. The living armies (<Sera>'s and <The Wolf>'s forces) recoil in unified horror, visible fear on their faces. <Prince Kael> stands proudly illuminated by the gate's glow.",
+        "audio_desc": "[Sound Effect] A sickening, drawn-out sound effect of grinding tectonic plates, followed by the clatter of skeletal warriors."
+    },
+    {
+        "idx": 14,
+        "is_last": false,
+        "cam_idx": 14,
+        "visual_desc": "EXT. RUINS - FORGED ALLIANCE. Quick, intense sequence: <Queen Sera> and <The Wolf> lock eyes across the chaotic battlefield where the undead surge. They exchange a sharp, grim nod of necessity. They simultaneously plunge into the surging tide of the undead, initiating desperate, violent hand-to-hand combat against decaying bone.",
+        "audio_desc": "[Music] War theme returns, elevated to a frantic speed. [Sound Effect] Clashing steel and breaking bone."
+    },
+    {
+        "idx": 15,
+        "is_last": false,
+        "cam_idx": 15,
+        "visual_desc": "EXT. SHADOW FISSURE - CLIMAX. Tight medium shot on a battered and bleeding <The Wolf>. He yells a final, guttural oath toward the swirling green maw of the Shadow Gate. He channels his strength and THROWS his entire body directly into the void. An enormous, primal burst of energy erupts outward as the fissure SNAPS SHUT.",
+        "audio_desc": "[Speaker] The Wolf (Guttural war cry): \"For the North!\" [Sound Effect] An enormous, primal burst of energy followed by the sound of collapsing mountains. Then, absolute, thick silence descends."
+    },
+    {
+        "idx": 16,
+        "is_last": true,
+        "cam_idx": 16,
+        "visual_desc": "EXT. RUINS DAIS - DAWN. Wide shot. The sun breaks weakly over the ravaged continent. <Queen Sera> stands alone on a newly consecrated, clean stone dais carved from the ruins. She slowly lifts a new crown—thinner, simpler, made of bright SILVER—and places it upon her head. Her face is a mask of profound sorrow overlaid with unbreakable resolve. She looks up toward the weak sunrise.",
+        "audio_desc": "[Music] A single, clear, hopeful note rings out amidst the preceding silence. [Music] FADE TO BLACK."
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "idx": 18,
+    "is_last": false,
+    "cam_idx": 18,
+    "visual_desc": "TWO-SHOT (SCENE 4). <The Woodsman> (Character 3) nods gravely, his honest face grim and set in solemn concern. He gently lifts the heavy, blanket-wrapped shape. He casts a single, respectful, warm glance toward <Red> (Character 0) as he turns and shoulders his way back out the ruined front door into the deluge. Camera tracks his heavy, determined movement towards the threshold, showing the contrast between his bulk and the door frame.",
+    "variation_type": "medium",
+    "variation_reason": "The primary variation comes from the camera movement (tracking) combined with the character moving significantly across the frame and exiting through a doorway, which results in a fundamental shift in composition and visual focus from the interior two-shot to the woodsman crossing the threshold. The scale perception relative to the door frame provides a substantial visual change.",
+    "ff_desc": "A photorealistic dark fairy tale two-shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, depicting the interior of a ruined dwelling, dimly lit by practical warm candlelight casting deep chiaroscuro shadows against weathered wooden walls. The brunette with long dark wavy chestnut-brown hair, wearing a deep blood-crimson velvet hooded cloak, stands observing in the foreground, her posture still and her expression masked as she holds an iron locket around her neck. The broad-shouldered woodsman with a thick dark beard streaked with grey stands immediately beside her, his honest, open expression set in solemn concern, his large calloused hands gently supporting a heavy shape entirely wrapped in a dark blanket. The ambient sound is dominated by the patter of heavy rain against the structure, suggesting a continuous deluge outside. The score is a low, sustained cello drone.",
+    "ff_vis_char_idxs": [
+        0,
+        3
+    ],
+    "lf_desc": "A photorealistic dark fairy tale close-up to medium-wide shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, focusing near the ruined front doorway. The wooden door frame is prominently featured, showing rain-slicked darkness beyond. The broad-shouldered woodsman with a thick dark beard streaked with grey is now seen from the torso up, shoulders braced as he pushes his bulk through the doorway, his body half-obscured by the frame, heading outward. He has just turned away from the interior. The brunette in the deep blood-crimson velvet hooded cloak is visible just inside the doorway, out of focus in the background, facing the woodsman's departure. The volumetric light from inside struggles to pierce the sheeting rain outside, which is highlighted by the external darkness. The sound of heavy rain is now louder and more present, almost engulfing the deep, warm voice of the working man speaking plainly.",
+    "lf_vis_char_idxs": [
+        0,
+        3
+    ],
+    "motion_desc": "The camera executes a steady track, moving horizontally and slightly backward in relation to the woodsman, emphasizing the tracking of his heavy, determined movement towards the threshold. The broad-shouldered woodsman with a thick dark beard streaked with grey stands gravely, his honest face grim, and gently lifts the heavy, blanket-wrapped shape. He casts a single, respectful, warm glance toward the brunette wearing the deep blood-crimson velvet hooded cloak as he turns and shoulders his way back out the ruined front door into the deluge. The camera track continues alongside him, showing the contrast between his bulk and the door frame until the woodsman is mostly exiting the frame, framed against the dark, wet exterior.",
+    "audio_desc": "<The Woodsman> (deep, warm, earnest voice): \"Fear not, child. I will see justice done.\" [Sound Effect] The roar of the RAIN seems to engulf everything as he steps out, immediately muffling his footsteps."
+}

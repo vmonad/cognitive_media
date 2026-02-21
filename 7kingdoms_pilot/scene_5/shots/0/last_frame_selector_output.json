@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/front.png",
+            "CANONICAL front-view portrait of King Edran. This is the definitive reference for this character's face and identity. A man with a strong, weathered face and deep brown eyes. He possesses an air of authority. Wearing a silver-threaded Crown of Sevens; dressed in practical armor."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/side.png",
+            "Side-view portrait of King Edran showing profile and body shape. A man with a strong, weathered face and deep brown eyes. Practical armor with fur-trimmed cloak."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_5/location_refs/forest_clearing.png",
+            "Reference establishing shot of location 'forest_clearing': A secluded, verdant forest clearing bathed in bright daylight. Dappled sunlight streams through a dense, high canopy of deciduous trees, casting shifting patterns of light and shadow onto the ground. The floor is covered in thick, vibrant green moss growing over large, rough-hewn stones. A small, shallow stream chatters across the clearing, water flowing clear over smooth pebbles. The atmosphere is initially calm and naturalistic, suggesting mid-morning or early afternoon on a clear, sunny day. Textures should emphasize damp moss, rough bark, and clear running water."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy frame, shot on Arri Alexa 65 with Panavision anamorphic lenses, showing King Edran seated on a heavy wooden throne. King Edran's appearance, including his face, hair color, hair style, skin tone, eye color, bone structure, and clothing (practical armor and the silver-threaded Crown of Sevens), MUST exactly replicate Image 1. His posture is rigid, hands resting on the armrests, jaw slightly clenched, conveying authority strained by tension. He is illuminated by warm, diffuse light from the left casting deep chiaroscuro shadows on the right side of his face, referencing the lighting quality seen in Image 1 and Image 2. The background environment suggests a large, stone hall lit with practical, likely torchlight, maintaining the photorealistic medieval fantasy style and warm golden palette described in the VISUAL_STYLE, with textures matching the tactile quality described in the style guide, incorporating the ambiance suggested by the natural elements in Image 0 (moss, rough stone) as inspiration for the hall's features, though set indoors. The texture of 35mm film grain is present throughout, conforming to the mandatory VISUAL_STYLE: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Real human actors in practical costumes — genuine leather, real chainmail, wool, silk, mud, rust, sweat. Natural skin with pores, imperfections, scars, freckles, and weathering. Real weather — mist, firelight, torchlight, dawn light. Warm golden palette. Deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. Every surface tactile — stone, iron, parchment, silk, fur, moss, wet rock, candlewax."
+}

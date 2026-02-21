@@ -1,0 +1,20 @@
+{
+    "idx": 8,
+    "is_last": false,
+    "cam_idx": 8,
+    "visual_desc": "EXT. FROZEN NORTHERN FOREST - DAY. Chaotic, hand-held medium shot showing <The Wolf> (imposing, scarred face) swinging a colossal, rustic battle axe in wide, savage arcs against arrayed infantry. Beside him, a snarling DIREWOLF lets out a deafening HOWL, dominating the soundscape.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, the primary changes are the progression of the savage-looking warrior's axe swing and the continued posture of the Direwolf, which are minor dynamic shifts within an established composition. The camera remains in a chaotic medium shot.",
+    "ff_desc": "EXT. FROZEN NORTHERN FOREST - DAY. A chaotic, hand-held medium shot. Forest floor is covered in snow and ice. In the foreground, a savage-looking warrior with a scarred face, wearing barbarian furs and wielding a colossal, rustic battle axe, is mid-swing in a wide, savage arc. Beside him, a massive, snarling Direwolf stands ready.",
+    "ff_vis_char_idxs": [
+        3,
+        6
+    ],
+    "lf_desc": "EXT. FROZEN NORTHERN FOREST - DAY. A chaotic, hand-held medium shot. The savage-looking warrior with a scarred face is still mid-swing, his battle axe having completed its arc toward an unseen enemy, positioned against arrayed infantry, partially visible in the background. The massive, snarling Direwolf remains next to him, face raised.",
+    "lf_vis_char_idxs": [
+        3,
+        6
+    ],
+    "motion_desc": "The camera movement is a tight, chaotic, hand-held medium shot that remains essentially static, jostled by the implied action. The savage-looking warrior with a scarred face executes the dynamic movement, swinging a colossal, rustic battle axe in wide, savage arcs toward arrayed infantry situated slightly beyond the immediate foreground. Simultaneously, the massive, snarling animal next to him lets out a deafening HOWL.",
+    "audio_desc": "[Sound Effect] The DEAFENING HOWL of DIREWOLVES mixes with the impact of steel on wood and bone."
+}

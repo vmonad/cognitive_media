@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/character_portraits/0_Mara/front.png",
+            "A front view portrait of Mara."
+        ],
+        [
+            ".working_dir/idea2video/character_portraits/1_Noon/front.png",
+            "A front view portrait of Noon."
+        ],
+        [
+            ".working_dir/idea2video/scene_1/shots/4/new_camera_4.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The self-examination of her hands flickering and disorientation mentioned in Shot 3. Shot 4 introduces Noon and the Data Rift..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A mid shot is perfectly centered on a human adult female, mid-30s in perceived age, with initially organic features, wearing clothing appropriate for attending a futuristic screening event and connected to a cranial interface, referencing Image 0 for her appearance. She is looking across a narrow, collapsing virtual bridge, referencing the setting and composition of Image 2. On the far side, positioned centrally, stands an impossibly perfect, androgynous figure embodying pure digital structure, draped in shimmering, fragmented data textures, gazing downward toward the bridge, referencing Image 1 for this figure's appearance. The overall scene, lighting, and style should reference Image 2."
+}

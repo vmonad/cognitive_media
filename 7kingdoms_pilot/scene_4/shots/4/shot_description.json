@@ -1,0 +1,18 @@
+{
+    "idx": 4,
+    "is_last": true,
+    "cam_idx": 4,
+    "visual_desc": "EXTREME CLOSE UP on <Elara (Young Woman)>'s hands. They are rough, calloused from labor, dirty with mud and grain dust. She stares down, fingers slightly curled but trembling violently. Her hands are illuminated by the strange, internal golden light that still faintly emanates from her core, contrasting sharply with the dirt and the dull earth tones of the background (her dirty skirt hem). Her posture is frozen, shoulders hunched inward in shock and fear.",
+    "variation_type": "small",
+    "variation_reason": "The change is small as the camera remains static, focusing on the resolution of internal tension indicated by the cessation of hand trembling and the fading of the magical light, while the subject and setting remain fundamentally the same.",
+    "ff_desc": "A photorealistic medieval fantasy EXTREME CLOSE UP, shot on Arri Alexa 65 with Panavision anamorphic lenses, focusing intently on the hands of a young woman. The hands are rough, calloused, and dirty with mud and grain dust. They are slightly curled but trembling violently. A faint, internal golden light illuminates the hands, contrasting with the dull, earthy brown tones of the background, likely a dirty skirt hem. The posture suggested by the framing indicates hunched shoulders and frozen tension.",
+    "ff_vis_char_idxs": [
+        6
+    ],
+    "lf_desc": "A photorealistic medieval fantasy EXTREME CLOSE UP, shot on Arri Alexa 65 with Panavision anamorphic lenses, on the hands of the young woman. The hands are now completely relaxed, fingers slightly spread, no longer trembling. The faint internal golden light has vanished, leaving the hands illuminated only by residual environmental light, which highlights the dirt and callouses. The posture conveyed by the hands suggests a cessation of immediate shock, perhaps a slight slackening of tension.",
+    "lf_vis_char_idxs": [
+        6
+    ],
+    "motion_desc": "The camera remains static. The shaking of the rough, calloused hands of the young woman, dressed in a simple rough-spun peasant dress in earthy brown, slowly subsides over the duration of the shot. The strange, internal golden light emanating from her core, which initially contrasts with the dirt and the dull earth tones of her skirt hem, gradually dims until it extinguishes completely, leaving a natural, muted illumination on the skin.",
+    "audio_desc": "[Sound Effect] A distinct, low, resonant GOLDEN HUM begins, vibrating slightly, reminiscent of a deep cello note sustained electronically. [Speaker] <Elara (Young Woman)> (Whispering, horrified): \"What... what did I just do?\" [Score] The single golden hum holds and sustains."
+}

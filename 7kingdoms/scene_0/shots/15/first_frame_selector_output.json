@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/3_The Wolf/front.png",
+            "A front view portrait of The Wolf."
+        ],
+        [
+            ".working_dir/7kingdoms/scene_0/shots/15/new_camera_15.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The close-up reaction of Sera or the visual effect of the fissure closing..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A tight medium shot frames a battered and bleeding warrior, The Wolf, facing a swirling green maw of the Shadow Gate. The warrior is positioned center frame, looking directly toward the supernatural phenomenon. The background environment should reference Image 3, including the rocky surroundings and the swirling green light from the fissure. The Wolf's appearance, including his armor, bloodstains, and ferocious expression, should primarily reference Image 0, but his stance and position should match the composition of the warrior in Image 3."
+}

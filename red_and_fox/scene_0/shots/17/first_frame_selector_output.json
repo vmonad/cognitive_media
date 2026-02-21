@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_interior_granny_room.png",
+            "Reference establishing shot of location 'cottage_interior_granny_room': The interior of the cottage at night, lit primarily by the low, dying orange embers in the fireplace. Granny sits in a heavy, dark wood rocking chair, which is slowly moving. In the shadows, a dark wood table is visible where a heavy leather book rests. The mood is claustrophobic, dominated by the dying firelight and deep shadows. A large grandfather clock is present, likely standing sentinel."
+        ],
+        [
+            ".working_dir/red_and_fox/character_portraits/0_Red/side.png",
+            "A side view portrait of Red."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale medium shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, of a lavishly appointed but shadowed room.\nDominating the center-right is a dark wooden rocking chair, upon which rests a shrouded, body-sized bundle. This rocking chair and the room's environment/shadows should reference Image 0.\nTo the left, deep in the frame and partially obscured by shadows and shallow depth of field, a figure wearing a deep blood-crimson velvet hooded cloak and dark charcoal dress is seen lunging forward, their body suspended mid-air just before impact with the chair. The figure's appearance (hooded cloak, crimson color) must reference Image 2. The movement and expression should follow the description.\nThe visible porcelain skin of the attacker's face shows signs of strained intensity.\nThe background is out of focus, showing the suggestion of a large, broken window structure through creamy bokeh. \nThe scene is lit with warm, low-key interior light, emphasizing the deep chiaroscuro shadows, and the texture of the wet velvet cloak is visible even in this initial state. The characters must be scaled correctly proportional to the environment and the lighting on the characters must convincingly match the warm, low-key interior light sources from the environment in Image 0, ensuring they look physically embedded in the space. The overall visual style must adhere to the photorealistic dark fairy tale, Arri Alexa 65, anamorphic bokeh style directive."
+}

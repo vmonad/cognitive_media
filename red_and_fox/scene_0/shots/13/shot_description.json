@@ -1,0 +1,16 @@
+{
+    "idx": 13,
+    "is_last": false,
+    "cam_idx": 13,
+    "visual_desc": "FRONT DOOR POV FROM INSIDE (SCENE 3). Three soft, polite KNOCKS echo sharply against the heavy oak interior door: *tap… tap… tap.* The sound seems overly loud in the silence. The heavy door begins to open, revealing <Red's> (Character 0) face framed perfectly in the weak exterior lantern light—her expression is a flawless, porcelain mask of innocent filial concern, her hand holding the basket steady. Camera is static, treating the entry as a moment of high theatrical deception. Her crimson cloak is visible against the dark interior.",
+    "variation_type": "medium",
+    "variation_reason": "The primary content of the frame changes completely, transitioning from an empty door to revealing the face and upper body of the first character framed in the doorway, accompanied by significant internal motion (the door opening and the character appearing).",
+    "ff_desc": "A photorealistic dark fairy tale, Hollywood blockbuster production quality close-up shot from inside a dark room focused on a heavy oak interior door. The lighting is dim, suggesting the weak exterior lantern light illuminates the surface of the door. The composition is tight on the door, dominated by its dark wood texture.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A photorealistic dark fairy tale, Hollywood blockbuster production quality close-up shot. The heavy oak door is slightly ajar. Filling the gap, perfectly framed by the weak exterior lantern light shining from behind, is the face of the individual wearing the deep blood-crimson velvet hooded cloak. This individual's luminous porcelain skin, full lips, and striking green-hazel eyes are visible, set in an expression of flawless, innocent filial concern. Their hand holding a basket appears steady just inside the threshold. Deep chiaroscuro shadows dominate the interior frame around the revealed face.",
+    "lf_vis_char_idxs": [
+        0
+    ],
+    "motion_desc": "The static camera holds its position, maintaining a Front Door POV from inside. Three soft, polite knocks (*tap… tap… tap.*) are heard distinctly, creating an immediate sonic focus against the silence. Following the sound, the heavy door begins a slow pivot inward, moving from a closed position to slightly ajar. As the door opens, the individual in the deep blood-crimson velvet hooded cloak appears, their face perfectly illuminated by the weak exterior lantern light, adopting a poised, mask-like expression of innocent filial concern while keeping the hand holding the basket steady.",
+    "audio_desc": "[Sound Effect] The three knocks echo intensely, followed by the low, resonant RUMBLE of the old house settling itself. <Red's> (soft, measured, slightly breathy voice) voice curls through the wood: \"Granny? I brought your linens.\""
+}

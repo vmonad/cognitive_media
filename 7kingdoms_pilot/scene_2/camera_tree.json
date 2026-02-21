@@ -1,0 +1,57 @@
+[
+    {
+        "idx": 0,
+        "active_shot_idxs": [
+            0
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_0 is the establishing shot, consisting only of a black screen and a voice-over setting up the entire narrative context. It precedes all visual action and therefore cannot be contained by any other camera.",
+        "is_parent_fully_covers_child": null,
+        "missing_info": null
+    },
+    {
+        "idx": 1,
+        "active_shot_idxs": [
+            1
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_1 initiates the visual storytelling, showing the characters establishing the setting introduced narratively in CAMERA_0 (Shot 0). As the first visual scene, CAMERA_0 (Shot 0) is the logical predecessor/root container. The parent shot (black screen) contains the initial narration that sets the scene for this shot.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The claustrophobic tunnel environment, the specific characters (<Queen Lyara>, <Sir Aldren>, <Elara (Infant)>), and the action of fleeing."
+    },
+    {
+        "idx": 2,
+        "active_shot_idxs": [
+            2
+        ],
+        "parent_cam_idx": 1,
+        "parent_shot_idx": 1,
+        "reason": "CAMERA_2 is a Close Up on <Queen Lyara>'s face, focusing on her expression and dialogue while she is fleeing in the tight tracking shot of CAMERA_1 (Shot 1). The medium framing of CAMERA_1 fully encompasses the Close Up of the Queen's face.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The extreme detail of the torchlight on her skin, the specific dialogue, and the visual context of <Sir Aldren> and the infant."
+    },
+    {
+        "idx": 3,
+        "active_shot_idxs": [
+            3
+        ],
+        "parent_cam_idx": 3,
+        "parent_shot_idx": 4,
+        "reason": "CAMERA_3 is a Wide Shot showing the exit, the burning castle silhouette, and all three characters (<Queen Lyara>, <Sir Aldren>, <Elara (Infant)>). CAMERA_4 (Shot 4) is a Medium Long Shot *from behind* these same characters as they move away. Since CAMERA_3 (Shot 3) establishes the broader scene including the background setting (forest, mist, burning castle) and all characters in a wide context, it serves as a better initial spatial anchor than the later, more focused retreat shot (CAMERA_4). However, based on the rule: 'When two cameras can be the parent of each other, choose the one with the smaller index as the parent of the camera with the larger index,' CAMERA_3 would be the parent of CAMERA_4. Re-evaluating: CAMERA_3 is a wide shot showing the exit and the burning castle. CAMERA_4 is a MLS of the characters walking away, swallowed by mist. CAMERA_4 (the retreat) focuses on the journey *after* the scene described in CAMERA_3 (the exit). CAMERA_3 provides the spatial context (the exit archway, the mist, the castle). Therefore, CAMERA_3 (Shot 3) contains the context for the emergence shown in Shot 4, but Shot 4 is a direct continuation of the retreat started in Shot 3. Given CAMERA_4 focuses on the characters moving *away* from the immediate action described in CAMERA_3 (the exit), and the camera being static in CAMERA_4, CAMERA_3 (the wide establishing context) subsumes the elements shown.",
+        "is_parent_fully_covers_child": true,
+        "missing_info": "The specific Dutch angle/height relationship of the camera and the implied sense of the journey immediately following the exit."
+    },
+    {
+        "idx": 4,
+        "active_shot_idxs": [
+            4
+        ],
+        "parent_cam_idx": 3,
+        "parent_shot_idx": 3,
+        "reason": "CAMERA_4 (Shot 4) is a Medium Long Shot of <Queen Lyara> and <Sir Aldren> walking away, rapidly consumed by mist. CAMERA_3 (Shot 3) is a Wide Shot that establishes this entire environment (exit, mist, burning castle) and includes all characters who are transitioning into the scene described by CAMERA_4. Since Shot 3 establishes the initial moment of breaking out into the mist, it logically encompasses the subsequent shot where they are walking away within that environment.",
+        "is_parent_fully_covers_child": true,
+        "missing_info": "The specific back-facing view and the camera holding static as the figures shrink into the fog."
+    }
+]

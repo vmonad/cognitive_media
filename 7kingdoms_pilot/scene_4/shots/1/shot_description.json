@@ -1,0 +1,16 @@
+{
+    "idx": 1,
+    "is_last": false,
+    "cam_idx": 1,
+    "visual_desc": "FADE IN: ESTABLISHING SHOT. A PEASANT VILLAGE at dawn, shrouded heavily in cool, pale morning mist. The thatched roofs are dark, soaked with dew. The ground is muddy. A few domestic animals (a couple of chickens, a goat) drift lazily in the foreground. The lighting is soft, diffused, with a natural, warm golden-hour glow trying to break through the mist, suggesting early morning. The visual quality is exquisitely photorealistic, showing texture on the thatch and mud (Arri Alexa 65, anamorphic lenses, slight film grain).",
+    "variation_type": "large",
+    "variation_reason": "This shot involves a complete shift in framing and subject focus, transitioning from a very wide establishing shot of the environment to a tight close-up on a specific character, accompanied by a magical visual effect (glowing eyes) and substantial camera movement (rapid push-in), signifying a major narrative focal point change.",
+    "ff_desc": "A photorealistic medieval fantasy establishing shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, capturing a peasant village at dawn. The scene is heavily shrouded in cool, pale morning mist. The thatched roofs appear dark and soaked with dew, contrasted with muddy ground. A couple of chickens and a tethered goat drift lazily in the immediate foreground. The lighting is soft and diffused, dominated by cool tones, though a natural, warm golden-hour glow attempts to penetrate the mist. The composition emphasizes textures: visible grain, roughness of thatch, and wetness of the mud.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A photorealistic medieval fantasy close-up shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, focusing tightly on the face of a young woman with sun-freckled skin and wild untamed dark auburn hair. Her striking amber eyes, which now glow faintly golden, fix intently off-camera to the right. Her simple rough-spun peasant dress in earthy brown and worn leather belt are visible in the lower frame. The background remains obscured by the cool, pale morning mist, rendered as creamy bokeh due to shallow depth of field. Natural dawn light illuminates her face from the front, highlighting the subtle texture of her skin.",
+    "lf_vis_char_idxs": [
+        6
+    ],
+    "motion_desc": "The shot begins as a static establishing shot of the misty peasant village. After a beat of silence, the camera executes a rapid, smooth push-in (dolly in) toward the village center, tightening dramatically from the establishing wide shot to a close-up on the head and shoulders of the young woman wearing the simple rough-spun peasant dress. As the camera moves past the foreground animals and muddy ground, the young woman (sun-freckled skin, wild untamed dark auburn hair) snaps sharply into focus. Simultaneously, as the visual style shifts abruptly from the wide ambient scene to this intimate focus, her amber eyes begin to emit a faint golden glow, indicating the manifestation of power. The motion is motivated by sudden, focused attention.",
+    "audio_desc": "[Sound Effect] Distant, clear rooster crowing. Soft, mournful bleating of sheep in the distance. Gentle birdsong. Very pastoral and quiet."
+}

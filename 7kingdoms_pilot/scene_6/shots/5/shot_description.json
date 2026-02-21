@@ -1,0 +1,18 @@
+{
+    "idx": 5,
+    "is_last": false,
+    "cam_idx": 5,
+    "visual_desc": "A tight CLOSE UP on <Morgath's eyes>. They are wide with residual shock, then instantly contract, the dark irises narrowing into predatory fury. The residual golden light fades, replaced by the oppressive, deep crimson and black light of her own chamber, emphasizing the darkness returning to her gaze. Her immaculate features are set in a mask of dangerous resolve. Her crimson lips pull back slightly in a snarl, exposing the edge of her teeth.",
+    "variation_type": "small",
+    "variation_reason": "This shot only shows subtle, yet intense, changes in the physical manifestation of emotion on the character's face (eyes narrowing, lips snarl), with no camera movement or significant environmental changes, thus the variation type is small.",
+    "ff_desc": "A photorealistic medieval fantasy, HBO prestige television quality CLOSE UP, framed with Panavision anamorphic lenses, on the large, dark, nearly-black eyes of the woman in the fitted black gown. The lighting is the oppressive, deep crimson and black light characteristic of her chamber, casting sharp, chiaroscuro shadows across her porcelain-pale skin and high sharp cheekbones. Her eyes are wide with residual shock, the focus sharp on the texture of her irises and the surface tension around the eyes, which show subtle muscle spasms.",
+    "ff_vis_char_idxs": [
+        2
+    ],
+    "lf_desc": "A photorealistic medieval fantasy, HBO prestige television quality CLOSE UP, with creamy anamorphic bokeh in the background. The lighting is dominated by the oppressive, deep crimson and black light of the chamber. The woman's eyes are now narrowed into predatory fury, emphasizing the darkness returning to her gaze. Her immaculate features are set in a mask of dangerous resolve. Her full crimson lips are pulled back slightly in a snarl, exposing the edge of her teeth, rigid and still.",
+    "lf_vis_char_idxs": [
+        2
+    ],
+    "motion_desc": "The shot is functionally static, focusing intensely on the facial features. The initial wide-eyed state of shock transitions immediately into a sudden and intense contraction of the dark irises, manifesting as an instantaneous shift from shock to predatory fury. Simultaneously, the oppressive, deep crimson and black light that bathes the scene shifts subtly, the residual golden light completely fading, deepening the shadows on her face. The movement is entirely internal muscular contraction around the ocular area, followed by the tightening of the lips into a snarl, all while maintaining the extreme close-up framing.",
+    "audio_desc": "[Speaker] Morgath (Voice hardens, low and forceful): \"Find her. Find her before the moon rises. Kill her before she reaches the boy.\" [Sound Effect] A distinct, sharp, almost silent exhale of anger from <Morgath>."
+}

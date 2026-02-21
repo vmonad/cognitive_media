@@ -1,0 +1,51 @@
+[
+    {
+        "idx": 0,
+        "identifier_in_scene": "King Edran",
+        "is_visible": true,
+        "static_features": "A man with a strong, weathered face and deep brown eyes. He possesses an air of authority.",
+        "dynamic_features": "Wearing a silver-threaded Crown of Sevens; dressed in practical armor."
+    },
+    {
+        "idx": 1,
+        "identifier_in_scene": "Queen Lyara",
+        "is_visible": true,
+        "static_features": "A beautiful woman with olive skin and amber eyes. Resilient in appearance.",
+        "dynamic_features": "Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+    },
+    {
+        "idx": 2,
+        "identifier_in_scene": "Morgath",
+        "is_visible": true,
+        "static_features": "Devastatingly beautiful real human woman, appears early 40s. Porcelain-pale skin with natural texture. Large dark nearly-black eyes with no warmth. High sharp cheekbones. Full crimson lips. Long straight raven-black hair falling heavy like a curtain. Tall, slender. Her beauty is unsettling — the kind that makes you uneasy. Real skin, real actress, NOT CGI.",
+        "dynamic_features": "Wears a fitted black gown with high structured collar embroidered with dark crimson thread. A thin crown of black iron thorns after the coup. Long black gloves. A blood-red jewel hangs on a gold chain around her neck as a NECKLACE — NOT embedded in skin. Voice: silky, soft, almost musical."
+    },
+    {
+        "idx": 3,
+        "identifier_in_scene": "Sir Aldren",
+        "is_visible": true,
+        "static_features": "A scarred Knight with a sturdy build. Gruff in demeanor.",
+        "dynamic_features": "Wears armor that becomes scratched and muddied."
+    },
+    {
+        "idx": 4,
+        "identifier_in_scene": "Elara (Infant)",
+        "is_visible": true,
+        "static_features": "An infant princess.",
+        "dynamic_features": "Swaddled."
+    },
+    {
+        "idx": 5,
+        "identifier_in_scene": "Prince Cael",
+        "is_visible": true,
+        "static_features": "An infant prince.",
+        "dynamic_features": "Lies in a gilded crib."
+    },
+    {
+        "idx": 6,
+        "identifier_in_scene": "Elara (Young Woman)",
+        "is_visible": true,
+        "static_features": "A real human young woman of 18. Striking — she has her mother's amber eyes and her father's strong jaw. Wild untamed dark auburn hair. Sun-freckled skin from living outdoors. Lean athletic build from years of farm work. She doesn't know she's beautiful. Real skin with freckles and imperfections, NOT a model. She looks like a farmhand, not a princess.",
+        "dynamic_features": "Wears a simple rough-spun peasant dress in earthy brown, a worn leather belt, simple sandals. NO props on her body, NO wooden items, NO armor, NO accessories except a faded cloth wrapped around her wrist. Just a simple village girl. When powers manifest, her amber eyes glow faintly golden."
+    }
+]

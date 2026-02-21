@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/5_Skeletal Legion (The Risen Dead)/front.png",
+            "A front view portrait of Skeletal Legion (The Risen Dead)."
+        ],
+        [
+            ".working_dir/7kingdoms/character_portraits/5_Skeletal Legion (The Risen Dead)/side.png",
+            "A side view portrait of Skeletal Legion (The Risen Dead)."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nIt is an extreme close-up on a patch of desiccated earth in the foreground. A single IRON SHOVEL, covered in dust, is partially visible, scraping the soil. A single SKELETAL HAND, referencing the hands from Image 0 and Image 1 for appearance, is gripping the soil. The lighting is harsh daylight with a sickly GREEN LIGHT visible flickering ominously on the distant horizon. The background should suggest a battlefield edge, inspired by the environment in Image 0."
+}

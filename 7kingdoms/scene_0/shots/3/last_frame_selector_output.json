@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/scene_0/shots/3/first_frame.png",
+            "A low-angle medium close-up focuses on the Iron Crown, which is currently airborne, caught briefly in the warm, flickering glow of candlelight within a grand, candlelit hall. The polished marble floor is visible below, reflecting some of the ambient light. The overall composition emphasizes the crown's descent."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nA low-angle extreme close-up depicts the broken pieces of the Iron Crown, now scattered across sections of the highly reflective, polished marble floor. The candlelight illuminates the jagged edges of the fragments. In the background, several figures wearing servant attire are frozen in positions of sharp, startled recoil. The overall setting, lighting, and the appearance of the Iron Crown and the servant figures should reference Image 0."
+}

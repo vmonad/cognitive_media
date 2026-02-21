@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_exterior_dusk.png",
+            "Reference establishing shot of location 'cottage_exterior_dusk': An isolated, menacing cottage viewed during the golden hour as dusk settles. The structure features ivy-covered stone walls and a crooked chimney trailing thin, pale smoke. The architecture appears old and neglected. Dead roses cling to the overgrown garden surrounding the house. A single, dim, warm-toned lantern casts a small pool of light near the heavy oak front door. The atmosphere is one of lonely menace under a darkening sky."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/shots/5/first_frame.png",
+            "A photorealistic dark fairy tale establishing shot, rendered with rich cinematic color grading, taken from the edge of a dark forest treeline. The composition is wide, focusing on an isolated, weathered stone cottage bathed in the warm, oblique light of the golden hour. The crooked chimney faintly trails a thin plume of grey smoke against the darkening sky. No figures are present. The immediate foreground is dominated by the texture of dark, dense forest foliage. The overall mood is tactile and lonely."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale medium wide shot of the isolated stone cottage exterior during the deepening twilight of the golden hour. The image should heavily reference Image 1 and Image 6 for the cottage exterior setting, ivy, dead roses, and atmosphere during golden hour/twilight. The overall scene, lighting, and texture must adhere to the mandatory visual style, featuring a tactile weathered stone cottage, warm lantern light on the oak door, a thin plume of smoke from the crooked chimney, and encroaching ivy/dead roses against a deep sapphire sky near the treeline. Ensure the lighting on the cottage matches the deepening twilight/golden hour tone established in Image 1 and Image 6, maintaining the rich cinematic color grade and anamorphic bokeh quality from the style guide. No figures are visible."
+}

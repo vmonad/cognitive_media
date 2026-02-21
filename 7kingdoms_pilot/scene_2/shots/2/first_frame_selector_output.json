@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/front.png",
+            "CANONICAL front-view portrait of Queen Lyara. This is the definitive reference for this character's face and identity. A beautiful woman with olive skin and amber eyes. Resilient in appearance. Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/side.png",
+            "Side-view portrait of Queen Lyara showing profile and body shape. A beautiful woman with olive skin and amber eyes. Resilient in appearance."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/4_Elara (Infant)/front.png",
+            "CANONICAL front-view portrait of Elara (Infant). This is the definitive reference for this character's face and identity. An infant princess. Swaddled."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy CLOSE UP shot, captured with an Arri Alexa 65 and Panavision anamorphic lenses, emphasizes the face of the woman in dark, practical peasant garb. The woman's appearance, including the olive skin, amber eyes, and overall facial structure, MUST exactly replicate the portrait in Image 0. Her profile and body shape should reference Image 1. The low, slightly right-positioned sputtering torchlight creates deep chiaroscuro shadows, catching the grime and tear tracks on her olive skin. Her amber eyes appear intensely bright, like polished obsidian reflecting firelight. Her jaw is visibly clenched, with a slight tremor in her lower lip. She is angled slightly toward a swaddled infant positioned just out of frame; the infant's appearance MUST exactly replicate the swaddled infant in Image 2. Her posture is taut against an unseen danger. The lighting on the woman and the infant must match the low, sputtering torchlight environment, creating deep chiaroscuro shadows and bright, fiery reflections on her eyes. The visual style MUST conform to: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Real human actors in practical costumes — genuine leather, real chainmail, wool, silk, mud, sweat. Natural skin with pores, imperfections, scars, freckles, and weathering. Real weather — firelight, torchlight. Rich dark crimson-and-black for the mood. Deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. Every surface tactile — stone, iron, parchment, silk, fur, moss, wet rock, candlewax. NOT video game, NOT CGI render, NOT digital art, NOT World of Warcraft, NOT clean fantasy, NOT anime, NOT cartoon, NOT illustrated, NOT stylized, NOT 3D render, NOT Unreal Engine, NOT polished/perfect skin, NOT plastic armor, NOT oversaturated colors."
+}

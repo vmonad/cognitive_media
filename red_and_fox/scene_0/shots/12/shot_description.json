@@ -1,0 +1,18 @@
+{
+    "idx": 12,
+    "is_last": false,
+    "cam_idx": 12,
+    "visual_desc": "CLOSE-UP on <Granny's> (Character 2) face in the rocking chair, half-lit by the warm, flickering orange light of the dying embers. Her ice-blue eyes snap WIDE OPEN—not in panic, but in sharp, cold recognition as <The Fox's> (Character 1) deep shadow falls diagonally across her face. The camera remains unnervingly static, forcing the viewer to hold the gaze. The rocking chair stops INSTANTLY.",
+    "variation_type": "small",
+    "variation_reason": "The shot is static with only an instantaneous action (the stopping of the chair) and the arrival of another element (The Fox's shadow) causing a change in lighting and composition focused entirely on the existing character's reaction. The focus remains tightly on Granny's face.",
+    "ff_desc": "A photorealistic dark fairy tale CLOSE-UP, shot with anamorphic lenses creating shallow depth of field and creamy bokeh, of Granny's face. The composition is tight, focused entirely on her features. She is seated in a rocking chair, her face half-illuminated by the warm, flickering orange light emanating from dying embers barely visible out of frame to one side, casting deep chiaroscuro shadows across her features. Her silver-white hair is pulled into a severe tight bun, tautly stretching the skin at her temples. Her deep-set ice-blue eyes are wide open, exhibiting sharp, cold recognition—her thin lips pressed into a firm, bloodless line, showing no overt panic but intense focus. The texture of her skin shows liver spots, and her posture, perceived through the tightness of her facial muscles, is ramrod straight.",
+    "ff_vis_char_idxs": [
+        2
+    ],
+    "lf_desc": "A photorealistic dark fairy tale CLOSE-UP, shot with anamorphic lenses, depicting Granny's face frozen in the exact same state of intense, cold recognition. The warm, flickering orange light from the embers now catches her ice-blue eyes differently due to the shadowing cast by the figure standing over her. Her angular, sharp features and the ramrod posture implied by her static neck and jaw remain unchanged, fixed in the moment the rocking chair stopped. The only visible change is the hard, diagonally cast shadow of a deeply shadowed figure lying across the right side of her face.",
+    "lf_vis_char_idxs": [
+        2
+    ],
+    "motion_desc": "The camera remains unnervingly static, holding the very tight close-up on the face of the elder figure wearing the black Victorian dress. Simultaneously, the rocking chair, which was in gentle motion, halts INSTANTLY, evidenced by the immediate cessation of movement around the elder figure's neck and shawl. Immediately upon this stop, the deep shadow of a tall, lean figure wearing a dark charcoal coat with an auburn fox fur collar falls swiftly and diagonally across the lower half of the elder figure's face as the predatory figure positions themselves directly over her, momentarily blocking the ambient firelight. Ambient sound is replaced by a sudden, tense silence, underscored by a low, sustained cello drone as the shadow falls.",
+    "audio_desc": "[Sound Effect] The sound of the rocking chair stopping abruptly. Dead, suffocating SILENCE descends upon the room, broken only by the faint internal sound of the dying FIRE. [Music Score] All score elements cut out."
+}

@@ -1,0 +1,19 @@
+{
+    "idx": 1,
+    "is_last": false,
+    "cam_idx": 1,
+    "visual_desc": "EXTREME CLOSE-UP, static and sharply focused. The Fox's black-gloved hand (Character 1) presses a small, corked glass vial containing the dark sleeping draught firmly into <Red's> (Character 0) bare, porcelain palm. The stark contrast between the oiled black leather and the luminous skin dominates the frame. Shallow depth of field creates creamy bokeh on the mossy background. Lighting is dim twilight.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, there are only minor changes in the composition: the removal of the hand holding the vial and the subsequent slight clenching of the recipient's hand. The composition remains an extreme close-up focusing on the hands.",
+    "ff_desc": "A photorealistic dark fairy tale EXTREME CLOSE-UP, shot on Arri Alexa 65 with Panavision anamorphic lenses. The frame is dominated by a black-gloved hand, belonging to the man with wild reddish-brown tousled hair and an auburn fur-trimmed coat, pressing a small, corked glass vial containing a dark liquid firmly into the bare, porcelain palm of the beautiful brunette wearing a deep blood-crimson velvet hooded cloak. The contrast between the oiled black leather and the luminous skin is stark. The lighting is dim twilight, and the shallow depth of field produces creamy bokeh on the indiscernible, mossy background structure. The brunette's hand is held open and still.",
+    "ff_vis_char_idxs": [
+        0,
+        1
+    ],
+    "lf_desc": "A photorealistic dark fairy tale EXTREME CLOSE-UP, shot on Arri Alexa 65 with Panavision anamorphic lenses. The frame is dominated by the bare, porcelain palm of the beautiful brunette wearing a deep blood-crimson velvet hooded cloak. The palm is empty, exhibiting its luminous quality against the texture of the mossy background, which remains out of focus with creamy bokeh. The lighting is dim twilight. The image focuses solely on the open, empty hand.",
+    "lf_vis_char_idxs": [
+        0
+    ],
+    "motion_desc": "The camera remains static throughout the shot while the gloved hand of the man with wild reddish-brown tousled hair smoothly retracts upwards and away from the frame, taking the corked glass vial with it. The bare hand of the beautiful brunette wearing a deep blood-crimson velvet hooded cloak remains stationary for a beat, then her fingers slowly curl inward, closing her palm around the space where the vial was, her movements soft and measured, reflecting the soft, measured, slightly breathy quality of her unspoken reaction. The ambient sound is muted twilight stillness, underscored by a low cello drone suggesting tension.",
+    "audio_desc": "[Sound Effect] Muffled forest ambience; the distant calls of crows carry thinly. [Music Score] Drone continues, low beneath ambient sounds."
+}

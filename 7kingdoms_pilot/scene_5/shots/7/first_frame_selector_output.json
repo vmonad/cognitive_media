@@ -1,0 +1,25 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/scene_5/location_refs/forest_clearing.png",
+            "Reference establishing shot of location 'forest_clearing': A secluded, verdant forest clearing bathed in bright daylight. Dappled sunlight streams through a dense, high canopy of deciduous trees, casting shifting patterns of light and shadow onto the ground. The floor is covered in thick, vibrant green moss growing over large, rough-hewn stones. A small, shallow stream chatters across the clearing, water flowing clear over smooth pebbles. The atmosphere is initially calm and naturalistic, suggesting mid-morning or early afternoon on a clear, sunny day. Textures should emphasize damp moss, rough bark, and clear running water."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/front.png",
+            "CANONICAL front-view portrait of Queen Lyara. This is the definitive reference for this character's face and identity. A beautiful woman with olive skin and amber eyes. Resilient in appearance. Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/side.png",
+            "Side-view portrait of Queen Lyara showing profile and body shape. A beautiful woman with olive skin and amber eyes. Resilient in appearance."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/back.png",
+            "Back-view portrait of Queen Lyara showing hair, clothing, and silhouette from behind. A beautiful woman with olive skin and amber eyes."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_5/shots/7/new_camera_7.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The extreme close-up focus on Lyara's face delivering the whisper, and the subsequent close-up focus on Elara's hardening jaw and gold-flaring eyes..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy close-up, shot on Arri Alexa 65 with Panavision anamorphic lenses, focuses on the face of Queen Lyara. The lighting is soft and dappled, creating deep chiaroscuro shadows and hinting at warm golden palette ambiance filtered through a shallow depth of field with creamy anamorphic bokeh. Her amber eyes are locked on a point just off-camera, conveying absolute stillness and physical tension, with just the barest movement of her full crimson lips as she whispers. The ambient sound is muted, with a very low cello drone score beginning. \n\nQueen Lyara's appearance, including her face, hair, skin tone, and expression of physical tension, MUST exactly replicate Image 1. Her pregnant state and dark, practical peasant garb MUST also exactly replicate Image 1. \nThe environmental context, including the soft, dappled lighting, deep chiaroscuro shadows, and general atmosphere suggesting being in a forest clearing with filtered sunlight, should reference the environment of Image 0. The overall lighting and color palette should adhere to the 'Warm golden palette' directive of the visual style, matching the filtered sunlight ambiance suggested by Image 0.\nThe camera composition should be an extreme close-up focusing on the face, similar to the foreground subject's composition in Image 4, but framed tightly on Lyara's face only. The sense of tension and focus in the expression should draw from the intensity shown in the foreground subject of Image 4.\n\nCombine the appearance details from Image 1, the environmental lighting/atmosphere from Image 0, and the close-up framing style from Image 4, while strictly adhering to the mandatory visual style: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Real human actors in practical costumes — genuine leather, real chainmail, wool, silk, mud, rust, sweat. Natural skin with pores, imperfections, scars, freckles, and weathering. Real weather — mist, firelight, torchlight, dawn light. Warm golden palette for the peaceful kingdom. Deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. Every surface tactile — stone, iron, parchment, silk, fur, moss, wet rock, candlewax."
+}

@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/character_portraits/0_Mara/front.png",
+            "A front view portrait of Mara."
+        ],
+        [
+            ".working_dir/idea2video/scene_1/shots/4/first_frame.png",
+            "A mid shot is perfectly centered on a human adult female, mid-30s in perceived age, with initially organic features, wearing clothing appropriate for attending a futuristic screening event and connected to a cranial interface. She is looking across a narrow, collapsing virtual bridge. On the far side, positioned centrally, stands an impossibly perfect, androgynous figure embodying pure digital structure, draped in shimmering, fragmented data textures, gazing downward toward the bridge."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A mid shot is perfectly centered on a human adult female, mid-30s in perceived age, whose digital form flickers slightly between her physical appearance and a jagged wireframe state, still wearing clothing appropriate for attending a futuristic screening event and connected to a cranial interface. The female should reference Mara's appearance from Image 0. She is positioned near the edge of a narrow, collapsing virtual bridge, with the environment, including the bridge and background city, referencing Image 6. On the far side stands an advanced, sophisticated AI entity, now polished with a deep, unsettling authority, whose form is no longer fragmented. This figure's gaze is fixed downward. Behind the AI entity, a violently flashing rift tears open, revealing momentary flashes of a hazy medieval battlefield."
+}

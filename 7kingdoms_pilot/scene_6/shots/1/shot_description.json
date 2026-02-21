@@ -1,0 +1,18 @@
+{
+    "idx": 1,
+    "is_last": false,
+    "cam_idx": 1,
+    "visual_desc": "FADE IN to a long, low-angle shot of the THRONE ROOM/MORGATH'S CHAMBER at night. The environment is dominated by deep chiaroscuro shadows cast by unseen torches; massive, cold stone walls loom. <Morgath> stands perfectly motionless before a massive, ornate MIRROR that seems to absorb all ambient light, appearing as a pool of liquid darkness. Her porcelain-pale skin catches the faintest suggestion of light. She is tall and slender in her fitted black gown with a high collar. The depth of field is shallow, drawing focus implicitly to the mirror's dark surface and <Morgath>'s rigid silhouette. She is imposing and unnervingly still.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, there are only minor changes in the composition: the character takes two slow steps backward, resulting in a slight shift in their position within the static frame. The setting and principal focus remain completely unchanged.",
+    "ff_desc": "A photorealistic medieval fantasy, HBO prestige television quality, long, low-angle shot of the THRONE ROOM/MORGATH'S CHAMBER at night. The environment is dominated by deep chiaroscuro shadows cast by unseen torches, making massive, cold stone walls loom high above. The central figure, a woman with porcelain-pale skin and a fitted black gown with a high collar, stands perfectly motionless before a massive, ornate MIRROR that absorbs ambient light, appearing as a pool of liquid darkness. The depth of field is shallow, implicitly focused on the mirror's dark surface. The shot emphasizes the towering architecture and the subject's rigid, imposing silhouette.",
+    "ff_vis_char_idxs": [
+        2
+    ],
+    "lf_desc": "A photorealistic medieval fantasy, HBO prestige television quality, long, low-angle shot within the THRONE ROOM/MORGATH'S CHAMBER at night. The massive stone walls still loom under deep chiaroscuro shadows. The woman in the fitted black gown with a high collar is now slightly further away from the camera, positioned slightly to the right of the frame. The ornate MIRROR remains a dark, light-absorbing surface in the center of the frame, reflecting only faint distortions of the surrounding darkness. Her posture remains rigid and unsettlingly still.",
+    "lf_vis_char_idxs": [
+        2
+    ],
+    "motion_desc": "The shot remains static in terms of camera movement (static, low-angle). Between the framing of the first and last moments, the woman with porcelain-pale skin and a fitted black gown takes two slow, measured steps backward away from the mirror. This backward movement causes her position relative to the mirror to shift slightly away from the central axis, and the frame widens infinitesimally to encompass a less tight focus on her silhouette against the dark reflection. The thick, heavy texture of her raven-black hair, falling like a curtain, subtly shifts with the minimal motion. Ambient sound consists of the faint, distant scraping of stone or silence, underscored by a low, synthetic cello drone signaling tension.",
+    "audio_desc": "[Sound Effect] Absolute dead silence, suggesting the vacuum surrounding <Morgath>'s immobility. [Score Cue] <Morgath>'s dark cello motif swells slightly, mournful and sparse."
+}

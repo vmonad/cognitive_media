@@ -1,0 +1,14 @@
+{
+    "idx": 0,
+    "is_last": false,
+    "cam_idx": 0,
+    "visual_desc": "BLACK SCREEN. FADE IN begins.",
+    "variation_type": "small",
+    "variation_reason": "The shot transition is purely a fade-in from black, which represents a small variation as the actual composition and content are not yet established or visually changing within a scene, only emerging from non-existence.",
+    "ff_desc": "A photorealistic medieval fantasy, HBO prestige television quality, black screen. The visual texture is defined by the anticipated 35mm film grain texture. Silence.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A photorealistic medieval fantasy, HBO prestige television quality, black screen. The visual texture is defined by the anticipated 35mm film grain texture. Silence.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The shot employs a slow, gradual fade-in from black, transitioning from absolute darkness to the first visible image frame. This gradual illumination reveals the scene. Since no content is described before the fade, the camera remains effectively static and the elements within the frame are static until the light reveals them. Ambient sound layer is silence, score is absent.",
+    "audio_desc": "[Narrator (deep, aged male voice, like a historian telling a legend)]: Morgath took the throne. She took the crown. And she took the boy. Not out of mercy — out of hunger. For Morgath had read the old texts, and she knew what the prince's blood could buy her."
+}

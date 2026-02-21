@@ -1,0 +1,35 @@
+[
+    {
+        "idx": 0,
+        "active_shot_idxs": [
+            0
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_0 establishes the primary visual artifact (the map) which is then visually transitioned (Match Dissolve) to the location (Throne Room walls) where the main characters are. Therefore, CAMERA_0 acts as the initiating element/root for this sequence.",
+        "is_parent_fully_covers_child": null,
+        "missing_info": null
+    },
+    {
+        "idx": 1,
+        "active_shot_idxs": [
+            1
+        ],
+        "parent_cam_idx": 2,
+        "parent_shot_idx": 2,
+        "reason": "CAMERA_1 establishes the primary subjects (King Edran and Queen Lyara) in detail. CAMERA_2 is a Wide Shot of the entire Throne Room which contains the setting and subjects of CAMERA_1, albeit with less clarity on the subjects. Therefore, CAMERA_2 acts as the establishing shot/parent for CAMERA_1.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific details, close-up expressions of King Edran and Queen Lyara, and the shallow depth of field focus."
+    },
+    {
+        "idx": 2,
+        "active_shot_idxs": [
+            2
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_2 (Wide Shot) establishes the entire scene, including the setting and the positioning of all characters, which encompasses the tighter framing of CAMERA_1. As the widest view, it is the logical root or parent for the subsequent camera that frames subjects within that established context. Since the Wide Shot (CAMERA_2) contains the setting and characters seen in CAMERA_1, it serves as the parent establishing shot that encompasses the content of CAMERA_1.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The detailed rendering of the map texture; the precise location of the King and Queen within the room."
+    }
+]

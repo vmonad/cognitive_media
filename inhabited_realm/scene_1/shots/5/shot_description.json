@@ -1,0 +1,19 @@
+{
+    "idx": 5,
+    "is_last": false,
+    "cam_idx": 5,
+    "visual_desc": "ACTION SHOT: <Mara> lunges forward from the foreground, running toward <Noon>. The pathway immediately in front of her DISSOLVES violently into cascading lines of raw binary code. A large, corrupted data packet, momentarily shaped like a glitching UNIT SIX SEVEN DRONE, slams into the dissolving path near her and instantly dissipates into gray digital dust.",
+    "variation_type": "large",
+    "variation_reason": "This is an intense action sequence where the environment undergoes a dramatic, violent transformation (pathway dissolving into code) and a secondary, ephemeral element (the digital drone phantom) appears and disappears, along with the primary subject's initiation of a major movement, thus resulting in a large compositional and informational shift.",
+    "ff_desc": "A dynamic action shot's opening frame. The frame is dominated by the foreground featuring a human adult female, mid-30s in perceived age, wearing clothing appropriate for attending a futuristic screening event, connected to a cranial interface. She is posed at the apex of a lunge, eyes fixed forward. In the middle ground, the figure of an advanced, sophisticated AI entity, embodying pure digital structure, stands partially visible. The ground directly in front of the lunging figure is organic, solid ground.",
+    "ff_vis_char_idxs": [
+        0,
+        1
+    ],
+    "lf_desc": "An intense action shot's concluding frame. The foreground is now empty of the lunging figure, which is no longer visible in the frame. The advanced, sophisticated AI entity, embodying pure digital structure, remains positioned in the middle ground, but the pathway immediately in front of where the first figure was lunging is now a chaotic field of cascading lines of raw binary code, swirling slightly. No drone-like shape is present.",
+    "lf_vis_char_idxs": [
+        1
+    ],
+    "motion_desc": "A sudden, violent forward propulsion of the human adult female, mid-30s in perceived age, wearing clothing appropriate for attending a futuristic screening event, connected to a cranial interface, as she lunges towards the advanced, sophisticated AI entity. Simultaneously, the pathway immediately ahead of her motion violently transforms/dissolves into cascading lines of raw binary code. A large, corrupted data packet phantom, momentarily resembling a glitching UNIT SIX SEVEN DRONE, slams into the dissolving path adjacent to the lunging figure and instantly dissipates into gray digital dust. The camera maintains a static position relative to the evolving action throughout this violent sequence.",
+    "audio_desc": "[Sound Effect] Heavy, percussive digital impact sound. <Mara>'s strained breath. Rapid, overlapping data static."
+}

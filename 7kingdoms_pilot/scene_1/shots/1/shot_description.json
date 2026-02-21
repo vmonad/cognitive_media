@@ -1,0 +1,14 @@
+{
+    "idx": 1,
+    "is_last": false,
+    "cam_idx": 1,
+    "visual_desc": "FADE IN to an EXTREME CLOSE UP on the polished, cold steel of a dagger being slowly drawn from its sheath. The lighting is harsh side-light, emphasizing the dark, reflective surface of the blade casting sharp, deep shadows (chiaroscuro). The surrounding leather of the sheath is visibly worn. This shot has a very shallow depth of field, focusing only on the sliding steel. The environment suggests darkness and intimacy.",
+    "variation_type": "small",
+    "variation_reason": "The shot remains a static extreme close-up, and the only action is the slow, mechanical movement of the dagger being drawn from the sheath, resulting in only minor shifts in reflection and shadow detail. The composition remains fundamentally the same.",
+    "ff_desc": "A photorealistic medieval fantasy extreme close-up, shot on Arri Alexa 65 with Panavision anamorphic lenses, of a single medieval steel dagger lying on dark velvet cloth. The blade is clean polished steel, fully visible with no obstruction. A worn leather sheath lies separately beside the blade, not touching it. Harsh side-lighting from the left creates deep chiaroscuro shadows along the reflective steel surface. Extremely shallow depth of field with creamy anamorphic bokeh in the dark background. The environment suggests a dim candlelit medieval room. 35mm film grain texture.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A photorealistic medieval fantasy extreme close-up, shot on Arri Alexa 65 with Panavision anamorphic lenses, showing the polished, cold steel of a dagger fully drawn from its sheath, laying horizontally across the frame. Harsh side-lighting emphasizes the reflective surface of the entire blade, which casts sharp, deep chiaroscuro shadows. The surrounding worn leather sheath is visible at the bottom edge, slightly out of focus. The overall impression remains dark and intimate.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera remains static in this extreme close-up. Simultaneously, the steel dagger is slowly drawn fully out of its worn leather sheath. The movement is steady and deliberate, causing the reflection and shadow patterns on the blade's surface to shift subtly as the steel slides against the leather. The visual atmosphere is tense and silent, emphasizing tactile metal textures against the backdrop of creamy anamorphic bokeh. No score is present, only an implied silence.",
+    "audio_desc": "[Sound Effect] The RIIIP of steel sliding against leather, amplified unnervingly loud against total silence. Followed by absolute silence. [Score] None."
+}

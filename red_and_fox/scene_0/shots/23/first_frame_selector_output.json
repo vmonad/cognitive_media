@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_interior_granny_room.png",
+            "Reference establishing shot of location 'cottage_interior_granny_room': The interior of the cottage at night, lit primarily by the low, dying orange embers in the fireplace. Granny sits in a heavy, dark wood rocking chair, which is slowly moving. In the shadows, a dark wood table is visible where a heavy leather book rests. The mood is claustrophobic, dominated by the dying firelight and deep shadows. A large grandfather clock is present, likely standing sentinel."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_interior_flashback.png",
+            "Reference establishing shot of location 'cottage_interior_flashback': A cramped, dimly lit interior space dominated by the intense, flickering orange glow emanating from a stone fireplace. The light throws strong, dancing shadows, particularly the massive, severe shadow of an unseen figure (Granny) engulfing the foreground. The floor appears to be cold, dark stone. The atmosphere is charged with internalized fear and tension."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_exterior_rain_storm.png",
+            "Reference establishing shot of location 'cottage_exterior_rain_storm': The cottage exterior during a violent, heavy downpour at night. Rain hammers the thatched roof in continuous sheets, causing the surrounding path to turn to mud. A flash of lightning briefly scrapes stark light across the wet, dark stonework walls and enhances the appearance of the sodden, dead garden. The atmosphere is chaotic, loud, and metaphoric of severe consequence."
+        ]
+    ],
+    "text_prompt": "Create a photorealistic dark fairy tale wide shot of the cluttered cottage interior, following the composition and background details of Image 0. The scene must be illuminated by warm candlelight creating deep chiaroscuro shadows and tactile, weathered surfaces, matching the lighting and atmosphere of Image 1. In the deepest shadow near a heavy, dark burgundy bedroom curtain, there is only a patch of absolute blackness, referencing the intense shadows seen in Image 2. Ambient sound is silence. The score rests on no sound. Maintain the visual style: Photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones and one vivid accent color (Red's crimson cloak), warm candlelight interiors with deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture, practical lighting sources, every surface tactile and weathered, atmospheric fog and rain. Characters should maintain high physical consistency with prior appearances if any were present, but since this frame describes a scene with no visible characters, focus on the environment matching Image 0's setting adaptation (cottage interior) while using the lighting/shadow principles of Image 1 and Image 2."
+}

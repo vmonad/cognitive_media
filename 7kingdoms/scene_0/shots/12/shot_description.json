@@ -1,0 +1,22 @@
+{
+    "idx": 12,
+    "is_last": false,
+    "cam_idx": 12,
+    "visual_desc": "[Speaker] The Wolf (Low growl): \"Treachery costs more than gold, Prince.\" <The Wolf> stands between Sera and Kael, his stance aggressive, confronting Kael directly.",
+    "variation_type": "small",
+    "variation_reason": "The shot consists primarily of dialogue delivery and static, aggressive positioning of the characters within a fixed frame, resulting in minimal change from start to finish.",
+    "ff_desc": "Interior shot of a candlelit hall. The Wolf, a savage-looking warrior with a scarred face, stands aggressively positioned between Queen Sera and Prince Kael. The Wolf is facing Prince Kael directly. Queen Sera is positioned toward the front. The lighting is dim, dominated by candlelight, creating deep shadows.",
+    "ff_vis_char_idxs": [
+        3,
+        1,
+        2
+    ],
+    "lf_desc": "Interior shot, composition focused on The Wolf standing aggressively between Queen Sera and Prince Kael. The Wolf is directly confronting Prince Kael. The candlelit hall environment remains the same. The Wolf maintains an aggressive stance.",
+    "lf_vis_char_idxs": [
+        3,
+        1,
+        2
+    ],
+    "motion_desc": "The camera is static. The savage-looking warrior with a scarred face emits a low growl while delivering the line, his body language conveying aggression as he faces the brilliant and ambitious strategist. The commanding leader with a fierce demeanor remains stationary in the foreground relative to the confrontation.",
+    "audio_desc": "[Speaker] The Wolf (Low growl): \"Treachery costs more than gold, Prince.\""
+}

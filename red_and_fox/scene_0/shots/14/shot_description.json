@@ -1,0 +1,21 @@
+{
+    "idx": 14,
+    "is_last": true,
+    "cam_idx": 14,
+    "visual_desc": "MEDIUM SHOT inside the dimly lit cottage. Red and The Fox stand side by side, looking down at Granny who sits lifeless in the rocking chair between them. Red is on the left wearing her crimson cloak, The Fox is on the right in his dark fur-collared coat. Their eyes meet across the room in a conspiratorial glance — the deed is done. The grandfather clock ticks in the background.",
+    "variation_type": "medium",
+    "variation_reason": "Red enters the frame and the two conspirators exchange a knowing look over Granny's body, shifting the compositional focus.",
+    "ff_desc": "A photorealistic dark fairy tale medium shot inside a dimly lit Victorian cottage. On the right side of the frame stands a devastatingly handsome man with sharp angular wolfish features, amber-golden eyes, reddish-brown tousled hair, wearing a long dark charcoal coat with auburn fox fur collar and black leather gloves — The Fox. He faces slightly left toward the center. In the center of the frame, an elderly woman with silver-white hair in a tight bun sits motionless and lifeless in a wooden rocking chair, her eyes closed, head slightly bowed. She wears a high-collared black Victorian dress. The rocking chair is still. Behind them, a grandfather clock and dying fireplace embers cast warm candlelight with deep chiaroscuro shadows. The Fox's amber eyes gleam in the firelight. Shallow depth of field with anamorphic bokeh. 35mm film grain.",
+    "ff_vis_char_idxs": [
+        1,
+        2
+    ],
+    "lf_desc": "A photorealistic dark fairy tale medium shot inside the same dimly lit Victorian cottage. On the left side of the frame now stands a breathtakingly beautiful brunette woman with long dark wavy chestnut-brown hair, luminous porcelain skin, and striking green-hazel eyes, wearing a deep blood-crimson velvet hooded cloak over a dark charcoal dress — Red. On the right stands The Fox in his dark charcoal coat with fox fur collar. Between them, the elderly woman in black Victorian dress sits lifeless in the rocking chair. Red and The Fox lock eyes across the dim room over Granny's still body — a single conspiratorial glance confirming their pact. The grandfather clock is visible in the background. Warm candlelight with deep chiaroscuro shadows. Anamorphic bokeh. 35mm film grain.",
+    "lf_vis_char_idxs": [
+        0,
+        1,
+        2
+    ],
+    "motion_desc": "The beautiful brunette woman in the deep blood-crimson velvet hooded cloak enters from frame-left, stepping into the dim candlelight of the cottage interior. She stops beside the still rocking chair. The lean man in the dark charcoal coat with fox fur collar, standing on the right, turns his head slowly toward her. Their eyes lock — amber meeting green — in a single, silent conspiratorial moment over the lifeless elderly woman between them. The camera holds steady with a subtle slow dolly forward, tightening the frame on the three figures.",
+    "audio_desc": "[Sound Effect] The grandfather clock's steady, ominous TICK-TOCK. Red's soft footsteps on wooden floor. [Dialogue] The Fox speaks first in his low, smooth baritone with a slight rasp, barely above a whisper: 'It's done.' Red replies in her soft, measured voice, barely a breath: 'The Woodsman will come.' The Fox, clipped and precise: 'Let him.' [Music Score] A single sustained low cello note, barely audible, building subtle tension beneath the dialogue."
+}

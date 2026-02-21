@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/shots/2/first_frame.png",
+            "A photorealistic dark fairy tale, Hollywood blockbuster production quality, two-shot with an intimate framing and a low angle, showcasing the beautiful brunette with long dark wavy chestnut-brown hair and luminous porcelain skin, and the devastatingly handsome man with distinctly wolfish, predatory features. Both stand close, facing each other, with their breaths visible as thin white mist in the cool dusk air, while thin fog curls around their ankles on the path. The brunette's striking green-hazel eyes burn with desperate longing under the low available light, and the man's glowing amber-golden eyes are razor-sharp and intense under his wild reddish-brown tousled hair."
+        ],
+        [
+            ".working_dir/red_and_fox/character_portraits/0_Red/front.png",
+            "A front view portrait of Red."
+        ],
+        [
+            ".working_dir/red_and_fox/character_portraits/1_The Fox/front.png",
+            "A front view portrait of The Fox."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale, Hollywood blockbuster production quality, extreme close-up focused tightly on the faces of the beautiful brunette and the devastatingly handsome man with wolfish features, their features filling the frame due to the closeness. Their breaths are still visible as faint mist condensing in the cool air. The brunette's striking green-hazel eyes are wide with what appears to be intense focus or pained desire, fully illuminated by the dim light, and the man's amber-golden eyes remain intensely fixed on her. The brunette's appearance (face, hair color, hair style, skin tone, eye color, bone structure, and clothing) MUST exactly replicate Image 1. The man's appearance (face, hair color, hair style, skin tone, eye color, bone structure, and clothing) MUST exactly replicate Image 2. The dark fairy tale atmosphere, lighting, and composition (but framed as an extreme close-up as described) should be consistent with Image 0. The final image must maintain the visual style: Photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones and one vivid accent color (Red's crimson cloak), volumetric god rays in forest scenes, warm candlelight interiors with deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture, practical lighting sources (oil lamps, fireplace, lanterns), every surface tactile and weathered (moss, bark, iron, lace, wet stone, velvet), atmospheric fog and rain. NOT cartoon, NOT anime, NOT illustrated, NOT stylized, NOT digital art, NOT 3D render, NOT watercolor, NOT painting."
+}

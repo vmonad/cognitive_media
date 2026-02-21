@@ -1,0 +1,14 @@
+{
+    "idx": 3,
+    "is_last": false,
+    "cam_idx": 3,
+    "visual_desc": "EXTREME CLOSE UP, positioned underneath the floor or within the server core. A hidden THERMAL CHARGE detonates. The visual is dominated by an impossibly bright, crushing pulse of WHITE ENERGY surging upward into the server conduits, completely overwhelming the frame.",
+    "variation_type": "large",
+    "variation_reason": "The shot transitions from a defined, dark, structural environment in an extreme close-up to a complete, overwhelming whiteout where no original visual elements are discernible, signifying a massive shift in the visual information presented.",
+    "ff_desc": "EXTREME CLOSE UP, the camera is positioned underneath a flat surface, perhaps a floor or within a dark server core cavity. The frame is dark, dominated by tight metallic or structural textures implying confined space and technological infrastructure.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "The frame is completely overwhelmed and entirely white due to an intense, crushing pulse of light, completely obliterating any discernible structural details or features of the environment.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "A THERMAL CHARGE detonates. An impossibly bright, crushing pulse of WHITE ENERGY surges upward, rapidly filling and entirely consuming the frame from the bottom to the top, resulting in total visual overexposure.",
+    "audio_desc": "[Sound Effect] A deafening, sharp WHUMP, immediately transitioning into a purely internal, agonizing SCREECHING WHITE STATIC noise."
+}

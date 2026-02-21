@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/2_Morgath/front.png",
+            "CANONICAL front-view portrait of Morgath. This is the definitive reference for this character's face and identity. Devastatingly beautiful real human woman, appears early 40s. Porcelain-pale skin with natural texture. Large dark nearly-black eyes with no warmth. High sharp cheekbones. Full crimson lips. Long straight raven-black hair falling heavy like a curtain. Tall, slender. Wears a fitted black gown with high structured collar embroidered with dark crimson thread. A blood-red jewel hangs on a gold chain around her neck."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/2_Morgath/side.png",
+            "Side-view portrait of Morgath showing profile and body shape. Porcelain-pale skin, large dark nearly-black eyes, high sharp cheekbones, long straight raven-black hair. Tall, slender."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nAn photorealistic medieval fantasy extreme close-up shot with Arri Alexa 65 and Panavision anamorphic lenses, focusing tightly on the face of Morgath. \nMorgath's face, expression, skin texture (porcelain-pale), eye color (large, nearly-black), and long raven-black hair MUST exactly replicate the appearance from Image 1. The character must be recognizably identical to the portrait reference — they are the SAME ACTOR, THE SAME PERSON. \nUse the profile view/body shape information from Image 2 to inform the overall structure, particularly the high, structured black collar.\nSpecifically, the lighting must create deep chiaroscuro shadows, with the lower half of her face in shadow except for a slight reflection of candlewax visible in her eyes. The character MUST look physically embedded in the space. Style must strictly adhere to the visual style directive: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich dark crimson-and-black color scheme, deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. Every surface tactile."
+}

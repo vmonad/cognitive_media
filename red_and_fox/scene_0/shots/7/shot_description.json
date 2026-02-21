@@ -1,0 +1,18 @@
+{
+    "idx": 7,
+    "is_last": false,
+    "cam_idx": 7,
+    "visual_desc": "MEDIUM SHOT FLASHBACK (SCENE 2). <Granny> (Character 2), gaunt and imposing in her dark dress, SLAMS a heavy, leather-bound book shut onto a dark wood table. The camera focuses on the action, then executes a slight, invasive PUSH-IN, tracking tightly onto Young <Red's> face. Her lower lip visibly trembles for a fraction of a second, but her eyes visibly harden, locking down any outward display of tears into a steely gaze. Emotion: the birth of deep-seated hatred. The light from the fire catches the sudden, chilling hardness in her eyes.",
+    "variation_type": "large",
+    "variation_reason": "The shot transitions significantly from a medium shot focusing on an action involving Granny and a table, to a tight close-up primarily focused on Young Red's internal expression change, involving both significant camera movement (push-in) and a distinct shift in subject focus.",
+    "ff_desc": "A photorealistic dark fairy tale medium shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, capturing a dark wood table interior illuminated by warm candlelight with deep chiaroscuro shadows. Gaunt and imperious Granny, wearing a high-collared black Victorian dress, stands over the table, her liver-spotted hands gripping a heavy, leather-bound book. Her thin lips are pressed into a permanent line of disapproval, and her silver-white hair is pulled into a severe tight bun. The shot has a shallow depth of field emphasizing the book and the figures.",
+    "ff_vis_char_idxs": [
+        2
+    ],
+    "lf_desc": "A photorealistic dark fairy tale close-up, shot on Arri Alexa 65 with Panavision anamorphic lenses, focused tightly on the face of Young Red, illuminated by the warm, flickering light from a fire source to the left. Her luminous porcelain skin is visible, and her striking green-hazel eyes are locked in a steely gaze, the lower lip held still, masking any tremor. The background is a soft, creamy anamorphic bokeh of the dark room, with a strong, brief catchlight from the fire reflecting in her pupils. Her beautiful brunette hair frames her face.",
+    "lf_vis_char_idxs": [
+        0
+    ],
+    "motion_desc": "The shot opens with Granny (gaunt and imposing in her dark dress) slamming a heavy, leather-bound book shut onto the dark wood table with force. Following this aggressive action, the camera executes a slight, invasive PUSH-IN, tracking forward and tightening the frame rapidly from the initial medium shot to a close-up focused on the face of Young Red (beautiful brunette with long dark wavy chestnut-brown hair). During the push-in, the lower lip of the young woman visibly trembles momentarily, but her eyes visibly harden, fixing into a steely gaze, indicating the birth of deep-seated hatred reflected by the sudden, chilling hardness catching the firelight in her eyes. The movement is quick and jarring, matching the impact of the book slam.",
+    "audio_desc": "[Sound Effect] The CRACK of the book slamming echoes fiercely, dominating the soundscape, before immediately dropping into silence. [Music Score] Piano cuts out."
+}

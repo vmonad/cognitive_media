@@ -1,0 +1,20 @@
+{
+    "idx": 3,
+    "is_last": true,
+    "cam_idx": 3,
+    "visual_desc": "MEDIUM SHOT - <Morgath> and <Prince Cael>. The camera angle dips slightly low, looking up at <Morgath> as she leans over the gilded crib, entirely abandoning the throne's presence. <Prince Cael> is visible, sleeping soundly in the crib, visible only from the waist up, framed by the ornate gold bars. <Morgath>'s face, pale and sharp, hangs over him. She wears a long black glove, and she gently touches the infant's cheek with a single fingertip. Her crimson lips curl into a terrifying, possessive imitation of affection, her eyes fixed solely on the boy. The amber glow from the book is gone; the lighting is warm, flickering candlelight reflecting off the gold of the crib.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, there are only minor changes in the composition, primarily the subtle motion of the character's facial muscles and hand movement, maintaining the same framing and focus.",
+    "ff_desc": "A photorealistic medieval fantasy medium shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, capturing a low camera angle looking slightly up. The setting is dimly lit by flickering candlelight, emphasizing warm tones and deep chiaroscuro shadows with creamy anamorphic bokeh in the background. The figure with long straight raven-black hair, porcelain-pale skin, and a fitted black gown with a high structured collar, is leaning over a gilded crib. This figure's face, sharp and pale, is partially obscured by shadow cast from above. The infant prince, visible from the waist up and framed by the ornate gold bars of the crib, is sleeping soundly. The figure wears a long black glove on one hand.",
+    "ff_vis_char_idxs": [
+        3,
+        5
+    ],
+    "lf_desc": "A photorealistic medieval fantasy medium shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, capturing a low camera angle looking slightly up. The lighting remains warm, flickering candlelight reflecting off the gold of the crib, maintaining deep chiaroscuro shadows and shallow depth of field. The figure with long straight raven-black hair, porcelain-pale skin, and a fitted black gown, has her crimson lips curled into a fixed, unsettling expression of possessive affection while touching the infant's cheek. The infant prince, visible from the waist up, remains asleep in the gilded crib, framed by the gold bars. The figure's extended hand is still touching the boy's face.",
+    "lf_vis_char_idxs": [
+        3,
+        5
+    ],
+    "motion_desc": "The camera remains static. The figure in the fitted black gown executes a slow, deliberate lowering of her extended hand, clad in the long black glove, until a single fingertip makes light contact with the cheek of the infant prince lying in the gilded crib. This gesture is accompanied by her crimson lips curling slowly into a terrifying, possessive imitation of affection, while her large dark eyes remain fixed solely on the boy. The warm, flickering candlelight catches the gold of the crib framing the sleeping infant. The ambient sound is dominated by the soft crackle of nearby candles, underscored by silence and a very low, menacing cello drone.",
+    "audio_desc": "[Speaker] Morgath (almost a lullaby whisper): \"I will feed you. I will teach you. I will make you love me, little prince. And when the moon rises... you will give me everything.\" [Sound Effect] <Prince Cael>'s soft, contented gurgles. [Score cue] Morgath's cello theme twists into a slow, dark, minor-key lullaby."
+}

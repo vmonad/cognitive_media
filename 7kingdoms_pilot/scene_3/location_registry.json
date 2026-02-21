@@ -1,0 +1,10 @@
+{
+    "throne_room_wide": {
+        "path": ".working_dir/7kingdoms_pilot/scene_3/location_refs/throne_room_wide.png",
+        "description": "Reference establishing shot of location 'throne_room_wide': A vast, oppressive medieval throne room, completely shrouded in darkness. Heavy, floor-to-ceiling black velvet drapes cover all windows, blocking all natural light. Hundreds of thick, black wax candles are irregularly placed around the room, casting flickering, dramatic shadows and an eerie, warm orange-red glow. The royal banners have been replaced entirely by intimidating crimson, embroidered fabric banners displaying Morgath's sinister sigil. The architecture is heavy stone, Gothic in style. Morgath sits on a massive throne forged from dark, pitted iron, adorned with sharp, thorn-like projections. The atmosphere is suffocatingly silent, broken only by the faint crackle of the many candles. Time is indefinable due to the engineered darkness."
+    },
+    "throne_close_up": {
+        "path": ".working_dir/7kingdoms_pilot/scene_3/location_refs/throne_close_up.png",
+        "description": "Reference establishing shot of location 'throne_close_up': A tightly focused shot on an ancient, enormous, leather-bound book resting open on a heavy stone or dark wood pedestal. The script on the thick, yellowed pages emits a vibrant, sickly, internal phosphorescent green light. This green luminescence strongly illuminates the immediate area, catching the texture of the iron thorns on Morgath's crown and reflecting sharply in her dark eyes. The background is deep, heavy shadow, emphasizing the book's magical source of light. Scene atmosphere is intensely focused and arcane."
+    }
+}

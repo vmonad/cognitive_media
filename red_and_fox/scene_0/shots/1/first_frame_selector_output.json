@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/character_portraits/0_Red/side.png",
+            "A side view portrait of Red."
+        ],
+        [
+            ".working_dir/red_and_fox/character_portraits/1_The Fox/side.png",
+            "A side view portrait of The Fox."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_exterior_dusk.png",
+            "Reference establishing shot of location 'cottage_exterior_dusk': An isolated, menacing cottage viewed during the golden hour as dusk settles. The structure features ivy-covered stone walls and a crooked chimney trailing thin, pale smoke. The architecture appears old and neglected. Dead roses cling to the overgrown garden surrounding the house. A single, dim, warm-toned lantern casts a small pool of light near the heavy oak front door. The atmosphere is one of lonely menace under a darkening sky."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description, adhering strictly to the visual style of Photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones and one vivid accent color (Red's crimson cloak), volumetric god rays in forest scenes, warm candlelight interiors with deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture, practical lighting sources (oil lamps, fireplace, lanterns), every surface tactile and weathered (moss, bark, iron, lace, wet stone, velvet), atmospheric fog and rain.\n\nA photorealistic dark fairy tale EXTREME CLOSE-UP, shot on Arri Alexa 65 with Panavision anamorphic lenses. The frame is dominated by a black-gloved hand, belonging to the man (The Fox) whose appearance, specifically his reddish-brown tousled hair and auburn fur-trimmed coat, should reference Image 1. The hand is pressing a small, corked glass vial containing a dark liquid firmly into the bare, porcelain palm of the beautiful brunette (Red) wearing a deep blood-crimson velvet hooded cloak. Red's general appearance and crimson cloak should reference Image 0. The contrast between the oiled black leather glove and the luminous skin is stark. The lighting is dim twilight, referencing the mood of Image 3 (dusk/low light setting). The shallow depth of field produces creamy bokeh on the indiscernible, mossy background structure, which should echo the dark, weathered surfaces seen in Image 3. Red's hand is held open and still. Ensure the characters are placed at correct proportional scale, although this is an extreme close-up, and that lighting on the hands matches the dim twilight environment with deep chiaroscuro shadows."
+}

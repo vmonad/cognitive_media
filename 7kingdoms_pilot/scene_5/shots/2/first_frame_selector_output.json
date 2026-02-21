@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/front.png",
+            "CANONICAL front-view portrait of Queen Lyara. This is the definitive reference for this character's face and identity. A beautiful woman with olive skin and amber eyes. Resilient in appearance. Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/side.png",
+            "Side-view portrait of Queen Lyara showing profile and body shape. A beautiful woman with olive skin and amber eyes. Resilient in appearance."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_5/shots/2/new_camera_2.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The specific dialogue delivery, detailed facial expressions of Lyara, and the focused actions of Elara (clutching skirt)..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy medium shot, slightly lower than eye-level, focused on one figure. The figure's appearance (face, skin tone, hair style) MUST exactly replicate the features of Queen Lyara from Image 1. The posture, rigid stance, and overall figure silhouette MUST replicate the composition and pose of the figure on the left in Image 4, but the facial expression must be replaced to show deep lines of stress and suppressed pain around the eyes, with closed lips, reflecting a set expression, while retaining the olive skin and amber eyes from Image 1. This figure MUST be wearing the dark, practical peasant garb described for Queen Lyara in Image 1's description, not the outfit in Image 4. The lighting on the figure must match the warm, shifting forest light seen in Image 4, emphasizing strong backlighting and dappled shadows. The background should be the forest setting of Image 4, rendered with a shallow depth of field and creamy anamorphic bokeh. The texture of the rough wool garment must contrast with the velvet green moss in the background. The overall style MUST adhere to the high-quality photorealistic medieval fantasy look described in the visual style directive, including deep chiaroscuro shadows and 35mm film grain texture, shot on Arri Alexa 65 with Panavision anamorphic lenses."
+}

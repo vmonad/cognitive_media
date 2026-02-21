@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_exterior_rain_storm.png",
+            "Reference establishing shot of location 'cottage_exterior_rain_storm': The cottage exterior during a violent, heavy downpour at night. Rain hammers the thatched roof in continuous sheets, causing the surrounding path to turn to mud. A flash of lightning briefly scrapes stark light across the wet, dark stonework walls and enhances the appearance of the sodden, dead garden. The atmosphere is chaotic, loud, and metaphoric of severe consequence."
+        ],
+        [
+            ".working_dir/red_and_fox/character_portraits/0_Red/front.png",
+            "A front view portrait of Red."
+        ],
+        [
+            ".working_dir/red_and_fox/character_portraits/1_The Fox/front.png",
+            "A front view portrait of The Fox."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale silhouette shot captured from a dark, dry vantage point inside a cottage, looking out through a window filled with dim, rain-streaked interior light. The visual style must adhere to the Photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones and one vivid accent color (Red's crimson cloak), volumetric god rays in forest scenes, warm candlelight interiors with deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture, practical lighting sources (oil lamps, fireplace, lanterns), every surface tactile and weathered (moss, bark, iron, lace, wet stone, velvet), atmospheric fog and rain.\n\nTwo figures stand side-by-side as sharp, dark outlines against the muted background light. The first figure, wearing a deep blood-crimson velvet hooded cloak, should reference Image 2 (Red's appearance). The second figure, wearing a long dark charcoal coat trimmed in auburn fox fur, should reference Image 3 (The Fox's appearance).\n\nBeyond them, framed by the window, the backdrop is the dark, rain-swept forest exterior, which should reference the atmosphere and rain/darkness of Image 0.\n\nThe composition must emphasize the sharp contrast of the interior silhouettes against the exterior gloom. The figures inside must appear as strong silhouettes backlit by the window light. The external forest scene should convey heavy rain and darkness, matching the mood of Image 0. Ensure correct proportional scale and that lighting on the internal silhouettes is primarily backlighting from the window, while the exterior details are lit by the storm/moonlight visible through the window."
+}

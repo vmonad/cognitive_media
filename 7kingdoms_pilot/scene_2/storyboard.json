@@ -1,0 +1,37 @@
+[
+    {
+        "idx": 0,
+        "is_last": false,
+        "cam_idx": 0,
+        "visual_desc": "BLACK SCREEN. The visual texture of fine, aged film grain is immediately apparent.\n\nNARRATOR (V.O.) (deep, aged male voice, like a historian telling a legend) says: \"The Queen fled through the veins of the old castle — passages built a thousand years ago for this very purpose. She carried her daughter, and left her son behind. It was the choice that would haunt her for eighteen years.\"",
+        "audio_desc": "[Narrator] Deep, aged male voice, like a historian telling a legend: \"The Queen fled through the veins of the old castle — passages built a thousand years ago for this very purpose. She carried her daughter, and left her son behind. It was the choice that would haunt her for eighteen years.\"[Audio Score] Faint, echoing mournful strings begin, emphasizing the gravity and time passed."
+    },
+    {
+        "idx": 1,
+        "is_last": false,
+        "cam_idx": 1,
+        "visual_desc": "FADE IN to UNDER CASTLE TUNNELS - NIGHT. A tight tracking shot follows <Queen Lyara>, <Sir Aldren>, and the infant <Elara (Infant)>. The environment is claustrophobic, illuminated by the flickering, erratic light of a sputtering torch held by <Sir Aldren> (positioned slightly ahead on the left). The stone walls are visibly dripping, covered in dark, clinging moss. The camera is low, emphasizing the desperate downward movement. <Queen Lyara> is centered, clutching <Elara (Infant)> tightly to her chest, her eyes wide with fear but set with resolve. The lighting casts deep chiaroscuro shadows on the wet rock, highlighting every pore and streak of grime on <Queen Lyara>'s face. Shallow depth of field blurs the immediate foreground stone.",
+        "audio_desc": "[Sound Effect] Constant, irregular dripping of water echoes in the confined space. Heavy, ragged breathing from <Sir Aldren> and <Queen Lyara>. The faint, stifled whimpers of <Elara (Infant)> are audible but muffled by the swaddling. In the far distance, very muffled shouts and the metallic clash of fighting briefly intrude, then fade. [Audio Score] Low, tense drone, heartbeat-like pulse."
+    },
+    {
+        "idx": 2,
+        "is_last": false,
+        "cam_idx": 2,
+        "visual_desc": "CLOSE UP on <Queen Lyara>'s face. The sputtering torchlight (positioned low and slightly to the right) catches the grime and tear tracks on her olive skin, making her amber eyes appear intensely bright, like obsidian reflecting firelight. Her jaw is visibly clenched, a tremor barely visible in her lower lip. She is turned slightly toward the swaddled infant, her focus absolute. Her posture is taut, bracing against an unseen weight or danger.\n\n<Queen Lyara> (Whispering fiercely to the infant) says: \"I will come back for him. I swear it. On your father's name, I swear it.\"",
+        "audio_desc": "[Speaker] Queen Lyara (Whispering fiercely, voice raw with forced control): \"I will come back for him. I swear it. On your father's name, I swear it.\"[Sound Effect] Her ragged, shallow breathing dominates the foreground soundscape. The background noise of dripping water is reduced to a distant echo. [Audio Score] A single, high-pitched, sustained violin note held tightly, vibrating with tension."
+    },
+    {
+        "idx": 3,
+        "is_last": false,
+        "cam_idx": 3,
+        "visual_desc": "WIDE SHOT. The camera is positioned looking out from the tunnel exit. <Queen Lyara>, <Sir Aldren>, and <Elara (Infant)> burst forward onto a forest floor completely covered in thick, cold, white mist that obscures the ground beyond a few feet. A low, rough stone archway frames their exit. High on a distant ridge against the lightening grey sky, the silhouette of a large castle is clearly outlined by deep orange and red flames licking its structure. <Sir Aldren>, rugged in his muddied armor, immediately drops into a defensive crouch, facing away from the camera and toward the exposed ridge. <Queen Lyara> looks back briefly toward the burning keep before looking down at the sleeping infant in her arms. The light is cold, transitioning from night black to the pale blue-grey of pre-dawn, heavily diffused by the mist and smoke.\n\n<Sir Aldren> (kneeling, gruff, looking only at the path ahead) says: \"Your Grace, the Witch will search every road and every village. We must become no one. The girl must never know who she is — not until she's ready.\"\n\n<Queen Lyara> (looking at the sleeping infant, then at the burning keep, a heavy nod) says: \"She will know. When the time comes, she will know everything.\"",
+        "audio_desc": "[Sound Effect] The heavy, wet earth of the forest floor beneath their feet. Birdsong begins tentatively to mingle with the very faint, dry crackle of the distant castle fire. [Speaker] Sir Aldren (Gruff, utterly practical): \"Your Grace, the Witch will search every road and every village. We must become no one. The girl must never know who she is — not until she's ready.\" [Speaker] Queen Lyara (Voice filled with weary certainty): \"She will know. When the time comes, she will know everything.\"[Audio Score] The lonely strings motif established earlier swells slightly, marked by emerging woodwinds suggesting the vastness of the forest."
+    },
+    {
+        "idx": 4,
+        "is_last": true,
+        "cam_idx": 4,
+        "visual_desc": "MEDIUM LONG SHOT from behind <Queen Lyara> and <Sir Aldren>, slightly above eye level (Dutch angle minimized to emphasize journey). <Sir Aldren> moves efficiently, positioning himself slightly in front of and covering <Queen Lyara>, who holds the swaddled <Elara (Infant)>. They are walking directly away from the camera, their figures rapidly swallowed by the dense, impenetrable white mist that hugs the forest floor. The only visible texture remaining is the pale, slightly yellowish light filtering down from the bruised dawn sky above the fog line. The camera remains static, holding on the shrinking silhouettes.\n\nNARRATOR (V.O.) (deep, aged male voice, like a historian telling a legend) says: \"And so the Queen of Seven Kingdoms became a peasant woman with no name, raising a princess who thought she was nobody.\"",
+        "audio_desc": "[Sound Effect] The footsteps of <Sir Aldren> and <Queen Lyara> quickly dampen and disappear entirely as they enter the core of the mist. Only the ambient chirping of birds remains for a moment. [Narrator] Deep, aged male voice, like a historian telling a legend: \"And so the Queen of Seven Kingdoms became a peasant woman with no name, raising a princess who thought she was nobody.\"[Audio Score] The lonely string score gently fades into quiet resignation, concluding on a final, soft decay before total silence."
+    }
+]

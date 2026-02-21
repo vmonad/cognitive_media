@@ -1,0 +1,21 @@
+{
+    "idx": 14,
+    "is_last": false,
+    "cam_idx": 14,
+    "visual_desc": "EXT. RUINS - FORGED ALLIANCE. Quick, intense sequence: <Queen Sera> and <The Wolf> lock eyes across the chaotic battlefield where the undead surge. They exchange a sharp, grim nod of necessity. They simultaneously plunge into the surging tide of the undead, initiating desperate, violent hand-to-hand combat against decaying bone.",
+    "variation_type": "medium",
+    "variation_reason": "The primary focus shifts rapidly from an intense standoff between two characters to immediate, violent action involving them and a third group, resulting in a significant change in the action depicted within the shot frame.",
+    "ff_desc": "EXT. RUINS - FORGED ALLIANCE. A chaotic battlefield setting is visible, filled with the surging tide of the Skeletal Legion (The Risen Dead). In the foreground, Queen Sera, armored in polished obsidian, and The Wolf, a savage-looking warrior with a scarred face, stand opposite each other, locked in an intense eye contact across the melee.",
+    "ff_vis_char_idxs": [
+        1,
+        3
+    ],
+    "lf_desc": "EXT. RUINS - FORGED ALLIANCE. The chaotic battlefield is still visible, though now dominated by the violent, immediate melee. Queen Sera, armored in polished obsidian, and The Wolf, the savage-looking warrior with a scarred face, are deeply engaged in hand-to-hand combat against the Skeletal Legion (The Risen Dead), which is composed of decaying bone.",
+    "lf_vis_char_idxs": [
+        1,
+        3,
+        5
+    ],
+    "motion_desc": "The camera remains static, capturing the intense standoff. Queen Sera (armored in polished obsidian) and The Wolf (a savage-looking warrior with a scarred face) exchange a sharp, grim nod. Immediately following the nod, both figures simultaneously plunge into the surging tide of the Skeletal Legion (The Risen Dead), initiating desperate, violent hand-to-hand combat against the decaying bone forms.",
+    "audio_desc": "[Music] War theme returns, elevated to a frantic speed. [Sound Effect] Clashing steel and breaking bone."
+}

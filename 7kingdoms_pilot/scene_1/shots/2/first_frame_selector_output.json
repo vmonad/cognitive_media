@@ -1,0 +1,21 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/scene_1/location_refs/throne_room.png",
+            "Reference establishing shot of location 'throne_room': A vast, oppressive medieval throne room at deep night. The architecture features high vaulted ceilings supported by massive stone pillars draped with heavy, richly colored tapestries (now being slashed). The floor is polished dark marble reflecting the flickering light of numerous braziers and wall sconces, which cast long, dramatic, high-contrast shadows across the scene. The atmosphere is one of sudden, brutal chaos—overturned heavy wooden furniture (thrones, tables) made of dark oak and gilded metal litter the floor. The air feels thick with dust and violence. Weather is irrelevant as the scene is entirely indoors, but the lighting suggests stormy nighttime conditions outside, though we don't see it."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/front.png",
+            "CANONICAL front-view portrait of King Edran. This is the definitive reference for this character's face and identity. A man with a strong, weathered face and deep brown eyes. He possesses an air of authority. Wearing a silver-threaded Crown of Sevens; dressed in practical armor."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/side.png",
+            "Side-view portrait of King Edran showing profile and body shape. A man with a strong, weathered face and deep brown eyes. Practical armor with fur-trimmed cloak."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/back.png",
+            "Back-view portrait of King Edran showing hair, clothing, and silhouette from behind. Practical armor with fur-trimmed cloak."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description, adhering to the visual style: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. \n\nA photorealistic medieval fantasy wide shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, capturing the THRONE ROOM at night. The environment should reference Image 0, maintaining the vast, oppressive architecture, high vaulted ceilings, massive stone pillars, and dramatic, high-contrast lighting from flickering braziers and sconces casting long, chaotic shadows. The overturned heavy wooden furniture and slashed tapestries must match the look and damage depicted in Image 0. The lighting on all characters must match the flickering, urgent, chaotic shadows of the throne room in Image 0.\n\nIn the left half of the frame, KING EDRAN is rising abruptly from the throne, his body tense, currently in the act of drawing a heavy sword, facing toward the center-right. King Edran's entire appearance (face, body shape, armor, cloak, and the silver-threaded Crown of Sevens) MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 1. His posture and action (rising to draw a sword) should be executed with the tense energy implied by his armored silhouette, referencing the practical armor and fur-trimmed cloak seen in Image 1, 2, and 3. The proportions must ensure he is correctly scaled for this wide shot within the environment of Image 0.\n\nSeveral shadowy figures in deep black practical garb are visible, surging from surrounding corners and recesses. The shot must exhibit a slight handheld vibration. The overall aesthetic must be photorealistic, with genuine textures (wood, armor, stone, fur), deep chiaroscuro shadows, and 35mm film grain texture, strictly avoiding any look of CGI render or polished fantasy."
+}

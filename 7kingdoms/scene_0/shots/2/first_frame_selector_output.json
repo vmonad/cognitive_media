@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/0_King Aldric/front.png",
+            "A front view portrait of King Aldric."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nExtreme close-up shot focusing tightly on the eyes of a character. The eyes are wide, bloodshot, and convey sharp horror. The lighting is dim, suggesting a candlelit environment. The character's head/eyes should reference King Aldric's appearance in Image 0."
+}

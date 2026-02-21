@@ -1,0 +1,19 @@
+{
+    "idx": 8,
+    "is_last": true,
+    "cam_idx": 8,
+    "visual_desc": "EXTREME CLOSE UP on <MORGATH>'s face. Her pale, porcelain skin contrasts sharply with the shadow cast by her high collar. Her large, nearly-black eyes are focused downward with an unsettling, calculated stillness. Her full crimson lips curve into a slow, predatory smile—the first true expression seen on her face, but it holds no warmth. She gently scoops up <INFANT PRINCE CAEL> who is wailing just out of frame at first, but now his tiny fist enters the foreground, clenched. The shot is tight enough to see the subtle texture of her skin and the reflection of candlewax in her dark eyes.",
+    "variation_type": "medium",
+    "variation_reason": "Compared to the first frame, a new element (the infant's fist) enters the foreground significantly, and the central character's expression transitions from stillness to a distinct, active smile, changing the emotional content without a major change in camera framing or position.",
+    "ff_desc": "A photorealistic medieval fantasy extreme close-up, shot with Arri Alexa 65 and Panavision anamorphic lenses, focusing tightly on the face of the slender woman with porcelain-pale skin and long raven-black hair. The lighting deepens the shadows cast by her high, structured black collar, leaving the lower half of her face in shadow except for the slight reflection of candlewax visible in her large, nearly-black eyes, which are fixed downward with unsettling stillness. A 35mm film grain texture is visible. Ambient sound is low; the only score element is a silence pregnant with anticipation.",
+    "ff_vis_char_idxs": [
+        2
+    ],
+    "lf_desc": "A photorealistic medieval fantasy extreme close-up, shot with Arri Alexa 65 and Panavision anamorphic lenses, focused tightly on the face of the slender woman with porcelain-pale skin and long raven-black hair. Her facial plane is now dominated by a slow, predatory smile curving her full crimson lips. Her large, nearly-black eyes still reflect candlewax, but the unsettling, calculated stillness in her gaze is replaced by a look of cold satisfaction. In the immediate foreground, partially obscuring the woman's jawline, is the clenched fist of an infant. The lighting emphasizes the texture of her face skin and the rich blacks of her attire, maintaining deep chiaroscuro shadows. Ambient sound is low; the only score element is a silence pregnant with anticipation.",
+    "lf_vis_char_idxs": [
+        2,
+        5
+    ],
+    "motion_desc": "The camera remains static throughout the shot, locked in a very tight composition. Initially, the focus is solely on the beautiful woman's face. Then, the movement of a small element occurs: a tiny, clenched fist belonging to the wailing infant, previously just out of frame, enters the foreground compositionally from the bottom edge of the frame. Simultaneously, the beautiful woman with porcelain-pale skin slowly permits her full crimson lips to curve upward into a predatory smile. The visual mood is cold and rich dark crimson-and-black, lit by implied candlewax, showcasing deep chiaroscuro shadows and tactile skin texture.",
+    "audio_desc": "[Sound Effect] The wailing of <INFANT PRINCE CAEL> is abruptly muffled as he is lifted. [Score] Morgath's dark, seductive cello motif swells slightly, dominating the soundscape for the final moment."
+}

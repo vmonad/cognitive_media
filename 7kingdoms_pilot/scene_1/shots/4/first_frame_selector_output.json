@@ -1,0 +1,21 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/scene_1/location_refs/throne_room.png",
+            "Reference establishing shot of location 'throne_room': A vast, oppressive medieval throne room at deep night. The architecture features high vaulted ceilings supported by massive stone pillars draped with heavy, richly colored tapestries (now being slashed). The floor is polished dark marble reflecting the flickering light of numerous braziers and wall sconces, which cast long, dramatic, high-contrast shadows across the scene. The atmosphere is one of sudden, brutal chaos—overturned heavy wooden furniture (thrones, tables) made of dark oak and gilded metal litter the floor. The air feels thick with dust and violence. Weather is irrelevant as the scene is entirely indoors, but the lighting suggests stormy nighttime conditions outside, though we don't see it."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/front.png",
+            "CANONICAL front-view portrait of King Edran. This is the definitive reference for this character's face and identity. A man with a strong, weathered face and deep brown eyes. He possesses an air of authority. Wearing a silver-threaded Crown of Sevens; dressed in practical armor."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/side.png",
+            "Side-view portrait of King Edran showing profile and body shape. A man with a strong, weathered face and deep brown eyes. Practical armor with fur-trimmed cloak."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/0_King Edran/back.png",
+            "Back-view portrait of King Edran showing hair, clothing, and silhouette from behind. Practical armor with fur-trimmed cloak."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy, HBO prestige television quality, extreme close-up, low angle shot, focused precisely on the last bead of sweat clinging to the blurred, dying eye of King Edran. The lighting is harsh and localized, emphasizing the wet reflection on the skin, suggesting a close proximity to a strong light source like firelight, contrasted by deep chiaroscuro shadows. Only the skin texture around the eye and the crown's edge are marginally in sharp focus, the rest is deep, creamy anamorphic bokeh, rich with 35mm film grain texture. The setting should be the vast, oppressive medieval throne room at deep night, referencing Image 0 for the environment. King Edran MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 1. The Crown of Sevens and practical armor MUST specifically reference Image 1. The body posture and general silhouette and cloak detail viewed from the side should reference Image 2, and the back silhouette reference, especially the fur collar and cloak drape, should reference Image 3. Lighting on King Edran MUST match the harsh, localized firelight/brazier light sources seen in Image 0, creating deep chiaroscuro shadows. Characters must be placed at correct proportional scale within the environment, although this is an extreme close-up. The visual style MUST be: Photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Real human actors in practical costumes — genuine leather, real chainmail, wool, silk, mud, rust, sweat. Natural skin with pores, imperfections, scars, freckles, and weathering. Real weather — mist, firelight, torchlight, dawn light. Warm golden palette for the peaceful kingdom, cold blue-grey for the coup and escape, rich dark crimson-and-black for the Witch's scenes, warm earthy tones for the village, luminous golden light for magic scenes. Deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. Every surface tactile — stone, iron, parchment, silk, fur, wet rock, candlewax. NOT video game, NOT CGI render, NOT digital art, NOT World of Warcraft, NOT clean fantasy, NOT anime, NOT cartoon, NOT illustrated, NOT stylized, NOT 3D render, NOT Unreal Engine, NOT polished/perfect skin, NOT plastic armor, NOT oversaturated colors."
+}

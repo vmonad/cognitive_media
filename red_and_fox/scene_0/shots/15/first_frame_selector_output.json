@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_exterior_rain_storm.png",
+            "Reference establishing shot of location 'cottage_exterior_rain_storm': The cottage exterior during a violent, heavy downpour at night. Rain hammers the thatched roof in continuous sheets, causing the surrounding path to turn to mud. A flash of lightning briefly scrapes stark light across the wet, dark stonework walls and enhances the appearance of the sodden, dead garden. The atmosphere is chaotic, loud, and metaphoric of severe consequence."
+        ]
+    ],
+    "text_prompt": "Create a photorealistic dark fairy tale establishing shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, of the cottage exterior during a sudden, heavy downpour, matching the style of Image 5. The shot must be taken from a very LOW ANGLE across a muddy path, looking up toward the cottage. Frame the splintered, partially open front door near the bottom left. The cottage's stone walls should rise dramatically, heavily detailed with moss and water runoff, similar to the texture in Image 5. Rain must hammer the thatched roof in dense, streaking sheets, creating a highly tactile texture. A brilliant flash of LIGHTNING must momentarily illuminate the wet stone walls and the sodden, dead garden, casting sharp, momentary highlights on the weathered stone surfaces, as seen in the lightning effects in Image 5. No characters are visible. The lighting and atmosphere must conform to the visual style directive, emphasizing tactile surfaces and anamorphic bokeh effects not present in the reference, but implied by the style."
+}

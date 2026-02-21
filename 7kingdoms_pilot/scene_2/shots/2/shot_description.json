@@ -1,0 +1,20 @@
+{
+    "idx": 2,
+    "is_last": false,
+    "cam_idx": 2,
+    "visual_desc": "CLOSE UP on <Queen Lyara>'s face. The sputtering torchlight (positioned low and slightly to the right) catches the grime and tear tracks on her olive skin, making her amber eyes appear intensely bright, like obsidian reflecting firelight. Her jaw is visibly clenched, a tremor barely visible in her lower lip. She is turned slightly toward the swaddled infant, her focus absolute. Her posture is taut, bracing against an unseen weight or danger.\n\n<Queen Lyara> (Whispering fiercely to the infant) says: \"I will come back for him. I swear it. On your father's name, I swear it.\"",
+    "variation_type": "small",
+    "variation_reason": "This shot only shows the Queen speaking and the subtle tension in her facial expression and posture, thus the variation type is small. The camera is static, and the focus remains tightly on her face and the presence of the infant.",
+    "ff_desc": "A photorealistic medieval fantasy CLOSE UP shot, captured with an Arri Alexa 65 and Panavision anamorphic lenses, emphasizes the face of the woman in dark, practical peasant garb. The low, slightly right-positioned sputtering torchlight creates deep chiaroscuro shadows, catching the grime and tear tracks on her olive skin. Her amber eyes appear intensely bright, like polished obsidian reflecting firelight. Her jaw is visibly clenched, with a slight tremor in her lower lip. She is angled slightly toward a swaddled infant positioned just out of frame, her focus absolute, her posture taut against an unseen danger. The 35mm film grain texture is visible, and the shallow depth of field blurs the immediate background into creamy bokeh.",
+    "ff_vis_char_idxs": [
+        1,
+        4
+    ],
+    "lf_desc": "A photorealistic medieval fantasy CLOSE UP shot, captured with an Arri Alexa 65 and Panavision anamorphic lenses, frames the face of the woman in dark, practical peasant garb. The sputtering torchlight, still low and to the right, illuminates her olive skin, highlighting the residue of tears. Her amber eyes remain intensely focused. Her jaw is still clenched, but the tremor in her lower lip has ceased. The focus remains absolute on the unseen swaddled infant off-camera, though her body posture appears infinitesimally fractionally less rigid than before. The visible dust motes and fine film grain texture remain present.",
+    "lf_vis_char_idxs": [
+        1,
+        4
+    ],
+    "motion_desc": "Static camera. The Queen (beautiful woman with olive skin and amber eyes, wearing dark, practical peasant garb) leans in very close to the swaddled infant (Elara (Infant)). She speaks in a low volume; the Queen whispers fiercely to the infant, saying: \"I will come back for him. I swear it. On your father's name, I swear it.\" Her voice is hushed and urgent. The ambient sound is dominated by the crackling and sputtering of the nearby torch. The score consists of a low, tense, single cello note vibrating underneath the dialogue, emphasizing the desperate promise. There is no discernible camera or subject movement other than the minimal, tense tightening of the subject's facial and neck musculature as she delivers her oath.",
+    "audio_desc": "[Speaker] Queen Lyara (Whispering fiercely, voice raw with forced control): \"I will come back for him. I swear it. On your father's name, I swear it.\"[Sound Effect] Her ragged, shallow breathing dominates the foreground soundscape. The background noise of dripping water is reduced to a distant echo. [Audio Score] A single, high-pitched, sustained violin note held tightly, vibrating with tension."
+}

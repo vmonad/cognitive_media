@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/1_Queen Sera/front.png",
+            "A front view portrait of Queen Sera."
+        ],
+        [
+            ".working_dir/7kingdoms/scene_0/shots/7/new_camera_7.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The specific cavalry action and Sera's forward charge..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nA low angle shot capturing the front rank of a heavily armored cavalry formation moving rapidly forward in the Southern Plains during the day, generating vast clouds of choking dust. This scene should reference Image 1. At the absolute front is Queen Sera, heavily armored in polished obsidian, riding powerfully and holding her long sword so it arcs silver. Queen Sera's appearance and armor should reference Image 0, while her posture and the action of riding powerfully should reference the central figure in Image 1."
+}

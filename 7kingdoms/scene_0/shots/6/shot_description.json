@@ -1,0 +1,18 @@
+{
+    "idx": 6,
+    "is_last": false,
+    "cam_idx": 6,
+    "visual_desc": "EXT. EASTERN MOUNTAIN PASS - DAY. Medium shot focused on <Prince Kael> observing from a high, secure battlement. His expression is cold calculation. In the background, his forces operate massive CATAPULTS firing projectiles glowing with trapped blue energy that smash stone fortifications. The action is precise and tactical.",
+    "variation_type": "small",
+    "variation_reason": "This shot maintains a static frame and focus on the character characterized by brilliant and ambitious strategic thinking, with only the action of the siege weapons in the background providing continuous, repeated motion. Therefore, the variation type is small.",
+    "ff_desc": "EXT. EASTERN MOUNTAIN PASS - DAY. A medium shot. The scene is dominated by a high, secure battlement where a figure is silhouetted against the daylight. This figure, dressed in attire suggesting high status, maintains a posture of cold calculation while observing a vast battle unfolding below. In the background, large siege weapons are visible, actively launching projectiles marked by a trapped blue energy that impact stone fortifications. The overall lighting is harsh daylight, emphasizing the tactical nature of the engagement.",
+    "ff_vis_char_idxs": [
+        2
+    ],
+    "lf_desc": "EXT. EASTERN MOUNTAIN PASS - DAY. A medium shot focused on the high, secure battlement. The figure, exhibiting the visual characteristics of the ambitious strategist, remains visible, the look of cold calculation still etched on his face. Behind him, the massive CATAPULTS continue to operate, firing projectiles glowing with trapped blue energy that strike and destroy stone fortifications with precision.",
+    "lf_vis_char_idxs": [
+        2
+    ],
+    "motion_desc": "The camera remains static, maintaining the medium shot over the battlement. The figure characterized by brilliant and ambitious strategic thinking maintains his stance as the observation continues. In the background, the catpults operated by the forces associated with the strategist continue their rhythm, firing the glowing blue energy projectiles as they impact and shatter the stone fortifications.",
+    "audio_desc": "[Sound Effect] Heavy, rhythmic bombardment and sharp, tactical commands."
+}

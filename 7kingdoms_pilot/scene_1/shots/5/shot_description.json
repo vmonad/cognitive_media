@@ -1,0 +1,22 @@
+{
+    "idx": 5,
+    "is_last": false,
+    "cam_idx": 5,
+    "visual_desc": "MEDIUM SHOT at eye level capturing <SIR ALDREN> and <QUEEN LYARA> near a shadowed wall archway on the lower left. <SIR ALDREN> (scarred, gruff, armor now marred) slams powerfully into <QUEEN LYARA>, effectively pinning her against the stone wall as he yanks her upright. <QUEEN LYARA> is clutching the swaddled <INFANT PRINCESS ELARA> tightly to her chest with one arm, her other hand reaching desperately back toward the unseen center of the room. <SIR ALDREN> (gruff, anguished whisper) says: \"We cannot, Your Grace! The passage now!\" <QUEEN LYARA> (thrashing, reaching back desperately) says: \"My son! Cael is still in his crib!\"",
+    "variation_type": "small",
+    "variation_reason": "This shot primarily involves dynamic physical interaction between two existing characters and minimal environmental change or introduction/exit of characters. The changes are focused on posture, immediate action, and dialogue, fitting the definition of small variation.",
+    "ff_desc": "A photorealistic medieval fantasy medium shot at eye level, framed with creamy anamorphic bokeh, capturing a scarred Knight in muddied armor and a resilient woman with olive skin and amber eyes near a shadowed stone wall archway on the lower left. The Knight stands aggressively over the woman, who is clutching a swaddled infant princess tightly to her chest with one arm. The Knight is wearing scratched and muddied armor. The woman is dressed in dark, practical peasant garb. Deep shadows underscore the texture of the stone wall behind them, lit by a cold blue-grey light suggesting a coup or escape. The ambient sound is dominated by the low, tense drone of a score.",
+    "ff_vis_char_idxs": [
+        3,
+        1,
+        4
+    ],
+    "lf_desc": "A photorealistic medieval fantasy medium shot at eye level, revealing the scarred Knight in muddied armor standing rigidly, having pushed the woman against the stone wall archway on the lower left. The woman with olive skin and amber eyes is pressed hard against the cold stone, still clutching the swaddled infant princess to her chest with one arm, her free hand stretched back desperately towards the unseen center of the room. The Knight's armor is visibly marred. The cold blue-grey light maintains the atmosphere of urgency. The ambient sound includes the low, tense drone of a score.",
+    "lf_vis_char_idxs": [
+        3,
+        1,
+        4
+    ],
+    "motion_desc": "The camera remains static at eye level. The scarred Knight in muddied armor grabs the woman and pushes her toward a stone archway. The woman clutches a swaddled infant to her chest and thrashes, reaching back desperately. The Knight holds her firmly and pulls her toward the passage. The visual mood is tense and urgent, underlined by a low cello drone score.",
+    "audio_desc": "[Speaker] Sir Aldren, the scarred Knight (gruff, anguished whisper): Hurry, Lyara! You must — for the child! The passage, now! [Speaker] Queen Lyara, the woman with olive skin (sharp desperation, thrashing): My son! Cael is still in his crib! [Sound Effect] Grunts of exertion, armor scraping. Distant sounds of upheaval. [Score] Minor key strings creep in."
+}

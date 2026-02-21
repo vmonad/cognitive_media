@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_interior_granny_room.png",
+            "Reference establishing shot of location 'cottage_interior_granny_room': The interior of the cottage at night, lit primarily by the low, dying orange embers in the fireplace. Granny sits in a heavy, dark wood rocking chair, which is slowly moving. In the shadows, a dark wood table is visible where a heavy leather book rests. The mood is claustrophobic, dominated by the dying firelight and deep shadows. A large grandfather clock is present, likely standing sentinel."
+        ],
+        [
+            ".working_dir/red_and_fox/character_portraits/2_Granny/front.png",
+            "A front view portrait of Granny."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale CLOSE-UP, shot with anamorphic lenses creating shallow depth of field and creamy bokeh, of Granny's face. Her appearance, including her tight silver-white bun and facial features showing liver spots, should reference Image 1. Granny is seated in a rocking chair, which should reference the one in Image 0. The composition is tight, focused entirely on her features. She is half-illuminated by the warm, flickering orange light emanating from dying embers barely visible out of frame to one side, casting deep chiaroscuro shadows across her features, matching the lighting style of Image 0. Her deep-set ice-blue eyes are wide open, exhibiting sharp, cold recognition—her thin lips pressed into a firm, bloodless line, showing no overt panic but intense focus. Her posture, perceived through the tightness of her facial muscles, is ramrod straight. The environment inferred should be the 'cottage_interior_granny_room' from Image 0, maintaining the dark, claustrophobic mood and dark wood textures, but heavily cropped for the close-up. The visual style must be photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones, warm candlelight interiors with deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, and 35mm film grain texture. Ensure Granny is proportionally correct for a close-up shot incorporating the environmental lighting."
+}

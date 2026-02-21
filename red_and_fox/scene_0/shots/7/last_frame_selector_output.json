@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/character_portraits/0_Red/front.png",
+            "A front view portrait of Red."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/shots/7/first_frame.png",
+            "A photorealistic dark fairy tale medium shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, capturing a dark wood table interior illuminated by warm candlelight with deep chiaroscuro shadows. Gaunt and imperious Granny, wearing a high-collared black Victorian dress, stands over the table, her liver-spotted hands gripping a heavy, leather-bound book. Her thin lips are pressed into a permanent line of disapproval, and her silver-white hair is pulled into a severe tight bun. The shot has a shallow depth of field emphasizing the book and the figures."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale close-up, shot on Arri Alexa 65 with Panavision anamorphic lenses, focused tightly on the face of Young Red. Young Red MUST exactly replicate the face, hair color, hair style, skin tone, eye color, bone structure, and clothing from Image 0, featuring her brunette hair framing her face. Young Red is illuminated by the warm, flickering light from a fire source to the left. Her luminous porcelain skin is visible, and her striking green-hazel eyes are locked in a steely gaze, the lower lip held still, masking any tremor. The background is a soft, creamy anamorphic bokeh of the dark room, with a strong, brief catchlight from the fire reflecting in her pupils. The lighting and atmosphere, including the deep chiaroscuro shadows and warm color grade, should match the interior lighting style seen in Image 1, ensuring Young Red looks physically embedded in the space. \n\nPhotorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones and one vivid accent color (Red's crimson cloak), volumetric god rays in forest scenes, warm candlelight interiors with deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture, practical lighting sources (oil lamps, fireplace, lanterns), every surface tactile and weathered (moss, bark, iron, lace, wet stone, velvet), atmospheric fog and rain. The character must look physically embedded in the space, not composited on top."
+}

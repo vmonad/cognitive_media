@@ -1,0 +1,14 @@
+{
+    "idx": 0,
+    "is_last": false,
+    "cam_idx": 0,
+    "visual_desc": "BLACK SCREEN. The visual texture of fine, aged film grain is immediately apparent.\n\nNARRATOR (V.O.) (deep, aged male voice, like a historian telling a legend) says: \"The Queen fled through the veins of the old castle — passages built a thousand years ago for this very purpose. She carried her daughter, and left her son behind. It was the choice that would haunt her for eighteen years.\"",
+    "variation_type": "small",
+    "variation_reason": "This shot only presents an auditory narration over a static black screen, with the visual element itself undergoing no change in composition or framing. The only change is the completion of the spoken text, thus the variation type is small.",
+    "ff_desc": "A photorealistic medieval fantasy black screen, shot on Arri Alexa 65 with Panavision anamorphic lenses, exhibiting the fine texture of aged film grain. The visual is entirely dark, establishing a mood of somber remembrance. The overall palette is absent of color, characterized by deep, tactile blackness.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A photorealistic medieval fantasy black screen, shot on Arri Alexa 65 with Panavision anamorphic lenses, exhibiting the fine texture of aged film grain. The visual is entirely dark, concluding the moment of narration in absolute blackness.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The shot begins as a static, inky black screen. The motion is entirely auditory and internal to the frame: a deep, aged male voice, like a historian telling a legend, delivers the entire narration about the Queen's flight, the choice to leave the son behind, and the resulting eighteen years of haunting. The visual remains static black throughout, concluding exactly as it began. The accompanying score is absent (no score). The ambient sound layer is silence, punctuated only by the narrator's voice.",
+    "audio_desc": "[Narrator] Deep, aged male voice, like a historian telling a legend: \"The Queen fled through the veins of the old castle — passages built a thousand years ago for this very purpose. She carried her daughter, and left her son behind. It was the choice that would haunt her for eighteen years.\"[Audio Score] Faint, echoing mournful strings begin, emphasizing the gravity and time passed."
+}

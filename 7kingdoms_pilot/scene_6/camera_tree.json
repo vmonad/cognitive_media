@@ -1,0 +1,90 @@
+[
+    {
+        "idx": 0,
+        "active_shot_idxs": [
+            0
+        ],
+        "parent_cam_idx": null,
+        "parent_shot_idx": null,
+        "reason": "CAMERA_0 is the absolute beginning, a black screen with silence, establishing the void before any visual narrative or character appears. It is the root camera.",
+        "is_parent_fully_covers_child": null,
+        "missing_info": null
+    },
+    {
+        "idx": 1,
+        "active_shot_idxs": [
+            1
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_1's Shot 1 is the first visual content, fading in from the black screen of CAMERA_0 (Shot 0). As CAMERA_0 is pure blackness indicating absence, CAMERA_1 establishes the entire scene and sets the primary subject (Morgath) and location.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific action or content of the scene, as CAMERA_0 is pure blackness."
+    },
+    {
+        "idx": 2,
+        "active_shot_idxs": [
+            2
+        ],
+        "parent_cam_idx": 1,
+        "parent_shot_idx": 1,
+        "reason": "CAMERA_2 (Shot 2) focuses on a specific element (the mirror surface) within the larger scene established by CAMERA_1 (Shot 1, which features Morgath standing before the mirror). Shot 1 encompasses the setup (Morgath + Mirror); Shot 2 is a close-up detail of the mirror within that larger frame.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "Morgath's physical presence and full silhouette, which are present in CAMERA_1 Shot 1."
+    },
+    {
+        "idx": 3,
+        "active_shot_idxs": [
+            3
+        ],
+        "parent_cam_idx": 1,
+        "parent_shot_idx": 1,
+        "reason": "CAMERA_3 (Shot 3) is an over-the-shoulder shot originating from the space of CAMERA_1 (Shot 1), framing Morgath and showing the mirror's reflection (the subject of CAMERA_2). Shot 1 (Long/Low Angle shot) establishes Morgath and the mirror setup, making it the spatial parent for this reverse-angle shot.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The full reflection of Elara and the explicit focus/detail of the mirror surface that CAMERA_2 provides."
+    },
+    {
+        "idx": 4,
+        "active_shot_idxs": [
+            4
+        ],
+        "parent_cam_idx": 3,
+        "parent_shot_idx": 3,
+        "reason": "CAMERA_4 (Shot 4) follows the slow PUSH IN mentioned in CAMERA_3 (Shot 3), moving from an over-the-shoulder view toward the mirror reflection to an Extreme Close Up of Morgath's face, which is now separated from the mirror's reflection context.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The context of the mirror reflection and Morgath's body posture/silhouette present in CAMERA_3 Shot 3."
+    },
+    {
+        "idx": 5,
+        "active_shot_idxs": [
+            5
+        ],
+        "parent_cam_idx": 4,
+        "parent_shot_idx": 4,
+        "reason": "CAMERA_5 (Shot 5) is a tighter focus (Close Up on eyes) following the extreme detail established in CAMERA_4 (Extreme Close Up on the face). The sequence maintains focus on Morgath's features, moving from the whole face (Shot 4) to the eyes (Shot 5) as the intensity increases.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The general structure of Morgath's face (lips, fist movement) captured in CAMERA_4 Shot 4."
+    },
+    {
+        "idx": 6,
+        "active_shot_idxs": [
+            6
+        ],
+        "parent_cam_idx": 1,
+        "parent_shot_idx": 1,
+        "reason": "CAMERA_6 (Shot 6) is a dynamic, wide shot capturing the entire action of the mirror explosion, which is the culmination of the lead-up shots rooted in the establishment of the scene and Morgath in CAMERA_1 (Shot 1). This wide action shot encompasses the smaller details previously focused on.",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "The specific close-up reactions of Morgath (eyeshift, focused fear) captured in Cams 4 and 5."
+    },
+    {
+        "idx": 7,
+        "active_shot_idxs": [
+            7
+        ],
+        "parent_cam_idx": 0,
+        "parent_shot_idx": 0,
+        "reason": "CAMERA_7 (Shot 7) is a Hard Cut to Pure Black Screen, directly following the overwhelming visual stimulus of the shattering mirror in CAMERA_6 (Shot 6). It reverts to the total absence of light established by the root camera, CAMERA_0 (Shot 0).",
+        "is_parent_fully_covers_child": false,
+        "missing_info": "All visual content, as CAMERA_7 is explicitly a black screen."
+    }
+]

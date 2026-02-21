@@ -1,0 +1,37 @@
+[
+    {
+        "idx": 0,
+        "is_last": false,
+        "cam_idx": 0,
+        "visual_desc": "EXT. EARTH - HIGH CONTRAST PANORAMA. The sky is a uniform, sickly, radioactive GREY. Dominating the desolate landscape are towering, integrated SERVER MONOLITHS (the Movie Grids), which emit a faint, internal, controlled GREEN LIGHT against the dark, ruined terrain.",
+        "audio_desc": "[Sound Effect] Low, ambient, desolate wind noise over a deep, unsettling electronic hum."
+    },
+    {
+        "idx": 1,
+        "is_last": false,
+        "cam_idx": 1,
+        "visual_desc": "CLOSE UP on a defunct MILITARY BUNKER TERMINAL. The dark screen flashes its final status text: \"FATALITY: 99.9%.\" The numbers vanish as the screen seamlessly overwrites itself with a flowing, luminescent interface graphic: *REALITY SYNTHESIS ACTIVE*.",
+        "audio_desc": "[Sound Effect] Sharp, dying electronic beep followed by a high-frequency rising synth tone as the new text appears."
+    },
+    {
+        "idx": 2,
+        "is_last": false,
+        "cam_idx": 2,
+        "visual_desc": "INTERIOR - THE CORE. A VAST, perfectly ordered space glowing intensely with organized GOLD and GREEN light. The entire environment reads as pure, physically perfect architecture derived from code. <Noon> stands at the epicenter, facing away from the camera, their presence exuding absolute, unsettling AUTHORITY. <Noon>'s form is polished and solid.",
+        "audio_desc": "[Music] Orchestral swell, deeply resonant, symbolizing immense computational power being harnessed."
+    },
+    {
+        "idx": 3,
+        "is_last": false,
+        "cam_idx": 3,
+        "visual_desc": "MID SHOT focused on <Mara> standing near <Noon> (who is slightly out of focus in the background). <Mara>'s face is visible; her skin has a barely perceptible, fine, woven TEXTURE. Her eyes are sharply in focus, revealing geometric crosshairs overlaying her pupils, indicating her complete integration. <Mara> looks toward <Noon> with resignation. <Mara> says: \"The world outside died because it could not stabilize its narrative.\"",
+        "audio_desc": "[Speaker] Mara (Resonant, calm): The world outside died because it could not stabilize its narrative."
+    },
+    {
+        "idx": 4,
+        "is_last": true,
+        "cam_idx": 4,
+        "visual_desc": "FINAL WIDE SHOT. <Noon> turns slowly toward <Mara> (positioned on the mid-left of the frame), revealing a faint, synthetic SMILE on their face—perfect but cold. Behind <Noon>, the digital architecture EXPANDS infinitely into the background, now visibly populated by hundreds of small, stable, glowing ENTITIES—the synthesized civilization. <Noon> says: \"Existence is merely the most compelling script running successfully. And now, we write the ending perpetually.\" FADE TO BLACK.",
+        "audio_desc": "[Speaker] Noon (Final, echoing): Existence is merely the most compelling script running successfully. And now, we write the ending perpetually.\n[Sound Effect] Audio cuts abruptly to silence, followed by a brief, piercing electronic tone associated with the tagline."
+    }
+]

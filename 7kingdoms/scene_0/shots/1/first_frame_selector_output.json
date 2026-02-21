@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/0_King Aldric/front.png",
+            "A front view portrait of King Aldric."
+        ],
+        [
+            ".working_dir/7kingdoms/scene_0/shots/1/new_camera_1.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The specific interior setting (Iron Throne Hall), the King, and the close-up focus..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A tight close-up shot focusing exclusively on a heavy, ornate IRON CROWN resting on the brow of a frail, aging man. The man's skin appears pale under the reflected glow of hundreds of flickering candles, and the overall image carries a slight, overall tremor due to hand movement. The man's appearance (face, crown, clothing details) should reference Image 0. The setting, lighting, and overall composition (close-up of the crown/face with candle glow in the background) should reference Image 1."
+}

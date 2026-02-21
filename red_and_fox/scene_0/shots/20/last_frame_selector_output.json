@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_interior_granny_room.png",
+            "Reference establishing shot of location 'cottage_interior_granny_room': The interior of the cottage at night, lit primarily by the low, dying orange embers in the fireplace. Granny sits in a heavy, dark wood rocking chair, which is slowly moving. In the shadows, a dark wood table is visible where a heavy leather book rests. The mood is claustrophobic, dominated by the dying firelight and deep shadows. A large grandfather clock is present, likely standing sentinel."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/shots/20/first_frame.png",
+            "A photorealistic dark fairy tale establishing shot within an empty, silent cottage interior. The frame is dominated by deep chiaroscuro, with practical light sources casting heavy, textured shadows across the scene. The composition features a dying ember bed in a stone fireplace on the left, juxtaposed with a tall, dark, motionless grandfather clock centered slightly to the right. A heavy burgundy curtain hangs motionless near the back wall, contributing to the oppressive dimness. The overall visual texture is tactile and weathered."
+        ]
+    ],
+    "text_prompt": "Create an image of the cottage interior, concluding a slow pan. The frame should feature an empty rocking chair prominently in the foreground or midground, its contours slightly softened by creamy anamorphic bokeh. The background should contain the still grandfather clock and the shadowed curtain, positioned according to the camera's movement from the preceding shot composition (reference Image 1). The overall lighting must maintain the deep chiaroscuro and warm tones characteristic of a practical, dying firelight source (referencing Image 0), emphasizing eerie stillness across the tactile, weathered surfaces (referencing Image 1). Maintain the photorealistic dark fairy tale style directive, including 35mm film grain texture and shallow depth of field with creamy anamorphic bokeh.\n\nSpecifically:\n- The empty rocking chair should be the main subject in the foreground/midground, referencing the chair in Image 0.\n- The grandfather clock and shadowed curtain in the background should be positioned consistent with a slow pan finishing the movement suggested by Image 1.\n- The lighting, surface textures (stone floor, wood), and the deep shadows must match the mood and detail established in Image 1."
+}

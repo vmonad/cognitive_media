@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/shots/19/first_frame.png",
+            "A photorealistic dark fairy tale silhouette shot captured from a dark, dry vantage point inside a cottage, looking out through a window filled with dim, rain-streaked interior light. Two figures, the one wearing a deep blood-crimson velvet hooded cloak and the other wearing a long dark charcoal coat trimmed in auburn fox fur, stand side-by-side. They are presented as sharp, dark outlines against the muted background light. Beyond them, framed by the window, the broad silhouette of a man in a red-and-black plaid flannel shirt stands in the backdrop of the dark, rain-swept forest. The composition emphasizes the sharp contrast of the interior silhouettes against the exterior gloom. Ambient sound is dominated by the steady patter of rain against glass and wood; the score is a low, sustained, tense drone."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale close-up silhouette shot focused inside the cottage, looking through the rain-streaked window. The figure wearing the long dark charcoal coat stands beside the figure wearing the deep blood-crimson velvet hooded cloak, maintaining their appearances from Image 2. The woodsman's silhouette is completely gone from the exterior view. The face of the figure in crimson is now slightly visible due to a fleeting interior flicker, revealing a subtle, upward curve of the lips in a triumphant, barely perceptible smile. Their forms remain sharply defined against the diffused, dark background light visible through the glass. The environment (interior stone walls, window view) should reference Image 2. The lighting should be deep chiaroscuro with a fleeting interior flicker illuminating the smile, matching the 'Photorealistic dark fairy tale' style directive with 35mm film grain texture."
+}

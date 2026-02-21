@@ -1,0 +1,18 @@
+{
+    "idx": 9,
+    "is_last": false,
+    "cam_idx": 9,
+    "visual_desc": "EXT. NARROW CANYON - DAY. A chaotic medium shot showing <Queen Sera>'s Southern Infantry pinned down, showing visible panic. Kael’s unseen archers rain fire from above. Suddenly, the ground beneath the soldiers begins to SHAKE VIOLENTLY, throwing multiple soldiers off balance. The focus shifts slightly to the violently shaking earth.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, there are only minor changes in the composition, primarily driven by the violent shaking of the ground which causes the soldiers to move and lose balance. The camera shot type remains consistent.",
+    "ff_desc": "EXT. NARROW CANYON - DAY. A chaotic medium shot capturing the Southern Infantry of the commanding leader with a fierce demeanor pinned down. The soldiers display visible panic. The environment suggests rocky canyon walls providing cover, though the soldiers appear exposed. The scene is brightly lit by daylight.",
+    "ff_vis_char_idxs": [
+        1
+    ],
+    "lf_desc": "EXT. NARROW CANYON - DAY. A medium shot showing the aftermath of severe ground shaking, with several soldiers of the Southern Infantry of the commanding leader with a fierce demeanor thrown off balance against the rocky canyon floor. The light remains harsh daylight, and the focus of the frame is now concentrated on the disturbed earth.",
+    "lf_vis_char_idxs": [
+        1
+    ],
+    "motion_desc": "The camera remains static in a medium shot for the duration, focusing on the Southern Infantry of the commanding leader with a fierce demeanor. Suddenly and without apparent cause, the ground beneath the soldiers begins to SHAKE VIOLENTLY, causing multiple soldiers to lose their footing and be thrown off balance. The camera's focus subtly shifts to emphasize the violently shaking earth.",
+    "audio_desc": "[Sound Effect] A deep, unnatural tremor shakes the ground aggressively."
+}

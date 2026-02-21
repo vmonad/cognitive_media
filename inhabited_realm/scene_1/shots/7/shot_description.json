@@ -1,0 +1,14 @@
+{
+    "idx": 7,
+    "is_last": false,
+    "cam_idx": 7,
+    "visual_desc": "MONTAGE SHOT 1 of 3 (RAPID CUT): A nearby digital wall flickers to show a clear, real-world NEWS FEED graphic: stock indices plummeting into atomic red lines. The image is heavily distorted by interference.",
+    "variation_type": "small",
+    "variation_reason": "Compared to the first frame, there are only minor changes in the composition—primarily the continuous flickering and the stabilization of the image state—as the camera remains static throughout this tightly focused shot.",
+    "ff_desc": "An extreme close-up or tight shot dominated by a digital wall surface that is heavily distorted by visual interference and static. A NEWS FEED graphic is visible but obscured, showing stock indices represented by atomic red lines plummeting downwards against a dark background.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "An extreme close-up or tight shot dominated by a digital wall surface that is heavily distorted by visual interference and static. A NEWS FEED graphic is visible, showing stock indices represented by atomic red lines plummeting downwards against a dark background. The distortion is still present.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "Static camera. The digital wall surface experiences a rapid, pervasive visual flicker and interference before settling into the final distorted state.",
+    "audio_desc": "[Audio] A brief, piercing MODEM SCREECH cuts through the underlying orchestral tension."
+}

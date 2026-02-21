@@ -1,0 +1,9 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/scene_1/shots/7/new_camera_7.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The specific graphical content, the medieval knight, and Mara's scream/phasings..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nAn extreme close-up or tight shot dominated by a digital wall surface that is heavily distorted by visual interference and static. The NEWS FEED graphic visible but obscured, showing stock indices represented by atomic red lines plummeting downwards against a dark background. The overall composition, background, and visual style should primarily reference Image 0, but replace the specific graphical content, the medieval knight, and Mara's scream/phasings with the described elements."
+}

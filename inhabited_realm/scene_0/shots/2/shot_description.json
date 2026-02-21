@@ -1,0 +1,14 @@
+{
+    "idx": 2,
+    "is_last": false,
+    "cam_idx": 2,
+    "visual_desc": "MEDIUM SHOT looking across the crowded IMMERSION DOME, focusing on the MASSIVE CENTRAL SCREEN. The title card *CHRONO-CRUSADE* SHATTERS violently on screen. The prevailing blue ambient light snaps immediately to a jagged, unsettling SCARLET NOISE, flashing across the faces of the oblivious audience members. Visible CABLES connecting the pods SPARK faintly.",
+    "variation_type": "medium",
+    "variation_reason": "The shot composition remains a medium shot across the dome, but the entire lighting scheme and the central focus object (the screen) undergo a dramatic, sudden transformation, changing the visual mood completely. No named characters are clearly visible or interact, suggesting a focus on environmental effect, warranting a medium variation.",
+    "ff_desc": "MEDIUM SHOT facing across a crowded IMMERSION DOME, emphasizing the MASSIVE CENTRAL SCREEN dominating the frame. The ambient lighting is a prevailing, soft blue. Several audience members, connected to cranial interfaces via visible CABLES, are generally facing the screen, their forms somewhat obscured by the dim lighting. The environment suggests a futuristic screening event.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "MEDIUM SHOT across the IMMERSION DOME. The central screen now displays a flickering, jagged SCARLET NOISE. The faces of the nearby audience members reflect this unsettling, harsh red light. Visible CABLES trailing from the seating pods exhibit faint sparking. The composition retains the wide view of the dome interior.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The static blue title card *CHRONO-CRUSADE* on the MASSIVE CENTRAL SCREEN violently SHATTERS. Immediately following the shatter, the general ambient blue light snaps instantly and completely over to a jagged, unsettling SCARLET NOISE that flashes across the entire frame, illuminating the audience members. Concurrently, the visible CABLES connecting the pods SPARK faintly.",
+    "audio_desc": "[Sound Effect] A sharp ELECTRICAL CRACK followed by the sound of shattering glass overlaid with high-frequency digital distortion. The sub-bass cuts out abruptly."
+}

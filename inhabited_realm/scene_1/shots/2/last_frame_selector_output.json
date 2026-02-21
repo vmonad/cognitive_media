@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/character_portraits/0_Mara/front.png",
+            "A front view portrait of Mara."
+        ],
+        [
+            ".working_dir/idea2video/scene_1/shots/2/first_frame.png",
+            "A WIDE SHOT capturing the immediate environment on the ground where a large crowd has gathered for a futuristic screening event. The scene is visually dominated by a massive screen positioned above the crowd, which is currently displaying an image or video. Several crowd members occupy the lower half of the frame, appearing relatively static."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nA WIDE SHOT of the ground location, continuing the futuristic screening event environment from Image 1. The crowd should reference Image 1, but now visibly recoiling in shock. The air is filled with the visual residue of abstract, geometric shapes, indicating a violent disruption. One individual, wearing the clothing of Mara from Image 0, is seen entangled, actively attempting to detach a cranial interface. The overall style and atmosphere should match Image 1."
+}

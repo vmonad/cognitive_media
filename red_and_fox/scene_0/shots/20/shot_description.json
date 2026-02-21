@@ -1,0 +1,14 @@
+{
+    "idx": 20,
+    "is_last": false,
+    "cam_idx": 20,
+    "visual_desc": "ESTABLISHING SHOT (SCENE 5). SLOW PAN across the empty, silent cottage interior. The camera drifts like a ghost through the charged, dim air, showcasing the tactile details: lingering on the dying embers in the fireplace, the motionless, imposing grandfather clock, the heavy burgundy curtain hanging still near the back shadow, and the empty rocking chair. Practical light sources create deep chiaroscuro. No characters are visible. Emotion: eerie stillness, something profoundly wrong.",
+    "variation_type": "large",
+    "variation_reason": "This is an establishing shot that moves significantly across the compositional space, shifting the primary focus from the fireplace area to a completely different stationary object (the empty rocking chair), thus achieving a large change in the visual focus and composition via a sustained camera movement.",
+    "ff_desc": "A photorealistic dark fairy tale establishing shot within an empty, silent cottage interior. The frame is dominated by deep chiaroscuro, with practical light sources casting heavy, textured shadows across the scene. The composition features a dying ember bed in a stone fireplace on the left, juxtaposed with a tall, dark, motionless grandfather clock centered slightly to the right. A heavy burgundy curtain hangs motionless near the back wall, contributing to the oppressive dimness. The overall visual texture is tactile and weathered.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A photorealistic dark fairy tale shot of the cottage interior concluding the slow pan. The frame now centers on an empty rocking chair situated prominently in the foreground or midground, its contours slightly softened by the creamy anamorphic bokeh, while the background details—the still grandfather clock and the shadowed curtain—are now positioned differently according to the camera's movement. The deep chiaroscuro and tactile, weathered surfaces remain, emphasizing the eerie stillness.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera executes a slow, gliding pan across the interior space, moving deliberately from the location of the fireplace toward the rear of the room where the empty rocking chair resides. This smooth, almost imperceptible movement is motivated by conveying an atmosphere of eerie stillness and the sense that something profound has happened, like a ghost drifting through the charged, dim air. The camera movement is slow and steady, almost static until the final moment where it settles on the empty chair. No elements within the frame move; the visual change is entirely dictated by the camera's drift.",
+    "audio_desc": "[Sound Effect] ABSOLUTE silence between the beats. The relentless, metronomic TICKING of the grandfather clock is the ONLY audible sound. [Music Score] No continuous score."
+}

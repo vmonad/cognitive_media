@@ -1,0 +1,18 @@
+{
+    "idx": 1,
+    "is_last": false,
+    "cam_idx": 1,
+    "visual_desc": "FADE IN: A wide, establishing shot in a secluded forest clearing. Sunlight is dappled, creating moving patterns of golden light and deep chiaroscuro shadows on the mossy stones and a chattering stream running across the foreground. The environment is intensely tactile with visible moss and wet rock. <Queen Lyara> (late 50s, weathered face, wearing dark, practical peasant garb that shows dust and wear) stands patiently center-left, facing slightly toward the right edge of the frame where <Elara> (Young Woman) is expected to enter. The entire scene possesses a warm, earthy palette with heavy anamorphic lens flare catching the sunlight through the canopy. Camera is static, wide angle.",
+    "variation_type": "large",
+    "variation_reason": "This shot involves a substantial sequence where the camera executes a significant push-in (transitioning from a wide establishing shot to a medium close-up), in addition to the entrance of a new primary character and the manifestation of a magical effect (glowing eyes) on the entering character, causing a large shift in compositional focus and information presented.",
+    "ff_desc": "A photorealistic medieval fantasy wide shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, captures a secluded forest clearing under dappled sunlight creating moving patterns of golden light and deep chiaroscuro shadows on mossy stones and a chattering stream in the foreground. The environment is intensely tactile with visible moss and wet rock. Queen Lyara (late 50s, weathered face, wearing dark, practical peasant garb that shows dust and wear) stands patiently center-left, facing slightly toward the right edge of the frame. The camera is static, wide angle, emphasizing the earthy palette and capturing heavy anamorphic lens flare through the canopy.",
+    "ff_vis_char_idxs": [
+        1
+    ],
+    "lf_desc": "A photorealistic medieval fantasy medium close-up shot, shot on Arri Alexa 65 with Panavision anamorphic lenses, focuses sharply on Elara (Young Woman) (18, sun-freckled skin from living outdoors, lean athletic build, wearing a simple rough-spun peasant dress in earthy brown) whose amber eyes are glowing faintly golden. Her expression is one of stunned realization, lips slightly parted, shoulders rigid. The background is a creamy bokeh of dappled golden light filtering through dense green foliage, reflecting the earthy tones of the forest but rendered with a shallow depth of field characteristic of anamorphic lenses.",
+    "lf_vis_char_idxs": [
+        6
+    ],
+    "motion_desc": "The static camera executes a rapid, smooth push-in, transitioning from the initial wide, establishing shot to a medium close-up framed on Elara (Young Woman) (wearing a simple rough-spun peasant dress in earthy brown). As the camera moves inward, Queen Lyara (late 50s, weathered face, wearing dark, practical peasant garb that shows dust and wear) takes two deliberate steps toward the stream in the foreground and then pivots her head sharply to look past the camera, toward the right edge of the frame, where the other person is about to enter. Simultaneously, Elara (Young Woman) (striking, with wild untamed dark auburn hair) who was previously off-screen to the right, enters the frame quickly from the right edge, stopping abruptly near the center-right. As she stops, her amber eyes begin to faintly glow golden. The motion conveys escalating tension, underscored by the low cello drone of the score and the ambient sound of the chattering stream.",
+    "audio_desc": "[Sound Effect] Gentle stream noise, clear birdsong. Soft, low orchestral theme begins to build subtly."
+}

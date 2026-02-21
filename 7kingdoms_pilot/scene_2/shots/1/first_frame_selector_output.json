@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/1_Queen Lyara/front.png",
+            "CANONICAL front-view portrait of Queen Lyara. This is the definitive reference for this character's face and identity. A beautiful woman with olive skin and amber eyes. Resilient in appearance. Visibly pregnant in the opening scene; later wears dark, practical peasant garb."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/4_Elara (Infant)/front.png",
+            "CANONICAL front-view portrait of Elara (Infant). This is the definitive reference for this character's face and identity. An infant princess. Swaddled."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_2/location_refs/under_castle_tunnels.png",
+            "Reference establishing shot of location 'under_castle_tunnels': A claustrophobic, ancient tunnel interior deep underground. The walls are constructed from crudely cut, dark grey stone, heavily coated in damp moss and constantly dripping water, creating slick patches. Illumination comes solely from erratic, flickering torchlight, casting long, dancing shadows that twist the space. The atmosphere is cold, oppressive, and damp. Time is deep night. Weather is implied subterranean dampness."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description. The style MUST be photorealistic medieval fantasy, HBO prestige television quality, shot on Arri Alexa 65 with Panavision anamorphic lenses. Real human actors in practical costumes — genuine leather, real chainmail, wool, silk, mud, rust, sweat. Natural skin with pores, imperfections, scars, freckles, and weathering. Real weather — mist, firelight, torchlight, dawn light. Deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture. Every surface tactile — stone, iron, parchment, silk, fur, moss, wet rock, candlewax. \n\nA tight tracking shot, low angle, focusing on the claustrophobic location described in Image 2 (under_castle_tunnels) at night. The stone walls are wet, dripping, and covered in dark, clinging moss.\n\nThe central figure, the woman (Queen Lyara), is centered, clutching a swaddled infant (Elara) tightly to her chest. Queen Lyara's appearance (face, hair color, hair style, skin tone, eye color, bone structure, and clothing) MUST exactly replicate Image 1. Her expression must be wide with fear but set with resolve.\n\nThe swaddled infant (Elara)'s appearance MUST exactly replicate Image 2.\n\nIllumination comes from the flickering, erratic light of a torch held to the left and slightly ahead, casting features appropriate to the environment described in Image 2. The torchlight carves deep chiaroscuro shadows onto the wet rock and the central figure's face. Shallow depth of field strongly blurs the immediate foreground wet stone, matching the sharp focus on the figures in the foreground.\n\nQueen Lyara and Elara must be placed at the correct proportional scale within the environment. The lighting on Queen Lyara and Elara must match the environment's torchlight sources (direction, color temperature, intensity). They must look physically embedded in the space, not composited on top."
+}

@@ -1,0 +1,18 @@
+{
+    "idx": 4,
+    "is_last": false,
+    "cam_idx": 4,
+    "visual_desc": "EXTREME CLOSE UP focused tightly on <Morgath's Face>. The camera has pushed through the illusory space of the mirror, forcing the focus onto her physical features. Her porcelain-pale skin is smooth but shows subtle texture under the harsh, magical light spilling from the viewer's left (the imagined mirror). For the first time, her composure is visibly shattered. Her large, dark eyes fly wide open in unfiltered shock and naked fear. Her crimson lips part slightly, revealing her teeth in a silent intake of breath. Her hand flashes briefly into the frame (bottom right) clenching into a tight fist against her black gown.",
+    "variation_type": "small",
+    "variation_reason": "The variation is small because the shot is a static extreme close-up that resolves after a very brief intrusive camera move, with the primary change being the introduction of the character's clenched fist and the freezing of the expression of naked fear on the face of the woman in the black gown.",
+    "ff_desc": "A photorealistic medieval fantasy EXTREME CLOSE UP, in the style of HBO prestige television shot on Arri Alexa 65 with Panavision anamorphic lenses, focused tightly on the face of the woman known as Morgath. Her porcelain-pale skin shows natural texture under harsh, luminous magical light spilling from the left, suggesting an immediate, unnatural source, perhaps an imagined mirror. Her large, dark eyes are wide open, conveying unfiltered shock and naked fear. Her full crimson lips are parted slightly, revealing her teeth in a frozen, silent intake of breath. Her tall, slender form is only suggested by the top edge of her fitted black gown with a high structured collar embroidered with dark crimson thread visible near the bottom edge of the frame.",
+    "ff_vis_char_idxs": [
+        2
+    ],
+    "lf_desc": "A photorealistic medieval fantasy EXTREME CLOSE UP, in the style of HBO prestige television shot on Arri Alexa 65 with Panavision anamorphic lenses, focused tightly on the face of the woman known as Morgath. Her porcelain-pale skin shows natural texture under the harsh, magical light that is still present, emanating from the left. Her large, dark eyes remain wide, fixed in an expression of intense shock and fear. Her crimson lips are slightly parted, teeth still visible. Her right hand, clad in a long black glove, is tightly clenched into a fist positioned in the bottom right quadrant of the frame, emphasizing tension.",
+    "lf_vis_char_idxs": [
+        2
+    ],
+    "motion_desc": "The camera executes a rapid, momentary push-in (dolly or zoom artifact simulating passage through a plane), suggesting an invasive movement through an illusory space, which resolves immediately into the final static extreme close-up. During this brief motion, the woman wearing the black gown briefly flashes her hand, clad in a black glove, clenching it into a tight fist in the bottom right of the frame. After this momentary penetration and element movement, the camera remains static to hold the final, frozen expression of shock. The lighting remains harsh and magical (luminous cold light from the left). The scene is suspended in a moment of absolute tension, accompanied by a high, sustained, almost inaudible synthetic tone suggesting magical pressure, with no score.",
+    "audio_desc": "[Speaker] Morgath (A deadly whisper, confirmation laced with terror): \"The King's daughter lives. She has the gift.\" [Sound Effect] A sharp, audible intake of breath from <Morgath>. [Score Cue] The cello drops instantly to a near halt, leaving only a tense violin drone."
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "idx": 0,
+        "is_last": false,
+        "cam_idx": 0,
+        "visual_desc": "A WIDE, AERIAL SHOT looking down onto the setting. The NEO-TOKYO cityscape is slick with rain under a deep night sky. Thousands of IMMERSION PODS surround a central SPIRE, illuminated by pulsing NEON BLUE light from the colossal DOME. Glowing FIBER OPTIC CABLES connect the pods to the spire. The scene establishes a high-tech, densely populated, futuristic environment.",
+        "audio_desc": "[Sound Effect] Low, pervasive sub-bass electronic THUMPING, characteristic of a massive electronic venue."
+    },
+    {
+        "idx": 1,
+        "is_last": false,
+        "cam_idx": 1,
+        "visual_desc": "CLOSE UP on <Mara> (human adult female, mid-30s). Her eyes are tightly closed, showing deep immersion. A thin sheen of perspiration is visible near the cranial interface port on her temple. The light reflecting in her pupils is a sharp, pure artificial cinema glow.",
+        "audio_desc": "[Sound Effect] The electronic THUMPING continues faintly, muffled by the focus on <Mara>'s internal state."
+    },
+    {
+        "idx": 2,
+        "is_last": false,
+        "cam_idx": 2,
+        "visual_desc": "MEDIUM SHOT looking across the crowded IMMERSION DOME, focusing on the MASSIVE CENTRAL SCREEN. The title card *CHRONO-CRUSADE* SHATTERS violently on screen. The prevailing blue ambient light snaps immediately to a jagged, unsettling SCARLET NOISE, flashing across the faces of the oblivious audience members. Visible CABLES connecting the pods SPARK faintly.",
+        "audio_desc": "[Sound Effect] A sharp ELECTRICAL CRACK followed by the sound of shattering glass overlaid with high-frequency digital distortion. The sub-bass cuts out abruptly."
+    },
+    {
+        "idx": 3,
+        "is_last": false,
+        "cam_idx": 3,
+        "visual_desc": "EXTREME CLOSE UP, positioned underneath the floor or within the server core. A hidden THERMAL CHARGE detonates. The visual is dominated by an impossibly bright, crushing pulse of WHITE ENERGY surging upward into the server conduits, completely overwhelming the frame.",
+        "audio_desc": "[Sound Effect] A deafening, sharp WHUMP, immediately transitioning into a purely internal, agonizing SCREECHING WHITE STATIC noise."
+    },
+    {
+        "idx": 4,
+        "is_last": true,
+        "cam_idx": 4,
+        "visual_desc": "QUICK CUT to a tight shot of <Mara>'s face, eyes snapping wide open in agony. Her environment instantly shifts: she is suspended in screeching WHITE STATIC. Her features momentarily flicker, showing hints of a jagged wireframe version of herself beneath her skin. The overwhelming sound cuts instantly to dead SILENCE. The frame transitions to pure BLACK.",
+        "audio_desc": "[Dialogue] Mara (Internal thought, barely a breath): \"...AAAAAH!\" [Sound Effect] Digital SCREAM cuts instantaneously to complete, absolute SILENCE."
+    }
+]

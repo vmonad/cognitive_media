@@ -1,0 +1,18 @@
+{
+    "idx": 10,
+    "is_last": false,
+    "cam_idx": 10,
+    "visual_desc": "EXT. BATTLEFIELD EDGE - DAY. Foreground focus on a patch of desiccated earth where a single IRON SHOVEL scrapes, covered in dust. An impossibly ancient, brittle SKELETAL HAND grips the soil and pulls itself upright. In the far background, a sickly GREEN LIGHT flickers ominously over the horizon, hinting at something terrible awakening.",
+    "variation_type": "small",
+    "variation_reason": "The shot remains focused on a very specific, limited area of action (the hand rising), with a static camera. The change is localized to the position of the skeletal element, thus the variation type is small.",
+    "ff_desc": "EXT. BATTLEFIELD EDGE - DAY. Extreme close-up on a patch of desiccated earth in the foreground. A single IRON SHOVEL, covered in dust, is partially visible, scraping the soil. The lighting is harsh daylight with a sickly GREEN LIGHT visible flickering ominously on the distant horizon. The primary focus is on a brittle SKELETAL HAND gripping the soil.",
+    "ff_vis_char_idxs": [
+        5
+    ],
+    "lf_desc": "EXT. BATTLEFIELD EDGE - DAY. Extreme close-up on a patch of desiccated earth in the foreground. The SKELETAL HAND is now fully visible, having pulled itself upright, standing against the dirt. The sickly GREEN LIGHT still flickers ominously on the distant horizon.",
+    "lf_vis_char_idxs": [
+        5
+    ],
+    "motion_desc": "The camera remains static, fixed on the patch of earth. A brittle SKELETAL HAND, gripping the soil, begins to move. The SKELETAL HAND pulls the rest of its associated form upright from the ground, moving from a horizontal/partially buried position to a fully upright stance.",
+    "audio_desc": "[Sound Effect] The scraping of the shovel against dry earth, followed by a rising, subtle, unnatural hum."
+}

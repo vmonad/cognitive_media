@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/cottage_exterior_rain_storm.png",
+            "Reference establishing shot of location 'cottage_exterior_rain_storm': The cottage exterior during a violent, heavy downpour at night. Rain hammers the thatched roof in continuous sheets, causing the surrounding path to turn to mud. A flash of lightning briefly scrapes stark light across the wet, dark stonework walls and enhances the appearance of the sodden, dead garden. The atmosphere is chaotic, loud, and metaphoric of severe consequence."
+        ],
+        [
+            ".working_dir/red_and_fox/character_portraits/3_The Woodsman/side.png",
+            "A side view portrait of The Woodsman."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, low angle medium close-up on the entryway of an interior space. The heavy oak front door is violently splintered inward. This doorway and the torrent of bright, rain-soaked exterior light and atmosphere behind it should reference the environment in Image 1. The silhouette belongs to a broad-shouldered figure whose axe is raised high over their shoulder. This figure, including their body shape, beard, and clothing (dark, dripping plaid shirt), should reference Image 2. Practical lighting striking the scene emphasizes water running down their thick, dark beard. The figure's expression is etched with fierce, protective purpose. Characters must be placed at correct proportional scale within the environment. Lighting on characters must match the environment's light sources (direction, color temperature, intensity). Characters must look physically embedded in the space, not composited on top. Adhere strictly to the visual style: Photorealistic dark fairy tale, Hollywood blockbuster production quality, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones and one vivid accent color (Red's crimson cloak), volumetric god rays in forest scenes, warm candlelight interiors with deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture, practical lighting sources (oil lamps, fireplace, lanterns), every surface tactile and weathered (moss, bark, iron, wet stone, velvet), atmospheric fog and rain."
+}

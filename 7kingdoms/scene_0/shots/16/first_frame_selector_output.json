@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/1_Queen Sera/front.png",
+            "A front view portrait of Queen Sera."
+        ],
+        [
+            ".working_dir/7kingdoms/scene_0/shots/16/new_camera_16.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The intimate detail of Sera placing the crown and her final expression (which are close-ups/mediums within the wide shot)..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: The setting is desolate, illuminated by the weak light of a breaking dawn, referencing Image 1 for the background and atmosphere. Queen Sera is standing on a newly consecrated, clean stone dais carved out from the surrounding ruins. Queen Sera's appearance, including her armor and crown, should reference Image 0, but she should be positioned centrally on the dais as seen in Image 1."
+}

@@ -1,0 +1,18 @@
+{
+    "idx": 1,
+    "is_last": false,
+    "cam_idx": 1,
+    "visual_desc": "CLOSE UP on <Mara>'s face (mid-30s). Her eyes are wide, reflecting complex, swirling blue and green light from an unseen cranial interface device near her temples. Her expression shifts from awe to sudden, sharp fear. A very small spark of red energy flickers momentarily in her reflection.",
+    "variation_type": "small",
+    "variation_reason": "This shot only shows the intense facial expression change of the human adult female, mid-30s in perceived age, and a momentary flicker of light, thus the variation type is small.",
+    "ff_desc": "A close-up shot focuses tightly on the face of a human adult female, mid-30s in perceived age. Her eyes are open wide, reflecting complex, swirling blue and green light originating from an unseen cranial interface device near her temples. The lighting is dominated by these reflected, cool tones.",
+    "ff_vis_char_idxs": [
+        0
+    ],
+    "lf_desc": "A close-up shot focuses tightly on the face of the human adult female, mid-30s in perceived age. Her eyes, which now reflect a mix of organic irises and geometric pupils, are wide with an expression of sharp fear. The reflection in her eyes still shows swirling blue and green light, but a faint lingering red spark may be barely visible near her temples.",
+    "lf_vis_char_idxs": [
+        0
+    ],
+    "motion_desc": "The camera remains static (CLOSE UP). The expression of the human adult female, mid-30s in perceived age, shifts dynamically from initial awe to sudden, sharp fear. Simultaneously, a very small spark of red energy flickers momentarily within the reflection in her eyes.",
+    "audio_desc": "[Speaker] Mara (Internal Monologue/Whisper): Interface online... connection stable. [Sound Effect] A high-frequency whine building rapidly."
+}

@@ -1,0 +1,21 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/6_Elara (Young Woman)/front.png",
+            "CANONICAL front-view portrait of Elara (Young Woman). This is the definitive reference for this character's face and identity. A real human young woman of 18. Striking — she has her mother's amber eyes and her father's strong jaw. Wild untamed dark auburn hair. Sun-freckled skin from living outdoors. Lean athletic build from years of farm work. Wears a simple rough-spun peasant dress in earthy brown."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/character_portraits/6_Elara (Young Woman)/side.png",
+            "Side-view portrait of Elara (Young Woman) showing profile and body shape. Amber eyes, strong jaw, wild untamed dark auburn hair. Sun-freckled skin. Lean athletic build."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_4/location_refs/peasant_village_morning.png",
+            "Reference establishing shot of location 'peasant_village_morning': A small, rustic European peasant village awakening in the early morning. The atmosphere is thick with low, cool mist clinging to the ground and obscuring views beyond a few yards. Architecture consists of extremely humble, single-story dwellings with thick, uneven thatched roofs and walls patched with wattle and daub or roughly hewn timber. The lanes are unpaved, churned earth and mud, glistening slightly in the weak, pale yellow sunlight attempting to break through the mist. Domestic animals like chickens and a few sheep graze nearby. Lighting is soft, diffused, and cool, characteristic of a foggy sunrise in a pastoral setting. The overall mood is humble and sleepy."
+        ],
+        [
+            ".working_dir/7kingdoms_pilot/scene_4/shots/3/new_camera_3.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The specific, intense detail of Elara's facial expression (fury/magic manifestation) and the immediate environmental reaction (snapping fence post)..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic medieval fantasy CLOSE UP, shot on Arri Alexa 65 with Panavision anamorphic lenses. The image focuses tightly on the face of Elara (Young Woman), slightly off-center. Elara's appearance (face, hair, clothing, build) MUST exactly replicate Image 1. Her body shape and side profile MUST reference Image 2. She holds a broad, challenging grin, her amber eyes bright. The lighting must suggest low morning light with soft, directional illumination emphasizing the texture of her skin, matching the atmosphere and light quality of Image 0 (peasant village morning mist/sunrise). A shallow depth of field is used, rendering the background elements softly out of focus, showing the rough texture of a weathered wooden fence post just behind her right shoulder, matching the visual inclusion of the fence post referenced in Image 4. The overall style MUST be Photorealistic medieval fantasy, HBO prestige television quality, with deep chiaroscuro shadows, shallow depth of field with creamy anamorphic bokeh, and 35mm film grain texture, utilizing the warm earthy tones for the village setting. Elara's expression should be a broad, challenging grin, not the furious expression from Image 4, but maintaining the close-up framing and inclusion of the weathered wood element from Image 4. Ensure Elara is physically embedded in the environment suggested by Image 0 and Image 4, with skin featuring pores, imperfections, and freckles as seen in Image 1."
+}

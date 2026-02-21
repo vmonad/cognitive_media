@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/character_portraits/0_Mara/front.png",
+            "A front view portrait of Mara."
+        ],
+        [
+            ".working_dir/idea2video/scene_1/shots/9/new_camera_9.png",
+            "The composition and background are correct but some elements may be wrong. The wrong elements should be replaced.\nWrong elements: The context of the environment, Noon, and the Data Rift interaction captured in the preceding shots..\nYou must select this image as the main reference and replace the characters in the image with the provided character portraits. Don't change the background."
+        ]
+    ],
+    "text_prompt": "Create an image based on the following guidance: \nAn Extreme Close Up (ECU) focusing tightly on the face of a human adult female, mid-30s in perceived age. The face must reference Image 0 to match Mara's appearance, including her organic irises and sharp, geometric pupils and woven skin texture. The overall composition, expression of a silent scream strongly conveying fear/struggle, and the background implying the lower body phasing into a digital void should reference Image 1. The lower body phasing effect, represented by a dissolving static outline into a lower digital void, should be consistent with the modification suggested for Image 1."
+}

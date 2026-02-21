@@ -1,0 +1,20 @@
+{
+    "idx": 2,
+    "is_last": false,
+    "cam_idx": 2,
+    "visual_desc": "TWO-SHOT, intimate framing, low angle. <Red> (Character 0) and <The Fox> (Character 1) face each other, their breaths visible as thin white mist between their lips due to the cool dusk air. Thin fog curls around their ankles on the path. A slow DOLLY PUSHES forward, closing the infinitesimal distance between their faces. <Red's> green-hazel eyes burn with desperate longing, illuminated by the low available light. <The Fox's> amber-golden eyes are razor-sharp and intense. <The Fox> (male, late 20s, low, smooth baritone with a slight rasp) says: \"Ten beats of the clock. No hesitation.\"",
+    "variation_type": "large",
+    "variation_reason": "This is a significant compositional shift, moving from an intimate two-shot that frames the bodies and the environment immediately around their feet, to an extreme close-up that entirely focuses on the intense detail of their faces and eyes, driven by a purposeful camera push-in to heighten the dramatic tension.",
+    "ff_desc": "A photorealistic dark fairy tale, Hollywood blockbuster production quality, two-shot with an intimate framing and a low angle, showcasing the beautiful brunette with long dark wavy chestnut-brown hair and luminous porcelain skin, and the devastatingly handsome man with distinctly wolfish, predatory features. Both stand close, facing each other, with their breaths visible as thin white mist in the cool dusk air, while thin fog curls around their ankles on the path. The brunette's striking green-hazel eyes burn with desperate longing under the low available light, and the man's glowing amber-golden eyes are razor-sharp and intense under his wild reddish-brown tousled hair.",
+    "ff_vis_char_idxs": [
+        0,
+        1
+    ],
+    "lf_desc": "A photorealistic dark fairy tale, Hollywood blockbuster production quality, extreme close-up focused tightly on the faces of the beautiful brunette with long dark wavy chestnut-brown hair and the devastatingly handsome man with wolfish features, their features filling the frame due to the closeness. Their breaths are still visible as faint mist condensing in the cool air. The brunette's striking green-hazel eyes are wide with what appears to be intense focus or pained desire, fully illuminated by the dim light, and the man's amber-golden eyes remain intensely fixed on her.",
+    "lf_vis_char_idxs": [
+        0,
+        1
+    ],
+    "motion_desc": "The camera executes a slow dollying push forward, moving closer to the two figures, effectively closing the infinitesimal distance between their faces. As the camera moves, the man in the dark charcoal coat speaks, his voice a low, smooth baritone with a slight rasp: \"Ten beats of the clock. No hesitation.\" The movement is motivated by the building intimacy and tension between the two characters.",
+    "audio_desc": "[Sound Effect] Heavy, synchronized breathing; the WHISPER of wind through the high canopy. [Music Score] Increase in underlying tension in the score."
+}

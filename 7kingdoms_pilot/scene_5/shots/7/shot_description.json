@@ -1,0 +1,19 @@
+{
+    "idx": 7,
+    "is_last": false,
+    "cam_idx": 7,
+    "visual_desc": "CLOSE UP on <Queen Lyara>'s face, lit softly by the dappled light. Her mouth barely moves as she whispers, her eyes locked on <Elara>, conveying complete surrender to fate: \"The Witch has him. In the castle where your father died.\". The camera holds here for a beat, emphasizing the weight of the location name. Then, the focus shifts slightly to <Elara> on the opposite side of the frame (still a two-shot composition), whose jaw immediately locks, an expression of pure iron resolution forming over her features. Her eyes flare gold again violently for a second. <Elara> declares her intent: \"Then I'm going back. And I'm bringing him home.\"",
+    "variation_type": "medium",
+    "variation_reason": "Compared to the first frame, the primary focus shifts entirely from one character to the other via a rack focus, and the action includes a highly visible magical manifestation (golden eye flare) and a change in the second character's physical posture (jaw locking), constituting a medium change in the frame's dynamic focus and content.",
+    "ff_desc": "A photorealistic medieval fantasy close-up, shot on Arri Alexa 65 with Panavision anamorphic lenses, focuses on the face of Queen Lyara, who is visibly pregnant and wearing dark, practical peasant garb. The lighting is soft and dappled, creating deep chiaroscuro shadows and hinting at warm golden palette ambiance filtered through a shallow depth of field with creamy anamorphic bokeh. Her amber eyes are locked on a point just off-camera, conveying absolute stillness and physical tension, with just the barest movement of her full crimson lips as she whispers. The ambient sound is muted, with a very low cello drone score beginning.",
+    "ff_vis_char_idxs": [
+        1
+    ],
+    "lf_desc": "A photorealistic medieval fantasy two-shot close-up, maintaining the Arri Alexa 65 anamorphic look with tactile visual elements. Both Queen Lyara and Elara (Young Woman) are visible in the frame, but the focus has shifted to Elara's features. Elara, wearing a simple rough-spun peasant dress in earthy brown, occupies the opposite side of what was the initial focus point. Her jaw is visibly clenched, creating taut lines along her strong jawline, and her amber eyes are now intensely illuminated with a luminous golden light, suggesting immediate power activation. Queen Lyara remains on the other side, her expression held in silent contemplation, framed by the warm earthy tones of the background environment, perhaps suggesting an interior space lit by a single unseen source. The low cello drone remains under the dialogue.",
+    "lf_vis_char_idxs": [
+        1,
+        6
+    ],
+    "motion_desc": "The shot begins as a tight close-up focusing exclusively on the face of the woman in dark peasant garb (Queen Lyara); the camera holds statically, allowing her to deliver her line in a soft, measured whisper, conveying the weight of the words through her physical stillness. Following her utterance, a subtle rack focus occurs, smoothly shifting the primary point of focus away from her to the other subject, the young woman with wild untamed dark auburn hair (Elara), across the frame. This focus shift is accompanied by the dynamic visual flicker of the young farmhand's amber eyes flaring gold violently for a fraction of a second, immediately followed by the physical action of her jaw locking. The camera remains static (a held two-shot during this transition) throughout the entire sequence, emphasizing the weight of the spoken lines. The motion is driven entirely by the internal character reactions and the smooth focus pull.",
+    "audio_desc": "[Speaker] Queen Lyara (Whispering, defeated): The Witch has him. In the castle where your father died. [Speaker] Elara (Jaw locks, eyes flaring gold again): Then I'm going back. And I'm bringing him home."
+}

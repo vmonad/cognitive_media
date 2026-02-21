@@ -1,0 +1,14 @@
+{
+    "idx": 0,
+    "is_last": false,
+    "cam_idx": 0,
+    "visual_desc": "BLACK SCREEN. The sound of silence dominates. The visual style is enforced by the complete darkness, suggesting a void before the narrative begins. The absence of light emphasizes the oppressive atmosphere.",
+    "variation_type": "small",
+    "variation_reason": "The shot is entirely static, defined by the absence of visual and auditory information, representing an initial state before the narrative begins. Therefore, the change between the first and last frame is negligible.",
+    "ff_desc": "A photorealistic medieval fantasy shot, captured with Panavision anamorphic lenses, of a complete black screen. The frame is uniformly dark, suggesting an absolute void. No discernible light sources, characters, or environmental textures are present. Ambient sound is complete silence, mirroring the visual emptiness.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A photorealistic medieval fantasy shot, captured with Panavision anamorphic lenses, still showing a complete black screen. The composition remains uniformly dark, a visual void. No characters or environmental elements are visible. The ambient sound remains silence, reinforcing the oppressive atmosphere established at the shot's opening.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera remains entirely static for the duration of the shot. There is no camera movement, and no discernible on-screen elements move or appear, with the visual state remaining as a black screen, punctuated only by the complete absence of ambient sound.",
+    "audio_desc": "[Narrator (deep, aged male voice, like a historian telling a legend)]: \"But in the castle of the seven kingdoms, the Witch had eyes everywhere. And mirrors that showed more than reflections.\" [Sound Effect] Complete, oppressive silence. [Score Cue] Faint, ominous, low cello motif begins, barely audible."
+}

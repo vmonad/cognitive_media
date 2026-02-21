@@ -1,0 +1,14 @@
+{
+    "idx": 0,
+    "is_last": false,
+    "cam_idx": 0,
+    "visual_desc": "Extreme Close Up on an aged parchment map, heavily detailed with ink and gold leaf showing seven distinct, richly colored regions of a continent. The map texture is tactile, showing minute creases and the subtle sheen of dried gold leaf. The lighting is soft and warm, highlighting the detail. The camera executes a slow, deliberate PANS across the geography.",
+    "variation_type": "small",
+    "variation_reason": "The shot consists only of a slow camera pan across a static object (the map), resulting in minor changes in composition as the focus shifts across the surface details.",
+    "ff_desc": "A photorealistic medieval fantasy extreme close-up (ECU) on aged parchment, tactile with minute creases and the subtle sheen of dried gold leaf. The map is richly detailed, showcasing seven distinct, vibrantly colored regions of a continent inked upon the surface. The lighting is soft and warm, emphasizing the texture and the areas marked with gold leaf. The composition fills the frame entirely with the parchment surface.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A photorealistic medieval fantasy extreme close-up (ECU) on aged parchment, tactile with minute creases and the subtle sheen of dried gold leaf. The map is richly detailed, showcasing seven distinct, vibrantly colored regions of a continent inked upon the surface. The lighting is soft and warm, highlighting the detail, which is now shifted relative to the camera's initial focus point.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera executes a slow, deliberate pan across the geography of the map, transitioning the focus smoothly from one richly detailed inked region to the next. This movement is fluid, maintaining the extreme close-up perspective throughout, allowing the viewer to absorb the textual and chromatic details of the parchment surface. The atmospheric mood is one of quiet, studious investigation, emphasized by the soft lighting and shallow depth of field characteristic of Arri Alexa 65 anamorphic lensing, with a subtle 35mm film grain texture overlaying the image.",
+    "audio_desc": "[Narrator (Deep, aged male voice)]: Seven kingdoms. One crown. One man held them together. His name was Edran. [Sound Effect] Grand orchestral theme begins — deep strings and timpani."
+}

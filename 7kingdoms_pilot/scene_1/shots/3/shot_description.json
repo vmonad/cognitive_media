@@ -1,0 +1,18 @@
+{
+    "idx": 3,
+    "is_last": false,
+    "cam_idx": 3,
+    "visual_desc": "CLOSE UP on <KING EDRAN>'s face (deep brown eyes wide with effort and shock). His practical armor is suddenly disrupted as dark, matte steel from behind pierces his back, reflecting zero light. A visible trickle of dark, tacky fluid stains the silver threading on his gorget. His body language shows immediate structural failure, collapsing onto his knees. His gaze locks desperately across the frame toward the right, where <QUEEN LYARA> is partially visible in the background carnage. <KING EDRAN> (his dying breath, barely a whisper) says: \"Take our daughter. Go. Live.\"",
+    "variation_type": "medium",
+    "variation_reason": "The primary change is the sudden, violent physical displacement of the main subject from standing to collapsing onto his knees, coupled with the introduction of the piercing weapon and the implied introduction of the crucial final line of dialogue. While the framing is tight, the change in posture and the visible injury constitute a medium degree of change.",
+    "ff_desc": "A photorealistic medieval fantasy medium close-up, shot with an Arri Alexa 65 and anamorphic lenses, focusing tightly on King Edran's face. His deep brown eyes are wide with effort and shock against the backdrop of carnage, which creates soft, out-of-focus, deep chiaroscuro bokeh behind him. His expression shows visible strain and immediate structural failure in his posture. He is wearing practical armor with silver threading visible on the gorget. Ambient sound is dominated by the low, unsettling thud of silence following an intense battle, underpinned by a faint, slow heartbeat percussion score.",
+    "ff_vis_char_idxs": [
+        0
+    ],
+    "lf_desc": "A photorealistic medieval fantasy close-up, shot with an Arri Alexa 65 and anamorphic lenses, showing King Edran collapsed onto his knees. His head is tilted slightly, and his eyes are fixed desperately toward the right edge of the frame. Dark, matte steel is fully embedded in his back, and a visible trickle of dark, tacky fluid stains the silver threading on his gorget. The shallow depth of field isolates him against the blurred, cold blue-grey background carnage. The ambient sound is absolute silence save for a very low cello drone score.",
+    "lf_vis_char_idxs": [
+        0
+    ],
+    "motion_desc": "The camera remains static, holding in a close-up on the man with a strong, weathered face and deep brown eyes. Immediately, a massive shift occurs: dark, matte steel, reflecting zero light, pierces his back from behind, causing the man in practical armor to immediately lose structural integrity and collapse forward onto his knees. As this collapse happens, the man (wearing the silver-threaded Crown of Sevens) directs his gaze sharply across the frame toward the right, following the visible Queen (beautiful woman with olive skin and amber eyes) who is partially visible in the background carnage. During the final moment of his collapse, the man utters his dying breath: \"Take our daughter. Go. Live.\" The motion is sudden and violent, leading to a complete cessation of movement in the final frame.",
+    "audio_desc": "[Sound Effect] A wet, muffled impact sound. The chaotic external battle fades instantly, muffled by physical proximity to the sound source. [Score] A single, devastatingly sad, sustained CELLO note enters and holds."
+}

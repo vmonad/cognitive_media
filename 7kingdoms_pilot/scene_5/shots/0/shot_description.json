@@ -1,0 +1,16 @@
+{
+    "idx": 0,
+    "is_last": false,
+    "cam_idx": 0,
+    "visual_desc": "BLACK SCREEN. The texture of very fine, aged 35mm film grain is visible across the frame.",
+    "variation_type": "large",
+    "variation_reason": "The shot transitions from absolute blackness (black screen) to a fully realized, illuminated medium-close composition featuring a principal character on a throne, representing a massive shift in visual information and composition, strongly justifying the 'large' variation type.",
+    "ff_desc": "A photorealistic medieval fantasy black screen, captured with Arri Alexa 65 and Panavision anamorphic lenses, exhibiting the texture of very fine, aged 35mm film grain. The image is entirely dark, with no discernible objects or characters.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A photorealistic medieval fantasy frame, shot on Arri Alexa 65 with Panavision anamorphic lenses, showing King Edran, a man with a strong, weathered face and deep brown eyes, seated on a heavy wooden throne. He is wearing practical armor and the silver-threaded Crown of Sevens. His posture is rigid, hands resting on the armrests, jaw slightly clenched, conveying authority strained by tension, illuminated by warm, diffuse light from the left casting deep chiaroscuro shadows on the right side of his face. The background environment is indistinct but suggests a large, stone hall lit with practical, likely torchlight, creating a warm golden palette. The texture of 35mm film grain is present throughout.",
+    "lf_vis_char_idxs": [
+        0
+    ],
+    "motion_desc": "The shot begins as a black screen with visible 35mm film grain texture. A slow, smooth dolly zoom (or push-in) occurs from absolute blackness toward the final shot of King Edran sitting on the throne. This camera movement is accompanied by the gradual onset of warm, diffuse light characteristic of the peaceful kingdom's golden palette, revealing the figure of the man with a strong, weathered face and deep brown eyes in practical armor and the silver-threaded Crown of Sevens, settling into a strong seated posture on the throne. The ambient sound layer is marked by a low cello drone, establishing a mood of weighty stillness, followed by the faint, distant sound of rhythmic, slow striking metal echoing in the hall.",
+    "audio_desc": "[Narrator (deep, aged male voice, like a historian telling a legend)]: The Queen had waited eighteen years for this moment. She had prayed it would never come. And she had prayed it would."
+}

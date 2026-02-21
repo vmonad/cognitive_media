@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/7kingdoms/character_portraits/1_Queen Sera/front.png",
+            "A front view portrait of Queen Sera."
+        ],
+        [
+            ".working_dir/7kingdoms/character_portraits/1_Queen Sera/side.png",
+            "A side view portrait of Queen Sera."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A wide shot dominated by a harsh desert landscape under high contrast lighting. On a rocky precipice, an armored figure stands silhouetted with arms outstretched toward a vast plain of assembled legions below. The overall color palette is dry and stark, emphasizing the figure's commanding presence. The armored figure's appearance, including the black obsidian armor, crown, and hairstyle, should reference Image 0 and Image 1. The lighting and environmental style should be harsh and stark, referencing the contrast suggested by the front and side portraits."
+}

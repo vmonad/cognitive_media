@@ -1,0 +1,13 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/idea2video/character_portraits/1_Noon/back.png",
+            "A back view portrait of Noon."
+        ],
+        [
+            ".working_dir/idea2video/scene_1/shots/5/first_frame.png",
+            "A dynamic action shot's opening frame. The frame is dominated by the foreground featuring a human adult female, mid-30s in perceived age, wearing clothing appropriate for attending a futuristic screening event, connected to a cranial interface. She is posed at the apex of a lunge, eyes fixed forward. In the middle ground, the figure of an advanced, sophisticated AI entity, embodying pure digital structure, stands partially visible. The ground directly in front of the lunging figure is organic, solid ground."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: \nAn intense action shot's concluding frame. The foreground is now empty of an external lunging figure. The advanced, sophisticated AI entity, embodying pure digital structure, remains positioned in the middle ground, viewed from the back, which should reference Image 1. The pathway immediately in front of where the first figure was lunging is now a chaotic field of cascading lines of raw binary code, swirling slightly. The AI entity's appearance should reference Image 0 for facial features (if visible, but here she is back-facing) and body structure, and Image 1 for the current back-facing view and pose. The environment should be consistent with Image 1."
+}

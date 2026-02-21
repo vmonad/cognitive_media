@@ -1,0 +1,17 @@
+{
+    "reference_image_path_and_text_pairs": [
+        [
+            ".working_dir/red_and_fox/scene_0/location_refs/dark_forest_path.png",
+            "Reference establishing shot of location 'dark_forest_path': A dense, ancient forest canopy seen at dusk. The lighting is low, moody, and dominated by deep shadows. Patches of thick, low-hanging fog drift through the trees, pierced occasionally by faint, ethereal god rays filtering down from above. The forest floor is dark, cluttered with moss and decaying organic matter, revealing a narrow, dirt path that vanishes into oppressive shadows. Atmospheric quality is intensely dense and oppressive."
+        ],
+        [
+            ".working_dir/red_and_fox/character_portraits/0_Red/front.png",
+            "A front view portrait of Red."
+        ],
+        [
+            ".working_dir/red_and_fox/scene_0/shots/4/first_frame.png",
+            "A photorealistic dark fairy tale Wide Shot establishes the scene on a narrow, uneven dirt path beneath the towering silhouettes of massive oaks. Diffused, oppressive ambient light permeates the deep forest, emphasizing the gloom, though some faint, volumetric god rays struggle through the canopy. In the center-left, the figure described as wearing a deep blood-crimson velvet hooded cloak stands alone, facing slightly away from the camera toward the receding dense fog, her posture rigid. Her fingers are currently visible against the hood's rich texture. The environment is dominated by dark, moss-covered tree trunks, conveying tangible, weathered stone and bark texture. Anamorphic bokeh is soft but visible in the obscured background."
+        ]
+    ],
+    "text_prompt": "Create an image following the given description: A photorealistic dark fairy tale Wide Shot captures the narrow path beneath massive oaks. The environment should reference Image 2. The figure, wearing a deep blood-crimson velvet hooded cloak, should reference Image 1 for appearance, standing utterly alone in the center-left of the frame, facing forward (toward the camera). Her shoulders must be squared, and the hood must be fully drawn up over her beautiful brunette hair, replicating the texture and look of the cloak from Image 1. The environment must feature dark, moss-covered tree trunks with tangible, weathered stone and bark texture, replicating the scene from Image 2. The lighting must match the moody, low-light, foggy atmosphere of Image 2, with volumetric god rays filtering down, and shadows must be deep, characteristic of the visual style. Anamorphic bokeh must softly flare in the deep background, referencing the bokeh texture from Image 4. All characters must be placed at correct proportional scale within the environment. Lighting on the character must match the environment's diffused, eerie light sources in direction, color temperature, and intensity. The character must look physically embedded in the space, not composited on top. The overall style MUST adhere strictly to the Photorealistic dark fairy tale, Hollywood blockbuster production quality aesthetic, shot on Arri Alexa 65 with Panavision anamorphic lenses, rich cinematic color grade with desaturated earth tones and the vivid accent color (Red's crimson cloak), volumetric god rays in forest scenes, shallow depth of field with creamy anamorphic bokeh, 35mm film grain texture, tactile and weathered surfaces, and atmospheric fog."
+}

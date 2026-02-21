@@ -1,0 +1,14 @@
+{
+    "idx": 0,
+    "is_last": false,
+    "cam_idx": 0,
+    "visual_desc": "EXT. EARTH - HIGH CONTRAST PANORAMA. The sky is a uniform, sickly, radioactive GREY. Dominating the desolate landscape are towering, integrated SERVER MONOLITHS (the Movie Grids), which emit a faint, internal, controlled GREEN LIGHT against the dark, ruined terrain.",
+    "variation_type": "small",
+    "variation_reason": "The camera is static, and the only movement is the fleeting appearance and subsequent dissolution of a single element (the drone phantom) within the established, vast environment, resulting in only minor changes to the overall composition.",
+    "ff_desc": "EXT. EARTH - HIGH CONTRAST PANORAMA. A desolate landscape under a uniform, sickly, radioactive GREY sky. Towering, integrated SERVER MONOLITHS (Movie Grids) dominate the scene, emitting a faint, internal, controlled GREEN LIGHT against the dark, ruined terrain. The shot is wide, establishing the immense scale of the industrial structures against the environment.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "EXT. EARTH - HIGH CONTRAST PANORAMA. The desolate landscape remains under the uniform, sickly, radioactive GREY sky. The towering SERVER MONOLITHS (Movie Grids) still dominate, faintly emitting their internal GREEN LIGHT against the dark, ruined terrain. The composition is identical to the first frame, capturing the aftermath of the event.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera is static for the entire duration of the shot. Throughout the shot, the UNIT SIX SEVEN drone (phantom) appears momentarily as a corrupted data packet phantom, glitching erratically, before dissolving completely back into code.",
+    "audio_desc": "[Sound Effect] Low, ambient, desolate wind noise over a deep, unsettling electronic hum."
+}

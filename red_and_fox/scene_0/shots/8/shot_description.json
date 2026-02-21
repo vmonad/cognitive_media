@@ -1,0 +1,18 @@
+{
+    "idx": 8,
+    "is_last": false,
+    "cam_idx": 8,
+    "visual_desc": "MATCH CUT TO PRESENT (SCENE 2). Adult <Red's> (Character 0) eyes, displaying that exact same, terrible, steely hardness, track sharply forward, looking past the camera. The shot transitions seamlessly from the child's eyes to the adult's. She is now walking the forest path, her crimson hood drawn low over her beautiful hair, her wicker basket swinging rhythmically at her side. This is a slow, deliberate TRACKING SHOT accompanying her stride, passing through moments of dappled sunlight filtering through the canopy, lighting up the texture of her velvet cloak. Her focus is absolute.",
+    "variation_type": "large",
+    "variation_reason": "The shot drastically shifts from an extremely tight close-up on the eyes (First Frame) to a medium tracking shot of the whole figure walking through the environment (Last Frame), which constitutes a large change in visual framing and composition.",
+    "ff_desc": "A photorealistic dark fairy tale close-up, shot with an anamorphic lens creating extreme shallow depth of field, focusing tightly on a pair of striking green-hazel eyes belonging to an adult. The eyes show a terrible, steely hardness, tracking sharply forward, looking directly toward or past the camera lens. The lighting casts subtle, warm highlights across the porcelain skin surrounding the eyes, contrasting against the texture of the dark brunette, wavy chestnut-brown hair framing the face. Ambient sound is silent; the score is absent.",
+    "ff_vis_char_idxs": [
+        0
+    ],
+    "lf_desc": "A photorealistic dark fairy tale medium-low angle tracking shot capturing an adult individual moving along a forest path. This individual wears a deep blood-crimson velvet hooded cloak pulled low over their beautiful, long dark wavy chestnut-brown hair. A wicker basket swings rhythmically by their side. Dappled sunlight filtering through the high forest canopy creates pronounced volumetric god rays that highlight the texture of the velvet cloak, while the surrounding environment resolves into creamy, out-of-focus bokeh due to the shallow depth of field. The individual's expression is one of absolute, focused intent. The ambient natural sound of a forest can be faintly perceived; the score is absent.",
+    "lf_vis_char_idxs": [
+        0
+    ],
+    "motion_desc": "The shot employs a slow, deliberate tracking movement, keeping pace horizontally with the stride of the adult figure wearing the deep blood-crimson velvet hooded cloak. This tracking motion glides alongside the individual as they walk along the forest path. As the camera moves, sunlight interacts dynamically with the environment, causing momentary bursts of light—dappled sunlight—to illuminate the texture of the figure's velvet cloak. The focus remains absolutely locked on the walker, whose gaze maintains its sharp, forward direction.",
+    "audio_desc": "[Sound Effect] <Red's> leather boots making soft but deliberate contact with the damp leaves on the path. [Music Score] The strings transition abruptly from sparse to tense, RISING STRINGS signaling forward momentum."
+}

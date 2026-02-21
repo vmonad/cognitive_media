@@ -1,0 +1,19 @@
+{
+    "idx": 2,
+    "is_last": false,
+    "cam_idx": 2,
+    "visual_desc": "MEDIUM SHOT. Camera positioned slightly lower than eye-level, focused on <Queen Lyara> as she turns her body fully toward <Elara>, who is just entering the frame from the right. <Queen Lyara>'s face shows deep lines of stress and suppressed pain etched around her amber eyes, illuminated by the warm, shifting forest light. Her peasant dress appears rough wool against the velvet green moss in the background (shallow DOF, creamy bokeh). <Queen Lyara> speaks, her posture rigid: \"Your name is not Elara the farmer's daughter. Your name is Elara, firstborn of King Edran, heir to the Seven Kingdoms. Your father was murdered. Your brother was taken. And the woman who sits on your father's throne... she is not a queen. She is a witch who has waited eighteen years to sacrifice your brother's blood for power that will make her immortal.\". <Elara> is partially visible on the far right, hands clenching her rough skirt.",
+    "variation_type": "medium",
+    "variation_reason": "A second character enters the frame and the primary character completes a full speech, resulting in a significant visual shift and the introduction of a new focal point (the entering figure) to the established composition, classifying it as a medium variation.",
+    "ff_desc": "A photorealistic medieval fantasy medium shot, slightly lower than eye-level, focused on the figure wearing dark, practical peasant garb, who has olive skin and amber eyes. The figure's posture is rigid, their face displaying deep lines of stress and suppressed pain around the eyes, illuminated by warm, shifting forest light. The rough wool of the garment contrasts with the velvet green moss in the background, which is rendered with a shallow depth of field and creamy anamorphic bokeh. The figure's lips are closed, their expression set.",
+    "ff_vis_char_idxs": [
+        1
+    ],
+    "lf_desc": "A photorealistic medieval fantasy medium shot, slightly lower than eye-level, focused on the figure wearing dark, practical peasant garb, who has olive skin and amber eyes. The figure's posture remains relatively rigid, their face showing deep lines of stress and suppressed pain around the eyes, illuminated by warm, shifting forest light. The figure is now facing directly toward a second figure entering from the right. The second figure, wearing a simple rough-spun peasant dress in earthy brown, stands partially visible on the far right, their hands clenching their rough skirt. The background remains a velvet green mossy area with creamy anamorphic bokeh.",
+    "lf_vis_char_idxs": [
+        1,
+        6
+    ],
+    "motion_desc": "The camera remains static in a medium shot position. The figure in the dark, practical peasant garb (Queen Lyara) begins to speak in a voice that, given the context of suppressed pain, might be strained and low. Simultaneously, the young woman wearing the simple rough-spun peasant dress (Elara (Young Woman)) slowly enters the frame from the right edge, her body angled slightly away from the camera, her hands visibly clenching the fabric of her rough skirt throughout the duration of the speech. The lighting subtly shifts, mimicking the warm, moving quality of forest light filtering through trees (soft dappled lighting effect).",
+    "audio_desc": "[Speaker] Queen Lyara (Voice steady but laced with suppressed pain): Your name is not Elara the farmer's daughter. Your name is Elara, firstborn of King Edran, heir to the Seven Kingdoms. Your father was murdered. Your brother was taken. And the woman who sits on your father's throne... she is not a queen. She is a witch who has waited eighteen years to sacrifice your brother's blood for power that will make her immortal. [Score] Aching, building string motif begins to rise."
+}

@@ -1,0 +1,14 @@
+{
+    "idx": 0,
+    "is_last": false,
+    "cam_idx": 0,
+    "visual_desc": "A WIDE, AERIAL SHOT looking down onto the setting. The NEO-TOKYO cityscape is slick with rain under a deep night sky. Thousands of IMMERSION PODS surround a central SPIRE, illuminated by pulsing NEON BLUE light from the colossal DOME. Glowing FIBER OPTIC CABLES connect the pods to the spire. The scene establishes a high-tech, densely populated, futuristic environment.",
+    "variation_type": "small",
+    "variation_reason": "The shot is static and the primary visual elements (cityscape, pods, spire) remain constant. The only variation is the momentary appearance and disappearance of a single, non-human element (the drone) as a data phantom, which constitutes a minor transient event within the fixed composition.",
+    "ff_desc": "A WIDE, AERIAL SHOT looking down onto the NEO-TOKYO cityscape at night. The ground is slick with rain. Thousands of IMMERSION PODS are arranged around a central SPIRE, which is bathed in pulsing NEON BLUE light emanating from a colossal DOME overhead. Glowing FIBER OPTIC CABLES visibly connect the pods to the spire. The composition emphasizes the scale and density of the high-tech environment.",
+    "ff_vis_char_idxs": [],
+    "lf_desc": "A WIDE, AERIAL SHOT looking down onto the NEO-TOKYO cityscape at night. The ground is slick with rain. Thousands of IMMERSION PODS surround a central SPIRE, illuminated by pulsing NEON BLUE light from the colossal DOME. Glowing FIBER OPTIC CABLES connect the pods to the spire. The general composition and environment remain unchanged from the start, establishing the high-tech setting.",
+    "lf_vis_char_idxs": [],
+    "motion_desc": "The camera maintains a static aerial perspective throughout the shot. No visible movement occurs from the WOMAN IN SCREENING ATTIRE connected to a cranial interface, nor from the ANDROGYNOUS FIGURE embodying pure digital structure. However, momentarily, a UNIT SIX SEVEN drone (which resembles a covert defender drone built for AI infrastructure protection) appears as a corrupted data packet phantom before dissolving back into code, causing a fleeting visual glitch in the environment.",
+    "audio_desc": "[Sound Effect] Low, pervasive sub-bass electronic THUMPING, characteristic of a massive electronic venue."
+}
