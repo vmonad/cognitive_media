@@ -18,7 +18,8 @@
 
 ### Blood of the Crown — The Seven Kingdoms (Pilot)
 
-https://github.com/vmonad/cognitive_media/raw/main/7kingdoms_pilot/preview.mp4
+
+
 
 King Edran is betrayed and murdered in a coup by the sorceress Morgath. His queen flees with their newborn daughter while Morgath keeps the infant prince alive for a dark ritual — eighteen years later, the exiled princess discovers who she truly is.
 
@@ -48,7 +49,7 @@ In the late 2030s, a terrorist attack during an immersive neural cinema premiere
 
 ### The Seven Shattered Crowns
 
-https://github.com/vmonad/cognitive_media/raw/main/7kingdoms/preview.mp4
+https://github.com/user-attachments/assets/f4588398-f10a-4b21-8a18-be80641b5447
 
 The generation-long peace uniting seven kingdoms shatters with the poisoning of King Aldric, unleashing a prophecy of fire. Three ruthless contenders — a calculating queen, a strategic prince, and a wild northern warlord — plunge the continent into war.
 
